@@ -1,0 +1,17 @@
+# Table of contents
+
+* [Introduction to CERRIX](README.md)
+* [Getting started](getting-started.md)
+* [Using the dashboard](using-the-dashboard.md)
+* [Modules overview](modules-overview/README.md)
+  * [Risks](modules-overview/risks/README.md)
+    * [AI Risk Description Refinement](modules-overview/risks/ai-risk-description-refinement.md)
+  * [Controls](modules-overview/controls.md)
+  * [Control advanced effectiveness testing](modules-overview/control-advanced-effectiveness-testing.md)
+  * [Incidents](modules-overview/incidents.md)
+  * [Measures of Improvement (MoIs)](modules-overview/measures-of-improvement-mois/README.md)
+    * [Working with MoIs (Measures of Improvement)](modules-overview/measures-of-improvement-mois/working-with-mois-measures-of-improvement.md)
+  * [Finding reports](modules-overview/finding-reports.md)
+* [Budget-based risk scoring](budget-based-risk-scoring.md)
+* [What's new?](whats-new.md)
+* [Product strategy and roadmap](product-strategy-and-roadmap.md)
