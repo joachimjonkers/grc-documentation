@@ -40,4 +40,4 @@ Control Effectiveness Testing ensures that controls are functioning as intended 
 
 ***
 
-For detailed workflows, see the [Controls Module Guide](controls.md).
+For detailed workflows, see the [Controls Module Guide](controls/).

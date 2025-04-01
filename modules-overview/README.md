@@ -28,8 +28,8 @@ Controls are preventive measures designed to mitigate identified risks. This mod
 
 Learn more about the Controls module.
 
-{% content-ref url="controls.md" %}
-[controls.md](controls.md)
+{% content-ref url="controls/" %}
+[controls](controls/)
 {% endcontent-ref %}
 
 ***

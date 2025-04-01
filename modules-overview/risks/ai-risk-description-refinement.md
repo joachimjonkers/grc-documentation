@@ -27,6 +27,10 @@ This feature allows users to refine risk descriptions by providing AI-generated 
 * Click the Refine with AI button.
 * The AI will analyze the input and generate five different suggestions that align with best practices.
 
+{% hint style="info" %}
+Generating all suggestions using AI can take a few seconds.
+{% endhint %}
+
 <figure><img src="../../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
 
 #### 4. Select and Apply a Suggested Description
@@ -40,13 +44,6 @@ This feature allows users to refine risk descriptions by providing AI-generated 
 * Ensure the refined description accurately captures the risk.
 * Fill in any other required fields to save the risk.
 * Click Save risk to finalize the risk entry.
-
-## Best Practices for Writing Risk Descriptions
-
-* Be specific about the risk and its potential impact.
-* Use clear and concise language.
-* Ensure the description aligns with organizational risk policies.
-* Avoid vague statements—define the risk in measurable terms.
 
 ## Benefits of Using AI-Powered Risk Descriptions
 
