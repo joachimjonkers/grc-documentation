@@ -22,4 +22,4 @@
 
 ## Best Practices & Insights
 
-* [Control Execution, Design & Implementation & Effectiveness Testing: What's the Difference?](best-practices-and-insights/control-execution-design-and-implementation-and-effectiveness-testing-whats-the-difference.md)
+* [Control Design & Implementation, Execution & Effectiveness Testing: What's the Difference?](best-practices-and-insights/control-design-and-implementation-execution-and-effectiveness-testing-whats-the-difference.md)

@@ -1,24 +1,8 @@
-# Control Execution, Design & Implementation & Effectiveness Testing: What's the Difference?
+# Control Design & Implementation, Execution & Effectiveness Testing: What's the Difference?
 
 In the CERRIX platform, controls are a central component of your governance, risk, and compliance framework. Understanding the different types of control activities and testing phases is essential for effective risk mitigation and assurance.
 
-This article explains the differences between **Control Execution**, **Control Design & Implementation Testing**, and **Control Effectiveness Testing**.
-
-***
-
-## Control Execution
-
-**Definition**:\
-Control execution refers to the **actual performance** of a control activity by the responsible party or system, according to its defined frequency and procedure.
-
-**Purpose**:\
-Ensure that the control is carried out as designed, on time, and by the appropriate stakeholder.
-
-**Example**:\
-A weekly review of user access logs performed by an IT administrator.
-
-**In CERRIX**:\
-Control execution is logged through the **Control Monitoring** module. Control owners receive automated tasks or notifications to perform and evidence control activities.
+This article explains the differences between **Control Design & Implementation Testing**, **Control Execution**, and **Control Effectiveness Testing**.
 
 ***
 
@@ -35,6 +19,22 @@ Reviewing if a purchase approval workflow enforces segregation of duties between
 
 **In CERRIX**:\
 Documented in the **Control Library** or during **Control Assessment** workflows, often by second or third line teams (Compliance, Audit). Testing results are stored and linked to the control for transparency and auditability.
+
+***
+
+## Control Execution
+
+**Definition**:\
+Control execution refers to the **actual performance** of a control activity by the responsible party or system, according to its defined frequency and procedure.
+
+**Purpose**:\
+Ensure that the control is carried out as designed, on time, and by the appropriate stakeholder.
+
+**Example**:\
+A weekly review of user access logs performed by an IT administrator.
+
+**In CERRIX**:\
+Control execution is logged through the **Control Monitoring** module. Control owners receive automated tasks or notifications to perform and evidence control activities.
 
 ***
 
@@ -64,8 +64,8 @@ Learn more about Control Advanced Effectiveness Testing here:
 
 | Activity                            | Focus Area              | Key Question                                              | Typical Role          |
 | ----------------------------------- | ----------------------- | --------------------------------------------------------- | --------------------- |
-| **Control Execution**               | Operational Delivery    | _Was the control performed as required?_                  | Control Owner         |
 | **Design & Implementation Testing** | Setup & Appropriateness | _Is the control well-designed and implemented correctly?_ | Risk/Compliance/Audit |
+| **Control Execution**               | Operational Delivery    | _Was the control performed as required?_                  | Control Owner         |
 | **Effectiveness Testing**           | Performance Assurance   | _Is the control working reliably over time?_              | Compliance/Audit      |
 
 ***
