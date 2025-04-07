@@ -24,8 +24,8 @@ A new way of scoring risks has been made available. Budget-based risk scoring is
 
 This feature is still experimental. If you are interested, please submit a ticket in the Customer Portal.
 
-{% content-ref url="budget-based-risk-scoring.md" %}
-[budget-based-risk-scoring.md](budget-based-risk-scoring.md)
+{% content-ref url="cerrix-functionalities/budget-based-risk-scoring.md" %}
+[budget-based-risk-scoring.md](cerrix-functionalities/budget-based-risk-scoring.md)
 {% endcontent-ref %}
 
 ### February 2025

@@ -2,23 +2,23 @@
 
 * [Introduction to CERRIX](README.md)
 * [Product strategy and roadmap](product-strategy-and-roadmap.md)
+* [What's new?](whats-new.md)
 
-## CERRIX Modules
+## CERRIX Functionalities
 
-* [Getting started](cerrix-modules/getting-started.md)
-* [Using the dashboard](cerrix-modules/using-the-dashboard.md)
-* [Modules overview](cerrix-modules/modules-overview/README.md)
-  * [Risks](cerrix-modules/modules-overview/risks/README.md)
-    * [AI Risk Description Refinement](cerrix-modules/modules-overview/risks/ai-risk-description-refinement.md)
-  * [Controls](cerrix-modules/modules-overview/controls/README.md)
-    * [AI Control Description Refinement](cerrix-modules/modules-overview/controls/ai-control-description-refinement.md)
-  * [Control advanced effectiveness testing](cerrix-modules/modules-overview/control-advanced-effectiveness-testing.md)
-  * [Incidents](cerrix-modules/modules-overview/incidents.md)
-  * [Measures of Improvement (MoIs)](cerrix-modules/modules-overview/measures-of-improvement-mois/README.md)
-    * [Working with MoIs (Measures of Improvement)](cerrix-modules/modules-overview/measures-of-improvement-mois/working-with-mois-measures-of-improvement.md)
-  * [Finding reports](cerrix-modules/modules-overview/finding-reports.md)
-* [Budget-based risk scoring](cerrix-modules/budget-based-risk-scoring.md)
-* [What's new?](cerrix-modules/whats-new.md)
+* [Getting started](cerrix-functionalities/getting-started.md)
+* [Using the dashboard](cerrix-functionalities/using-the-dashboard.md)
+* [Modules overview](cerrix-functionalities/modules-overview/README.md)
+  * [Risks](cerrix-functionalities/modules-overview/risks/README.md)
+    * [AI Risk Description Refinement](cerrix-functionalities/modules-overview/risks/ai-risk-description-refinement.md)
+  * [Controls](cerrix-functionalities/modules-overview/controls/README.md)
+    * [AI Control Description Refinement](cerrix-functionalities/modules-overview/controls/ai-control-description-refinement.md)
+  * [Control advanced effectiveness testing](cerrix-functionalities/modules-overview/control-advanced-effectiveness-testing.md)
+  * [Incidents](cerrix-functionalities/modules-overview/incidents.md)
+  * [Measures of Improvement (MoIs)](cerrix-functionalities/modules-overview/measures-of-improvement-mois/README.md)
+    * [Working with MoIs (Measures of Improvement)](cerrix-functionalities/modules-overview/measures-of-improvement-mois/working-with-mois-measures-of-improvement.md)
+  * [Finding reports](cerrix-functionalities/modules-overview/finding-reports.md)
+* [Budget-based risk scoring](cerrix-functionalities/budget-based-risk-scoring.md)
 
 ## Best Practices & Insights
 
