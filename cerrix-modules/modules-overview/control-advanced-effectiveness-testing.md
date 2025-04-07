@@ -1,6 +1,6 @@
 # Control advanced effectiveness testing
 
-<figure><img src="../.gitbook/assets/control_testing_page_screenshot_3.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/control_testing_page_screenshot_3.jpg" alt=""><figcaption></figcaption></figure>
 
 Control Effectiveness Testing ensures that controls are functioning as intended to mitigate risks. This process involves multiple steps to validate design and operational effectiveness.
 
@@ -22,7 +22,7 @@ Control Effectiveness Testing ensures that controls are functioning as intended 
 
 #### Step 3: Uploading Evidence
 
-<figure><img src="../.gitbook/assets/upload_evidence_page_screenshot_2.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/upload_evidence_page_screenshot_2.jpg" alt=""><figcaption></figcaption></figure>
 
 * Upload evidence for each sample.
 * Mark samples without evidence and provide a reason in the comments.

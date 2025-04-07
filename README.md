@@ -18,4 +18,4 @@ CERRIX is a cloud-based platform that centralizes and streamlines compliance, ri
 
 ***
 
-Ready to get started? Proceed to the [Getting started](getting-started.md) page for instructions on logging in and navigating the dashboard.
+Ready to get started? Proceed to the [Getting started](cerrix-modules/getting-started.md) page for instructions on logging in and navigating the dashboard.

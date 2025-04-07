@@ -20,7 +20,7 @@ This feature allows users to refine control descriptions by providing AI-generat
 * Type a brief description of the control in the provided field.
 * Example: "Installing fire extinguishers to prevent our office from burning down."
 
-<figure><img src="../../.gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
 
 #### Use AI to Refine the Description
 
@@ -31,7 +31,7 @@ This feature allows users to refine control descriptions by providing AI-generat
 Generating all suggestions using AI can take a few seconds.
 {% endhint %}
 
-<figure><img src="../../.gitbook/assets/image (12).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (12).png" alt=""><figcaption></figcaption></figure>
 
 #### Select and Apply a Suggested Description
 

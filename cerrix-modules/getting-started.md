@@ -4,7 +4,7 @@ Welcome to CERRIX! Follow this guide to log in and familiarize yourself with the
 
 ### Logging In
 
-<figure><img src=".gitbook/assets/logging_in_page_screenshot_2 (1).jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/logging_in_page_screenshot_2 (1).jpg" alt=""><figcaption></figcaption></figure>
 
 To access your personal CERRIX account:
 
