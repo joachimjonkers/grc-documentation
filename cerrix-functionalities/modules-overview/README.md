@@ -1,4 +1,4 @@
-# Modules overview
+# Modules Overview
 
 CERRIX provides a range of modules designed to support governance, risk, and compliance processes. These modules help organizations streamline workflows and ensure compliance with policies and regulations.
 
@@ -73,8 +73,8 @@ This module allows you to generate reports and insights using integrated PowerBI
 
 Learn more about the Finding Reports module.
 
-{% content-ref url="finding-reports.md" %}
-[finding-reports.md](finding-reports.md)
+{% content-ref url="findings-report.md" %}
+[findings-report.md](findings-report.md)
 {% endcontent-ref %}
 
 ***

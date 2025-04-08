@@ -1,4 +1,4 @@
-# Product strategy and roadmap
+# Product Strategy and Roadmap
 
 ## Product Strategy
 
@@ -39,4 +39,4 @@ The product roadmap represents our current plan. It is subject to frequent and s
 Last update: March 2025
 {% endhint %}
 
-<figure><img src=".gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
