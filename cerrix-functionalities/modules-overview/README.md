@@ -43,8 +43,8 @@ Track and manage reported incidents to prevent recurrence. Key features include:
 
 Learn more about the Incidents module.
 
-{% content-ref url="incidents.md" %}
-[incidents.md](incidents.md)
+{% content-ref url="incidents/" %}
+[incidents](incidents/)
 {% endcontent-ref %}
 
 ***
