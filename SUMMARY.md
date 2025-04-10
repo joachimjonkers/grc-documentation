@@ -12,7 +12,7 @@
   * [Controls](cerrix-functionalities/modules-overview/controls/README.md)
     * [AI Control Description Refinement](cerrix-functionalities/modules-overview/controls/ai-control-description-refinement.md)
   * [Control Advanced Effectiveness Testing](cerrix-functionalities/modules-overview/control-advanced-effectiveness-testing.md)
-  * [Incidents](cerrix-functionalities/modules-overview/incidents/README.md)
+  * [Incidents](cerrix-functionalities/modules-overview/incidents.md)
     * [Creating a New Incident](cerrix-functionalities/modules-overview/incidents/creating-a-new-incident.md)
     * [Assessing an Incident](cerrix-functionalities/modules-overview/incidents/assessing-an-incident.md)
     * [Reviewing an Incident](cerrix-functionalities/modules-overview/incidents/reviewing-an-incident.md)
@@ -25,6 +25,7 @@
 ## Best Practices & Insights
 
 * [Control Design & Implementation, Execution & Effectiveness Testing: What's the Difference?](best-practices-and-insights/control-design-and-implementation-execution-and-effectiveness-testing-whats-the-difference.md)
+* [CERRIX AI FAQ](best-practices-and-insights/cerrix-ai-faq.md)
 
 ## About CERRIX
 
