@@ -87,17 +87,12 @@ Additional configuration dimensions include:
 At the **Review** stage, the incident has the status **Ready for Review**:
 
 1. Review all linked data, documents, and details carefully.
-2. When satisfied, click **Approve & close**, or click **Reject**:
-   * The incident workflow finishes, and the incident moves to a **read-only** state.
-   * The workflow view clearly indicates that the incident is completed and can no longer be edited.
-
-***
-
-### **Final Decision: Approve or Reject**
-
-* From the **"Ready to Review"** status:
-  * **Approve and Close** to complete the incident lifecycle.
-  * Once closed, the incident gets the status **Completed** and becomes **read-only**.
+2. Next, there are two options:
+   1. **Approve & close**, or click&#x20;
+      * The incident workflow finishes, and the incident moves to a **read-only** state.
+      * The workflow view clearly indicates that the incident is completed and can no longer be edited unless it's reopened.
+   2. **Reject**
+      1. The incident workflow goes back to [#assessing-and-evaluating-an-incident](incidents-workflow.md#assessing-and-evaluating-an-incident "mention")
 
 ***
 
