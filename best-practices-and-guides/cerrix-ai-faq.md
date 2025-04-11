@@ -22,6 +22,8 @@ Using AI incurs costs for CERRIX, so we reserve the right to restrict usage for 
 
 You can read more on this link: [https://learn.microsoft.com/en-us/legal/cognitive-services/openai/data-privacy](https://learn.microsoft.com/en-us/legal/cognitive-services/openai/data-privacy)
 
+***
+
 ## AI Risk & Control Refinement FAQ
 
 ### How does the AI work for risk & control description refinement?
