@@ -46,12 +46,13 @@ To create a new incident type:
 
 <figure><img src="../../../.gitbook/assets/image (16).png" alt=""><figcaption></figcaption></figure>
 
-#### Adding Custom Fields
+### Adding Custom Fields
 
 You can add custom fields to any new incident type:
 
 1. **Create Sections** to logically group custom fields:
    * Name and rearrange sections easily.
+   * Remove fields and sections as needed.
 2. **Add Fields** within sections:
    * Fields can be configured by:
      * Field Type: Text field, Text area, Date, Date-Time, Number, Checkbox, Dropdown single select, Dropdown multi select, Financial impact.
@@ -60,6 +61,7 @@ You can add custom fields to any new incident type:
      * Instruction guide text (optional)
      * Visibility status (visible/hidden)
      * Required status (mandatory/optional)
+   * Adjust whether fields are required or optional.
 
 **Examples of Adding Custom Fields:**
 
@@ -69,16 +71,7 @@ You can add custom fields to any new incident type:
 
 <figure><img src="../../../.gitbook/assets/image (18).png" alt=""><figcaption></figcaption></figure>
 
-#### Editing Incident Types
-
-After creation, you can:
-
-* Rearrange fields and sections.
-* Rename fields and sections.
-* Adjust whether fields are required or optional.
-* Remove fields and sections as needed.
-
-#### Configuring Email Notifications
+### Configuring Email Notifications
 
 Incident types can trigger notifications to specific recipients upon creation.
 

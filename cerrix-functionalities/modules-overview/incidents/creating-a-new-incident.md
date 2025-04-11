@@ -10,7 +10,7 @@ You can create a new incident in one of two ways:
 
 * **From the Incidents Dashboard page:**
   * Navigate to **Incidents**.
-  * Click the button labeled **"New Incident"**.
+  * Click the button labeled **"Add New Incident"**.
 * **From a Form:**
   * Configure a Form to create new Incidents
 
