@@ -6,10 +6,6 @@ The **Incidents** module in CERRIX helps organizations track, manage, and resolv
 Use this overview to navigate to detailed guides on each component of the Incidents module.
 {% endhint %}
 
-***
-
-## Module Overview
-
 The Incidents module is designed to help users:
 
 * Capture and report new incidents in a standardized way
@@ -17,13 +13,9 @@ The Incidents module is designed to help users:
 * Apply organization-specific workflows for processing incidents
 * Maintain accurate and consistent reference data for categorizing and analyzing incidents
 
-***
-
-## Related Articles
-
 Below are the key documentation articles that explain each component of the Incidents module:
 
-### Incidents Standing Data
+## Incidents Standing Data
 
 Review the reference data that underpins incident classification and reporting.
 
@@ -40,7 +32,7 @@ Review the reference data that underpins incident classification and reporting.
 
 ***
 
-### Creating a New Incident
+## Creating a New Incident
 
 Learn how to create a new incident from scratch, including required fields, categories, and options for assigning responsibilities.
 
@@ -57,7 +49,7 @@ Learn how to create a new incident from scratch, including required fields, cate
 
 ***
 
-### Incidents Workflow
+## Incidents Workflow
 
 Understand how incident workflows are configured and how incidents progress through stages in your organization.
 
@@ -74,7 +66,7 @@ Understand how incident workflows are configured and how incidents progress thro
 
 ***
 
-### Incidents Workspace
+## Incidents Workspace
 
 Explore the centralized workspace where you can view, filter, and manage all existing incidents.
 
@@ -89,7 +81,7 @@ Explore the centralized workspace where you can view, filter, and manage all exi
 [incidents-workspace.md](incidents/incidents-workspace.md)
 {% endcontent-ref %}
 
-### Best Practices and Tips
+## Best Practices and Tips
 
 To make the most of the Incidents module, consider the following best practices and tips:
 
