@@ -1,4 +1,4 @@
-# Modules Overview
+# Module Overview
 
 CERRIX provides a range of modules designed to support governance, risk, and compliance processes. These modules help organizations streamline workflows and ensure compliance with policies and regulations.
 
@@ -43,8 +43,8 @@ Track and manage reported incidents to prevent recurrence. Key features include:
 
 Learn more about the Incidents module.
 
-{% content-ref url="incidents.md" %}
-[incidents.md](incidents.md)
+{% content-ref url="incidents/" %}
+[incidents](incidents/)
 {% endcontent-ref %}
 
 ***

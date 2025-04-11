@@ -1,4 +1,4 @@
-# Getting started
+# Getting Started
 
 Welcome to CERRIX! Follow this guide to log in and familiarize yourself with the platform's interface.
 
@@ -41,4 +41,4 @@ Your dashboard is fully customizable:
 
 ***
 
-Next, learn about the core modules of CERRIX on the [Modules Overview](modules-overview/) page.
+Next, learn about the core modules of CERRIX on the [Modules Overview](module-overview/) page.

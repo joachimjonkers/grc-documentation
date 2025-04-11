@@ -54,8 +54,8 @@ Performed through the **Control Advanced Effectiveness Testing** feature, allowi
 
 Learn more about Control Advanced Effectiveness Testing here:
 
-{% content-ref url="../cerrix-functionalities/modules-overview/control-advanced-effectiveness-testing.md" %}
-[control-advanced-effectiveness-testing.md](../cerrix-functionalities/modules-overview/control-advanced-effectiveness-testing.md)
+{% content-ref url="../cerrix-functionalities/module-overview/control-advanced-effectiveness-testing.md" %}
+[control-advanced-effectiveness-testing.md](../cerrix-functionalities/module-overview/control-advanced-effectiveness-testing.md)
 {% endcontent-ref %}
 
 ***

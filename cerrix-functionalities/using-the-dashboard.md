@@ -1,4 +1,4 @@
-# Using the dashboard
+# Using the Dashboard
 
 The Dashboard in CERRIX serves as your centralized hub for accessing key features, modules, and tasks. Fully customizable, it allows users to create a workspace tailored to their needs.
 
@@ -47,4 +47,4 @@ The Dashboard in CERRIX serves as your centralized hub for accessing key feature
 
 ***
 
-For further assistance, refer to the [Getting Started](getting-started.md) guide or explore other modules in the [Modules Overview](modules-overview/).
+For further assistance, refer to the [Getting Started](getting-started.md) guide or explore other modules in the [Modules Overview](module-overview/).
