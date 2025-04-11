@@ -107,12 +107,12 @@ The incident page includes an interactive **Chat and History Pane** accessible f
 
 ***
 
-## Workflow Notifications
+## Incidents Workflow Emails Notifications
 
-Notifications automatically alert relevant users when the incident advances through workflow stages:
+Email messages automatically alert relevant users when the incident advances through workflow stages:
 
-* Notification behaviors in the **Incidents** module mirror those in the existing **Events** module used within your CERRIX environment.
-* In your production environment, relevant stakeholders will receive notifications upon workflow status changes (e.g., confirmation, review readiness, approval).
-* In this demonstration environment, notifications are inactive, but in production, known standard processes apply.
+* Email behaviors in the **Incidents** module mirror those in the existing **Events** module used within your CERRIX environment.
+* In your production environment, relevant stakeholders will receive emails upon workflow status changes (e.g., confirmation, review readiness, approval).
+* In this demonstration environment, emails are inactive, but in production, known standard processes apply.
 
 > **Note:** If your existing CERRIX configuration refers to these as "Events," you might consider standardizing your terminology to "Incidents" for clarity, though this naming choice remains flexible.
