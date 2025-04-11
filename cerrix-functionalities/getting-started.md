@@ -41,4 +41,4 @@ Your dashboard is fully customizable:
 
 ***
 
-Next, learn about the core modules of CERRIX on the [Modules Overview](module-overview/) page.
+Next, learn about the core modules of CERRIX on the [Modules Overview](modules-overview/) page.

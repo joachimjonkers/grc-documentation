@@ -1,4 +1,4 @@
-# Control advanced effectiveness testing
+# Control Advanced Effectiveness Testing
 
 <figure><img src="../../.gitbook/assets/control_testing_page_screenshot_3.jpg" alt=""><figcaption></figcaption></figure>
 

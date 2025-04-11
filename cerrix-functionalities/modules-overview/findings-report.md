@@ -1,4 +1,4 @@
-# Finding reports
+# Findings Report
 
 The Finding Reports module in CERRIX enables users to generate actionable insights and reports based on organizational data. With integrated PowerBI tools, this module helps stakeholders make informed decisions.
 

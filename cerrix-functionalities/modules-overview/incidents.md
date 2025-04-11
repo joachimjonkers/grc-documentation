@@ -2,7 +2,9 @@
 
 The **Incidents** module in CERRIX helps organizations track, manage, and resolve risk-related incidents in a structured and auditable manner. This module supports the full lifecycle of incident management, from initial reporting to final resolution, with integrated workflows, data governance, and transparency across all stakeholders.
 
-> 📌 Use this overview to navigate to detailed guides on each component of the Incidents module.
+{% hint style="info" %}
+Use this overview to navigate to detailed guides on each component of the Incidents module.
+{% endhint %}
 
 ***
 
@@ -32,8 +34,8 @@ Review the reference data that underpins incident classification and reporting.
   * Standing data configuration
   * Example dropdowns using standing data
 
-{% content-ref url="incidents-standing-data.md" %}
-[incidents-standing-data.md](incidents-standing-data.md)
+{% content-ref url="incidents/incidents-standing-data.md" %}
+[incidents-standing-data.md](incidents/incidents-standing-data.md)
 {% endcontent-ref %}
 
 ***
@@ -49,8 +51,8 @@ Learn how to create a new incident from scratch, including required fields, cate
   * Incident creation form
   * Example of a completed incident entry
 
-{% content-ref url="creating-a-new-incident.md" %}
-[creating-a-new-incident.md](creating-a-new-incident.md)
+{% content-ref url="incidents/creating-a-new-incident.md" %}
+[creating-a-new-incident.md](incidents/creating-a-new-incident.md)
 {% endcontent-ref %}
 
 ***
@@ -66,8 +68,8 @@ Understand how incident workflows are configured and how incidents progress thro
   * Workflow stage diagram
   * Example of an incident in-progress
 
-{% content-ref url="incidents-workflow.md" %}
-[incidents-workflow.md](incidents-workflow.md)
+{% content-ref url="incidents/incidents-workflow.md" %}
+[incidents-workflow.md](incidents/incidents-workflow.md)
 {% endcontent-ref %}
 
 ***
@@ -83,8 +85,8 @@ Explore the centralized workspace where you can view, filter, and manage all exi
   * Incidents workspace grid
   * Filtering panel
 
-{% content-ref url="incidents-workspace.md" %}
-[incidents-workspace.md](incidents-workspace.md)
+{% content-ref url="incidents/incidents-workspace.md" %}
+[incidents-workspace.md](incidents/incidents-workspace.md)
 {% endcontent-ref %}
 
 ### Best Practices and Tips

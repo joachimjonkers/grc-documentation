@@ -32,4 +32,4 @@ Measures of Improvement (MOIs) play a crucial role in mitigating recurring issue
 
 ***
 
-For further guidance, refer to the [MOIs Module Guide](./) or explore related topics in [Incidents](../incidents/).
+For further guidance, refer to the [MOIs Module Guide](./) or explore related topics in [Incidents](../incidents.md).
