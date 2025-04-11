@@ -39,7 +39,7 @@ After an incident has been reported:
 1. To continue with processing, select either:
    * **Accept incident** to move forward.
    * **Reject incident** if it's invalid or incorrect.
-   * Leave a comment
+   * Leave a comment (required). This comment will be visible in the [#chat-and-incident-history](incidents-workflow.md#chat-and-incident-history "mention")
 2. Click **Confirm**.
    * The **"Assessing"** workflow status at the top of the page changes to **green**, indicating the incident is officially confirmed.
    * The incident now moves to the **Improving** stage.
