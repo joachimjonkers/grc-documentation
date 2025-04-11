@@ -68,7 +68,7 @@ Additional configuration dimensions include:
 * **Business Dimensions** Allow associating incidents with particular business dimensions defined in your system.
 * **Framework Dimensions** Facilitate linking incidents to your organization's compliance and internal control frameworks.
 
-<figure><img src="../../../.gitbook/assets/image (33).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (36).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
