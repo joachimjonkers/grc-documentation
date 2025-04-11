@@ -92,7 +92,7 @@ At the **Review** stage, the incident has the status **Ready for Review**:
       * The incident workflow finishes, and the incident moves to a **read-only** state.
       * The workflow view clearly indicates that the incident is completed and can no longer be edited unless it's reopened.
    2. **Reject**
-      1. The incident workflow goes back to [#assessing-and-evaluating-an-incident](incidents-workflow.md#assessing-and-evaluating-an-incident "mention")
+      1. The incident workflow goes back to the Improving stage
 
 ***
 
