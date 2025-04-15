@@ -100,3 +100,28 @@ These built-in incident types:
 
 > **Important:** Custom fields cannot yet be added to standard types (e.g., Data Breach). However, this enhancement will be available in future updates.
 
+### DORA Incident Types
+
+As part of CERRIX’s support for the Digital Operational Resilience Act (DORA), a standardized set of DORA-specific incident types is now available. These incident types are aligned with the reporting obligations under DORA and are designed to help organizations track and report major ICT-related incidents effectively.
+
+#### Overview
+
+The DORA incident types are provided as a predefined template in the system. These are separate from your custom incident types and follow the structure required for DORA-compliant reporting.
+
+#### Available in the Following Report Types
+
+The DORA incident fields and structure are embedded in three predefined report types:
+
+* DORA Initial Report
+* DORA Intermediate Report
+* DORA Final Report
+
+These templates ensure that incident reporting aligns with regulatory expectations throughout the incident lifecycle.
+
+#### Key Features
+
+* Standardized Structure: Includes all fields required for DORA reporting (e.g., incident classification, root cause, impact, response timeline).
+* Pre-filled Field Labels: Uses terminology aligned with regulatory guidelines to ensure consistency.
+* Integration Ready: Templates are structured for easy integration with external DORA reporting systems.
+
+<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
