@@ -18,9 +18,11 @@
     * [Incidents Workflow](cerrix-functionalities/modules-overview/incidents/incidents-workflow.md)
     * [Incidents Workspace](cerrix-functionalities/modules-overview/incidents/incidents-workspace.md)
     * [Incidents Roles & Rights](cerrix-functionalities/module-overview/incidents/incidents-roles-and-rights.md)
-  * [Measures of Improvement (MoIs)](cerrix-functionalities/modules-overview/measures-of-improvement-mois/README.md)
-    * [Working with MoIs (Measures of Improvement)](cerrix-functionalities/modules-overview/measures-of-improvement-mois/working-with-mois-measures-of-improvement.md)
-  * [Findings Report](cerrix-functionalities/modules-overview/findings-report.md)
+  * [Business Improvement Management](cerrix-functionalities/module-overview/business-improvement-management/README.md)
+    * [Measures of Improvement (MoIs)](cerrix-functionalities/module-overview/business-improvement-management/measures-of-improvement-mois/README.md)
+      * [Working with MoIs (Measures of Improvement)](cerrix-functionalities/module-overview/business-improvement-management/measures-of-improvement-mois/working-with-mois-measures-of-improvement.md)
+    * [Findings Report](cerrix-functionalities/module-overview/business-improvement-management/findings-report.md)
+* [Data Management](cerrix-functionalities/data-management.md)
 * [Budget-based Risk Scoring](cerrix-functionalities/budget-based-risk-scoring.md)
 
 ## Best Practices & Guides

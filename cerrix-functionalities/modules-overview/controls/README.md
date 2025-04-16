@@ -48,4 +48,8 @@ The Controls module helps organizations implement preventive measures to mitigat
 
 ***
 
-Explore other modules like [Risks](../risks/) or [Incidents](../incidents.md) for a holistic GRC approach.
+{% hint style="info" %}
+While we work on creating content for this documentation, more information can be found in the document below.
+{% endhint %}
+
+{% file src="../../../.gitbook/assets/Controls - Work instructions.pdf" %}

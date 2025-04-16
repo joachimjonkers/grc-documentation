@@ -52,4 +52,9 @@ The Risks module in CERRIX is the foundation for identifying and managing potent
 
 ***
 
-For additional details, return to the Modules Overview or explore other modules like Controls.
+{% hint style="info" %}
+While we work on creating content for this documentation, more information can be found in the document below.
+{% endhint %}
+
+{% file src="../../../.gitbook/assets/Risk - Work instructions (3).pdf" %}
+
