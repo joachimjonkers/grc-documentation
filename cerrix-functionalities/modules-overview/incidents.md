@@ -81,6 +81,16 @@ Explore the centralized workspace where you can view, filter, and manage all exi
 [incidents-workspace.md](incidents/incidents-workspace.md)
 {% endcontent-ref %}
 
+***
+
+## Incidents Roles & Rights
+
+{% content-ref url="../module-overview/incidents/incidents-roles-and-rights.md" %}
+[incidents-roles-and-rights.md](../module-overview/incidents/incidents-roles-and-rights.md)
+{% endcontent-ref %}
+
+***
+
 ## Best Practices and Tips
 
 To make the most of the Incidents module, consider the following best practices and tips:
