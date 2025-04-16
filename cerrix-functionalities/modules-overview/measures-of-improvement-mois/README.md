@@ -50,4 +50,4 @@ The MOIs module is designed to address recurring issues or ineffective controls 
 
 ***
 
-Continue exploring the [Modules Overview](../../../modules-overview/) or move on to [Finding Reports](../findings-report.md) to learn about reporting insights.
+Continue exploring the [Modules Overview](../) or move on to [Finding Reports](../findings-report.md) to learn about reporting insights.

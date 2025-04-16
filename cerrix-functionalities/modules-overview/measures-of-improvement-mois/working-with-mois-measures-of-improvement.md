@@ -15,7 +15,7 @@ Measures of Improvement (MOIs) play a crucial role in mitigating recurring issue
 4. Assign responsibilities and deadlines.
 5. Save the MOI.
 
-<figure><img src="../../../../.gitbook/assets/creating_a_moi_page_screenshot_3 (1).jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/creating_a_moi_page_screenshot_3 (1).jpg" alt=""><figcaption></figcaption></figure>
 
 #### Executing MOIs
 
@@ -32,4 +32,4 @@ Measures of Improvement (MOIs) play a crucial role in mitigating recurring issue
 
 ***
 
-For further guidance, refer to the [MOIs Module Guide](./) or explore related topics in [Incidents](../../../modules-overview/incidents.md).
+For further guidance, refer to the [MOIs Module Guide](./) or explore related topics in [Incidents](../incidents.md).

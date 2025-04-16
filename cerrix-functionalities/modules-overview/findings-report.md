@@ -44,4 +44,4 @@ The Finding Reports module in CERRIX enables users to generate actionable insigh
 
 ***
 
-Continue exploring other modules in the [Modules Overview](../../modules-overview/) or learn more about [custom dashboards](../../using-the-dashboard.md).
+Continue exploring other modules in the [Modules Overview](./) or learn more about [custom dashboards](../using-the-dashboard.md).
