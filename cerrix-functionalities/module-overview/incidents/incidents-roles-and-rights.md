@@ -14,8 +14,9 @@ The Incidents module supports ten distinct user roles. Each role defines a set o
 
 ## Role Overview <a href="#toc530050983" id="toc530050983"></a>
 
-| Event Unrestricted Administrator | Full access to all event-related functionality and visibility across all organizations.                                      |
+| Role                             | Description                                                                                                                  |
 | -------------------------------- | ---------------------------------------------------------------------------------------------------------------------------- |
+| Event Unrestricted Administrator | Full access to all event-related functionality and visibility across all organizations.                                      |
 | Event Restricted Administrator   | Similar to the Unrestricted Administrator but limited to their own organization and without access to Standing data.         |
 | Event Assessor                   | Full editing rights for events assigned to them or created within their organization.                                        |
 | Event Responsible                | Editing rights for assigned events, except for user assignments.                                                             |
