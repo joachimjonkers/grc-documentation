@@ -2,6 +2,46 @@
 
 ## Release notes
 
+### April 2025
+
+#### **New Incidents module**
+
+We are introducing a new Incidents module which brings significant improvements over the current Events module, offering:
+
+**Greater flexibility**
+
+Easily create custom fields for each incident type, allowing full customization to match your organization’s needs.
+
+**Streamlined workflows**
+
+A single, standardized workflow for all incident types simplifies handling and tracking.
+
+**Enhanced financial impact tracking**
+
+Record financial impact per department and third party for improved reporting
+
+**New and improved fields**
+
+Includes a due date, support for Framework dimensions, and the ability to register third parties directly in incidents.
+
+**Improved collaboration**
+
+Discuss incidents directly within the incident page using built-in comments, enabling faster decision-making and follow-ups.
+
+#### **Moving from Events to Incidents**
+
+**Event Creation**
+
+Once migrated, you will no longer be able to create new Events, but existing Events will remain viewable and editable.
+
+**Form Updates**
+
+Your existing forms used for Event creation will be automatically updated to create new Incidents.
+
+**Standing Data**
+
+All standing data from Events will be seamlessly transferred to Incidents.
+
 ### March 2025
 
 #### **Third party**

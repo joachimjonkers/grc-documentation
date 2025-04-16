@@ -6,11 +6,11 @@ The Incidents module in CERRIX is built to support collaboration across multiple
 
 The Incidents module supports ten distinct user roles. Each role defines a set of permissions that grant access to specific parts of the module. Roles must be explicitly assigned to users. To provide broader access or responsibilities, users can be assigned multiple roles simultaneously.
 
+<figure><img src="../../../.gitbook/assets/image (39).png" alt=""><figcaption></figcaption></figure>
+
 <figure><img src="../../../.gitbook/assets/image (37).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../../../.gitbook/assets/image (38).png" alt=""><figcaption></figcaption></figure>
-
-<figure><img src="../../../.gitbook/assets/image (39).png" alt=""><figcaption></figcaption></figure>
 
 ## Role Overview <a href="#toc530050983" id="toc530050983"></a>
 

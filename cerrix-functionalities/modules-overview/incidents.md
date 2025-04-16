@@ -85,6 +85,8 @@ Explore the centralized workspace where you can view, filter, and manage all exi
 
 ## Incidents Roles & Rights
 
+Understand how user roles determine access and responsibilities within the Incidents module. This page outlines all available roles, their permissions, and how they support collaboration across teams during the incident lifecycle.
+
 {% content-ref url="../module-overview/incidents/incidents-roles-and-rights.md" %}
 [incidents-roles-and-rights.md](../module-overview/incidents/incidents-roles-and-rights.md)
 {% endcontent-ref %}
