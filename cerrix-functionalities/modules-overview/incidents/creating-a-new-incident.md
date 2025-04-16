@@ -22,18 +22,27 @@ You can create a new incident in one of two ways:
 
 ### Completing the Incident Form
 
-When you open a new incident form, several fields are available to capture detailed information. Certain fields are **mandatory** and must be filled out before you save the form.
+When you open a new incident form, several fields are available to capture detailed information. Certain fields are **required** and must be filled out before you save the form.
 
-#### Mandatory Fields:
+#### Incident Fields:
 
-* **Incident Name**: Provide a concise, descriptive title for easy reference.
-* **Date Detected**: Defaults to today’s date. Adjust if needed.
-* **Description**: Clearly describe the incident and essential details.
-* **Reporting Organization**: Select the organization responsible for reporting this incident.
-  * From the dropdown menu, choose your reporting organization (e.g., "Demo Organization").
-* **Reporter:** Automatically assigned to the user creating the incident.
-* **Assessor:** Select a user to assess and evaluate the incident.
-* **Responsible:** Select the person accountable for addressing the incident.
+* **Incident Name**: Provide a concise, descriptive title for easy reference. (Required)
+* **Reporter:** The user who reported the event. Automatically assigned to the user creating the incident. (Required)
+* **Assessor:** The assessor of the event. (Required)
+* **Responsible:** The user that is responsible for filling in the event details. (Required)
+* **Informed:** The user that needs to be informed about the events but does not have any responsibility within.
+* **Date Detected**: Date the event was detected. (Required)
+* **Date Occurred:** Date that the event occurred.
+* **Due Date:** Use this date to indicate when you prefer the incident investigation and resolution workflow to complete. Monitoring incident progress against the due date helps maintain timely administration and resolution.
+* **Description**: A short description of the incident and its essential details. (Required)
+* **Reporting organization**: Select the organization responsible for reporting this incident. (Required)
+* **Incident type:** The type of incident that occurred.
+* **Caused by organization:** The organization that caused the event.
+* **Affected organization:** The organization affected by the event.
+* **Root cause category:** The category of the root cause.
+* **Root cause:** A description of the root cause of the event.
+* **Impact description:** A short description of the impact that the event has.
+* **Internal identifier:** An optional ID for the event, that is editable by users. This can be used for Events that were already registered with an ID before documenting them in CERRIX.
 
 ***
 
@@ -49,14 +58,6 @@ Incident roles clarify responsibilities within your team:
 > You can select multiple users for Assessor, Responsible, and Informed roles if needed. Once selected, users can be added or removed easily at any time.
 
 <figure><img src="../../../.gitbook/assets/image (21).png" alt=""><figcaption></figcaption></figure>
-
-***
-
-### Setting a Due Date
-
-* The **Due Date** field is optional but beneficial for internal tracking purposes.
-* Use this date to indicate when you prefer the incident investigation and resolution workflow to complete.
-* Monitoring incident progress against the due date helps maintain timely administration and resolution.
 
 ***
 
