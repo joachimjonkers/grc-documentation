@@ -26,6 +26,10 @@
   * [Data Management](cerrix-functionalities/module-overview/data-management.md)
   * [Third Party Management](cerrix-functionalities/module-overview/third-party-management.md)
 
+***
+
+* [API Documentation](api-documentation.md)
+
 ## Best Practices & Guides
 
 * [Control Design & Implementation, Execution & Effectiveness Testing: What's the Difference?](best-practices-and-guides/control-design-and-implementation-execution-and-effectiveness-testing-whats-the-difference.md)
