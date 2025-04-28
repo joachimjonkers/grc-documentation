@@ -1,8 +1,6 @@
-# What's New?
+# Release Notes
 
-## Release notes
-
-### April 2025
+## April 2025
 
 #### **New Incidents module**
 
@@ -42,7 +40,7 @@ Your existing forms used for Event creation will be automatically updated to cre
 
 All standing data from Events will be seamlessly transferred to Incidents.
 
-### March 2025
+## March 2025
 
 #### **Third party**
 
@@ -68,7 +66,7 @@ This feature is still experimental. If you are interested, please submit a ticke
 [budget-based-risk-scoring.md](../cerrix-functionalities/module-overview/risks/budget-based-risk-scoring.md)
 {% endcontent-ref %}
 
-### February 2025
+## February 2025
 
 #### **Workspace preset hyperlink**
 
@@ -82,7 +80,7 @@ It is now possible in the Browse presets overview to create a link to a preset. 
 
 Role group removal did not lead to removal of the corresponding roles of the user. This issue has now been solved. After removing a role group for a user, the corresponding roles are removed for the user if no other active rolegroup for that user includes that role.
 
-### January 2025
+## January 2025
 
 #### **Notable fixes**
 

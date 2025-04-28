@@ -38,6 +38,6 @@
 ## About CERRIX
 
 * [Product Strategy and Roadmap](about-cerrix/product-strategy-and-roadmap.md)
-* [What's New?](about-cerrix/whats-new.md)
+* [Release Notes](about-cerrix/release-notes.md)
 * [Heavy & Light Users](about-cerrix/heavy-and-light-users.md)
 * [Getting Support](about-cerrix/getting-support.md)
