@@ -28,6 +28,8 @@
 
 ***
 
+* [Admin Settings](admin-settings/README.md)
+  * [External Connections](admin-settings/external-connections.md)
 * [API Documentation](api-documentation.md)
 
 ## Best Practices & Guides
