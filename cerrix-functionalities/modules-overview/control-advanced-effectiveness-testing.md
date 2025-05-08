@@ -4,6 +4,10 @@
 
 Control Effectiveness Testing ensures that controls are functioning as intended to mitigate risks. This process involves multiple steps to validate design and operational effectiveness.
 
+{% embed url="https://player.vimeo.com/video/1015659974?app_id=58479&autopause=0&badge=0&h=dc9b044570&player_id=0" %}
+
+{% embed url="https://vimeo.com/1015659974/dc9b044570?share=copy" %}
+
 ### Steps for Effectiveness Testing
 
 #### Step 1: Source Document Upload
