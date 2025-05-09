@@ -12,7 +12,8 @@
     * [Budget-based Risk Scoring](cerrix-functionalities/module-overview/risks/budget-based-risk-scoring.md)
   * [Controls](cerrix-functionalities/modules-overview/controls/README.md)
     * [AI Control Description Refinement](cerrix-functionalities/modules-overview/controls/ai-control-description-refinement.md)
-  * [Control Advanced Effectiveness Testing](cerrix-functionalities/modules-overview/control-advanced-effectiveness-testing.md)
+  * [Control Advanced Effectiveness Testing](cerrix-functionalities/module-overview/control-advanced-effectiveness-testing/README.md)
+    * [Control Advanced Effectiveness Testing Video's](cerrix-functionalities/module-overview/control-advanced-effectiveness-testing/control-advanced-effectiveness-testing-videos.md)
   * [Incidents](cerrix-functionalities/modules-overview/incidents.md)
     * [Incidents Standing Data](cerrix-functionalities/modules-overview/incidents/incidents-standing-data.md)
     * [Creating a New Incident](cerrix-functionalities/modules-overview/incidents/creating-a-new-incident.md)
@@ -25,6 +26,7 @@
     * [Findings Report](cerrix-functionalities/modules-overview/findings-report.md)
   * [Data Management](cerrix-functionalities/module-overview/data-management.md)
   * [Third Party Management](cerrix-functionalities/module-overview/third-party-management.md)
+  * [Tasks](cerrix-functionalities/module-overview/tasks.md)
 
 ***
 
