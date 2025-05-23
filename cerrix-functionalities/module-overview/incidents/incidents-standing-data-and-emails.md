@@ -1,4 +1,4 @@
-# Incidents Standing Data
+# Incidents Standing Data & Emails
 
 The Incident Standing Data functionality in CERRIX enables users to define and manage reusable data components used when creating and handling incidents. This feature provides flexibility, control, and customization tailored to your organization's specific incident management needs.
 
@@ -11,7 +11,8 @@ This documentation explains how to manage Incident Standing Data, including clas
 Incident Standing Data is located within the **Incident Workspace** in CERRIX.
 
 1. Navigate to **Incidents** from your main menu.
-2. On the Incident Workspace, locate and click on the **Standing Data** in the left hand menu.
+2. On the Incident Workspace, locate and click on the **Standing Data** in t
+3. he left hand menu.
 
 <figure><img src="../../../.gitbook/assets/image (14).png" alt=""><figcaption></figcaption></figure>
 
@@ -124,4 +125,12 @@ These templates ensure that incident reporting aligns with regulatory expectatio
 * Pre-filled Field Labels: Uses terminology aligned with regulatory guidelines to ensure consistency.
 * Integration Ready: Templates are structured for easy integration with external DORA reporting systems.
 
-<figure><img src="../../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+
+## Incident Sent Emails
+
+As an administrator, all sent mails can be viewed via an extra tab in the incident module, underneath the Standing Data.
+
+<figure><img src="../../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>

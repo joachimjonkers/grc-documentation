@@ -18,6 +18,7 @@ In the incidents table you can see all relevant fields for each incident, such a
 * Reporter by
 * Relevant Dates (Created, Due, Closed)
 * Any other additional fields configured in your workspace
+* Gross and Net financial impact
 * ...
 
 <figure><img src="../../../.gitbook/assets/image (34).png" alt=""><figcaption></figcaption></figure>

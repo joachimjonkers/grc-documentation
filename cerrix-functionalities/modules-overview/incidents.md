@@ -26,8 +26,8 @@ Review the reference data that underpins incident classification and reporting.
   * Standing data configuration
   * Example dropdowns using standing data
 
-{% content-ref url="incidents/incidents-standing-data.md" %}
-[incidents-standing-data.md](incidents/incidents-standing-data.md)
+{% content-ref url="../module-overview/incidents/incidents-standing-data-and-emails.md" %}
+[incidents-standing-data-and-emails.md](../module-overview/incidents/incidents-standing-data-and-emails.md)
 {% endcontent-ref %}
 
 ***

@@ -59,6 +59,8 @@ In the **Assessing, Improving or Review** stage, you’ll see a **Link** icon![]
 
 <figure><img src="../../../.gitbook/assets/image (26).png" alt=""><figcaption></figcaption></figure>
 
+If an incident is created and linked to a Risk or Control, that incident can also be found as a linked item in the specific Risk or Control. For Risks and Controls these incidents are shown in page of linked events.
+
 ***
 
 ### Business and Framework Dimensions

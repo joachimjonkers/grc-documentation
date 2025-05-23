@@ -24,7 +24,9 @@ Total Gross and Net financial impact are shown in the workspace, for now in 1 co
 
 #### **Sent mails overview**
 
-As an administrator, all sent mails can be viewed via an extra tab in the incident module, in the Standing Data.
+As an administrator, all sent mails can be viewed via an extra tab in the incident module, underneath the Standing Data.
+
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 #### **Show Linked incidents in Risks and Controls**
 

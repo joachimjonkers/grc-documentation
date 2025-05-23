@@ -15,7 +15,7 @@
   * [Control Advanced Effectiveness Testing](cerrix-functionalities/module-overview/control-advanced-effectiveness-testing/README.md)
     * [Control Advanced Effectiveness Testing Video's](cerrix-functionalities/module-overview/control-advanced-effectiveness-testing/control-advanced-effectiveness-testing-videos.md)
   * [Incidents](cerrix-functionalities/modules-overview/incidents.md)
-    * [Incidents Standing Data](cerrix-functionalities/modules-overview/incidents/incidents-standing-data.md)
+    * [Incidents Standing Data & Emails](cerrix-functionalities/module-overview/incidents/incidents-standing-data-and-emails.md)
     * [Creating a New Incident](cerrix-functionalities/modules-overview/incidents/creating-a-new-incident.md)
     * [Incidents Workflow](cerrix-functionalities/modules-overview/incidents/incidents-workflow.md)
     * [Incidents Workspace](cerrix-functionalities/modules-overview/incidents/incidents-workspace.md)
