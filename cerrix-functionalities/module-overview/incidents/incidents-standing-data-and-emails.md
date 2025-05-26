@@ -125,12 +125,12 @@ These templates ensure that incident reporting aligns with regulatory expectatio
 * Pre-filled Field Labels: Uses terminology aligned with regulatory guidelines to ensure consistency.
 * Integration Ready: Templates are structured for easy integration with external DORA reporting systems.
 
-<figure><img src="../../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## Incident Sent Emails
 
 As an administrator, all sent mails can be viewed via an extra tab in the incident module, underneath the Standing Data.
 
-<figure><img src="../../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>

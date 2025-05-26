@@ -53,4 +53,4 @@ Your saved presets appear in your favorites for easy future access.
 
 To make a preset public in the Incidents Workspace, navigate to **Browse Presets** located at the top left of the navigation menu. In the list of available presets, find the one you want to make public. Next to the preset, you’ll see a button with a globe icon — this represents the option to make the preset public. Clicking this button will publish the preset, making it accessible to all users who have the appropriate permissions to use it.
 
-<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
