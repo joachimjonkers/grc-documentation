@@ -20,6 +20,7 @@
     * [Incidents Workflow](cerrix-functionalities/modules-overview/incidents/incidents-workflow.md)
     * [Incidents Workspace](cerrix-functionalities/modules-overview/incidents/incidents-workspace.md)
     * [Incidents Roles & Rights](cerrix-functionalities/module-overview/incidents/incidents-roles-and-rights.md)
+  * [Events](cerrix-functionalities/module-overview/events.md)
   * [Business Improvement Management](cerrix-functionalities/module-overview/business-improvement-management/README.md)
     * [Measures of Improvement (MoIs)](cerrix-functionalities/modules-overview/measures-of-improvement-mois/README.md)
       * [Working with MoIs (Measures of Improvement)](cerrix-functionalities/modules-overview/measures-of-improvement-mois/working-with-mois-measures-of-improvement.md)

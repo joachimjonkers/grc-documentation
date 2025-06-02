@@ -4,6 +4,78 @@ On this page you’ll find a summary of new features, enhancements, bug fixes, a
 
 For insight into our release schedule for acceptance and production, please refer to our [Release Planning page](https://support.cerrix.com/portal/kb?btn=46\&id=54).
 
+{% hint style="info" %}
+The release notes are published shortly before a new release to the acceptance environment.
+{% endhint %}
+
+## June 2025
+
+### Control testing improvements
+
+#### Show historical control details
+
+In control tests, the control details are shown in a dropdown field on the right side. The ID, Name, but also frequency, execution method, and description are available.
+
+Because the testing done at the time of the actual testing is based on the control description that was valid at that time, the historic values are shown: the name, description, frequency and execution method as they were defined at that time of the control test.
+
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+
+#### Comment boxes can be enlarged via a pop-up
+
+Sometimes a test comment requires more space than available in the control test screen. Pop-up signs have been added which, when clicked, the text is displayed in a large pop-up.
+
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+
+#### Hover for attachment names
+
+Attachments shown per test step were abbreviated if the name was longer than ca. 25 characters. To improve the readability, a hover is added so that the full name can easily be checked.
+
+### Incidents
+
+#### Warning is displayed when removing an incident type from an incident when data has already been entered in the incident type fields
+
+A warning is displayed when clicking the "x" on an incident type for an incident type field that already contains data.
+
+<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+
+#### Ability to add files when creating an incident via a Form
+
+Files included in a Form result which is used to create an incident, are now included in that incident.
+
+#### All users that add an incident will be registered as incident reporter
+
+All users, even users without the role “Reporter”, who add an incident via a Form, will be registered as incident reporters.
+
+#### Incident types can be archived
+
+Archiving an incident type results in users not being able to create an incident of this type anymore. In the workspace these fields belonging to the archived incident were hidden. Incidents that already have this incident type will show the archived incident type.
+
+An incident administrator can archive an incident type via the standing data tab “Configuration”.
+
+### Notable fixes
+
+#### Periodic MOIs - Users that have no role in the workflow of an MOI should not receive notifications
+
+Users who are removed from an MOI still get a periodic notification about the MOI. This has been fixed.
+
+#### Documents -  Document information
+
+In MOIs and Audit, for instance, the information about a document was not fully available, and the description was not visible. This has been fixed.
+
+#### Incidents
+
+#### **Financial impact in workspace**
+
+The financial impact for Gross and Net amounts were displayed as JSON (code), instead of numbers. With this change both variables are now displayed as numbers. They are still shown together in one column. This will be improved later to enable searching and ordering the workspace based on these numbers.
+
+#### Notification email addresses for standard Incident types Databreach and Operational incident are not saved
+
+In Standing Data, in tab Configuration, you can specify which Email addresses receive a message whenever an incident of that type is created. However, saving these addresses for the default types “Databreach” and “Operational incident” was not possible. That has been fixed.
+
+#### Predefined incident type names like “Databreach” and “Operational incident” looked editable
+
+Predefined incident type names looked editable, but they are not. So now it is not possible to edit the names.
+
 ## May 2025
 
 ### **Budget-based risk management**
@@ -26,7 +98,7 @@ Total Gross and Net financial impact are shown in the workspace, for now in 1 co
 
 As an administrator, all sent mails can be viewed via an extra tab in the incident module, underneath the Standing Data.
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (2).png" alt=""><figcaption></figcaption></figure>
 
 #### **Show Linked incidents in Risks and Controls**
 

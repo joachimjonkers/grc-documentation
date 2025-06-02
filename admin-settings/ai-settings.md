@@ -12,13 +12,13 @@ To activate CERRIX AI features, Application Administrators must follow these ste
 
 * **Navigate to the AI Settings** page under Administration Controls.
 
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 * **Review and accept the AI Terms and Conditions.**
 
 Enabling AI functionality requires administrators to explicitly acknowledge and accept the terms and conditions associated with the use of AI features in the CERRIX platform.
 
-<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
 
 * **Activate AI functionality.**
 
