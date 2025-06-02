@@ -2,7 +2,7 @@
 
 On this page you’ll find a summary of new features, enhancements, bug fixes, and other changes included in each software update. This documentation is intended to keep you informed of the latest improvements and how they may impact your use of the platform.
 
-For insight into our upcoming features and planned releases, please refer to our [Release Planning page](https://support.cerrix.com/portal/kb?btn=46\&id=54).
+For insight into our release schedule for acceptance and production, please refer to our [Release Planning page](https://support.cerrix.com/portal/kb?btn=46\&id=54).
 
 ## May 2025
 
