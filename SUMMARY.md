@@ -27,7 +27,7 @@
     * [Findings Report](cerrix-functionalities/modules-overview/findings-report.md)
   * [Data Management](cerrix-functionalities/module-overview/data-management.md)
   * [Third Party Management](cerrix-functionalities/module-overview/third-party-management.md)
-  * [Tasks](cerrix-functionalities/module-overview/tasks.md)
+  * [Tasks & Control Execution](cerrix-functionalities/module-overview/tasks-and-control-execution.md)
   * [Key Risk Indicators (KRI's)](cerrix-functionalities/module-overview/key-risk-indicators-kris.md)
 
 ***
