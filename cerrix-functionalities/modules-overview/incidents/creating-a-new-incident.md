@@ -59,6 +59,10 @@ Incident roles clarify responsibilities within your team:
 
 <figure><img src="../../../.gitbook/assets/image (21).png" alt=""><figcaption></figcaption></figure>
 
+{% hint style="info" %}
+You can read more about Incidents Roles & Rights here: [incidents-roles-and-rights.md](../../module-overview/incidents/incidents-roles-and-rights.md "mention")
+{% endhint %}
+
 ***
 
 ### Incident Type and Custom Fields
