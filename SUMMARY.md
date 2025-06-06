@@ -42,6 +42,10 @@
 * [Control Design & Implementation, Execution & Effectiveness Testing: What's the Difference?](best-practices-and-guides/control-design-and-implementation-execution-and-effectiveness-testing-whats-the-difference.md)
 * [CERRIX AI FAQ](best-practices-and-guides/cerrix-ai-faq.md)
 
+***
+
+* [Implementation Guide](implementation-guide.md)
+
 ## About CERRIX
 
 * [Support Portal](about-cerrix/support-portal.md)
