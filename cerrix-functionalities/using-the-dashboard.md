@@ -2,6 +2,8 @@
 
 The Dashboard in CERRIX serves as your centralized hub for accessing key features, modules, and tasks. Fully customizable, it allows users to create a workspace tailored to their needs.
 
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+
 ### Key Features
 
 #### Customization
