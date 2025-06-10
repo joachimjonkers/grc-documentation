@@ -35,6 +35,7 @@
 * [Admin Settings](admin-settings/README.md)
   * [External Connections](admin-settings/external-connections.md)
   * [AI Settings](admin-settings/ai-settings.md)
+  * [Authentication & User Provisioning](admin-settings/authentication-and-user-provisioning.md)
 * [API Documentation](api-documentation.md)
 
 ## Best Practices & Guides
