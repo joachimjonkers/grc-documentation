@@ -2,6 +2,8 @@
 
 This guide explains the workflow for creating and reporting incidents within the **Incidents Module** of **CERRIX**. Follow these steps to efficiently log, track, and manage incidents in your organization.
 
+{% embed url="https://vimeo.com/1093634212" %}
+
 ***
 
 ### Starting to Create a New Incident
