@@ -20,6 +20,7 @@
     * [Incidents Workflow](cerrix-functionalities/modules-overview/incidents/incidents-workflow.md)
     * [Incidents Workspace](cerrix-functionalities/modules-overview/incidents/incidents-workspace.md)
     * [Incidents Roles & Rights](cerrix-functionalities/module-overview/incidents/incidents-roles-and-rights.md)
+    * [Incidents: Known Issues & Future Improvements](cerrix-functionalities/module-overview/incidents/incidents-known-issues-and-future-improvements.md)
   * [Events](cerrix-functionalities/module-overview/events.md)
   * [Business Improvement Management](cerrix-functionalities/module-overview/business-improvement-management/README.md)
     * [Measures of Improvement (MoIs)](cerrix-functionalities/modules-overview/measures-of-improvement-mois/README.md)
@@ -46,10 +47,22 @@
 ***
 
 * [Implementation Guide](implementation-guide.md)
+* [Import Templates](import-templates.md)
 
 ## About CERRIX
 
-* [Support Portal](about-cerrix/support-portal.md)
-* [Release Notes](about-cerrix/release-notes.md)
-* [Heavy & Light Users](about-cerrix/heavy-and-light-users.md)
 * [Getting Support](about-cerrix/getting-support.md)
+* [Release Notes](about-cerrix/release-notes.md)
+* [Release Planning](about-cerrix/release-planning.md)
+* [Product Strategy & Roadmap](about-cerrix/product-strategy-and-roadmap.md)
+* [Heavy & Light Users](about-cerrix/heavy-and-light-users.md)
+
+***
+
+* [Compliance](compliance/README.md)
+  * [Strategic Information Security Policy](compliance/strategic-information-security-policy.md)
+  * [ISO 27001](compliance/iso-27001.md)
+  * [ISAE 3402 Type II](compliance/isae-3402-type-ii.md)
+  * [Privacy / GDPR](compliance/privacy-gdpr.md)
+  * [Security Statement](compliance/security-statement.md)
+  * [FSQS Certificate](compliance/fsqs-certificate.md)
