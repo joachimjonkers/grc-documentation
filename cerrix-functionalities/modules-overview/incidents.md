@@ -13,6 +13,8 @@ The Incidents module is designed to help users:
 * Apply organization-specific workflows for processing incidents
 * Maintain accurate and consistent reference data for categorizing and analyzing incidents
 
+<figure><img src="../../.gitbook/assets/Incident management workflow - V3.jpg" alt=""><figcaption></figcaption></figure>
+
 Below are the key documentation articles that explain each component of the Incidents module:
 
 ## Incidents Standing Data

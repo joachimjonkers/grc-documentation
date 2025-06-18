@@ -29,7 +29,3 @@ Measures of Improvement (MOIs) play a crucial role in mitigating recurring issue
 3. Provide feedback, mark the MOI as successful, or request revisions.
 
 > **Tip**: Use the reminder feature to ensure timely completion of MOIs.
-
-***
-
-For further guidance, refer to the [MOIs Module Guide](./) or explore related topics in [Incidents](../incidents.md).

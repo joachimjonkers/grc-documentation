@@ -12,6 +12,7 @@
     * [Budget-based Risk Scoring](cerrix-functionalities/module-overview/risks/budget-based-risk-scoring.md)
   * [Controls](cerrix-functionalities/modules-overview/controls/README.md)
     * [AI Control Description Refinement](cerrix-functionalities/modules-overview/controls/ai-control-description-refinement.md)
+    * [Control Execution Tasks](cerrix-functionalities/module-overview/controls/control-execution-tasks.md)
   * [Control Advanced Effectiveness Testing](cerrix-functionalities/module-overview/control-advanced-effectiveness-testing/README.md)
     * [Control Advanced Effectiveness Testing Video's](cerrix-functionalities/module-overview/control-advanced-effectiveness-testing/control-advanced-effectiveness-testing-videos.md)
   * [Incidents](cerrix-functionalities/modules-overview/incidents.md)
@@ -28,7 +29,6 @@
     * [Findings Report](cerrix-functionalities/modules-overview/findings-report.md)
   * [Data Management](cerrix-functionalities/module-overview/data-management.md)
   * [Third Party Management](cerrix-functionalities/module-overview/third-party-management.md)
-  * [Tasks & Control Execution](cerrix-functionalities/module-overview/tasks-and-control-execution.md)
   * [Key Risk Indicators (KRI's)](cerrix-functionalities/module-overview/key-risk-indicators-kris.md)
 
 ***
@@ -59,10 +59,10 @@
 
 ***
 
-* [Compliance](compliance/README.md)
-  * [Strategic Information Security Policy](compliance/strategic-information-security-policy.md)
-  * [ISO 27001](compliance/iso-27001.md)
-  * [ISAE 3402 Type II](compliance/isae-3402-type-ii.md)
-  * [Privacy / GDPR](compliance/privacy-gdpr.md)
-  * [Security Statement](compliance/security-statement.md)
-  * [FSQS Certificate](compliance/fsqs-certificate.md)
+* [Trust & Compliance](trust-and-compliance/README.md)
+  * [Strategic Information Security Policy](trust-and-compliance/strategic-information-security-policy.md)
+  * [ISO 27001](trust-and-compliance/iso-27001.md)
+  * [ISAE 3402 Type II](trust-and-compliance/isae-3402-type-ii.md)
+  * [Privacy / GDPR](trust-and-compliance/privacy-gdpr.md)
+  * [Security Statement](trust-and-compliance/security-statement.md)
+  * [FSQS Certificate](trust-and-compliance/fsqs-certificate.md)

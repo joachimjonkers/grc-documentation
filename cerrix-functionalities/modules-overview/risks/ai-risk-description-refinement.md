@@ -20,7 +20,7 @@ This feature allows users to refine risk descriptions by providing AI-generated 
 * Type a brief description of the risk in the provided field.
 * Example: "Fire destroying our offices and equipment."
 
-<figure><img src="../../../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (7) (1).png" alt=""><figcaption></figcaption></figure>
 
 #### 3. Use AI to Refine the Description
 
@@ -31,7 +31,7 @@ This feature allows users to refine risk descriptions by providing AI-generated 
 Generating all suggestions using AI can take a few seconds.
 {% endhint %}
 
-<figure><img src="../../../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (8) (1).png" alt=""><figcaption></figcaption></figure>
 
 #### 4. Select and Apply a Suggested Description
 

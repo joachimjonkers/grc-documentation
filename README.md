@@ -4,7 +4,7 @@
 
 Welcome to CERRIX, your comprehensive solution for Governance, Risk, and Compliance (GRC) management. This documentation will provide you with an understanding of how to use CERRIX effectively.
 
-{% hint style="danger" %}
+{% hint style="info" %}
 This documentation is still a work in progress and does not cover all functionalities of the CERRIX product yet. The CERRIX team is working on bringing new content into this documentation on a continuous basis.
 {% endhint %}
 

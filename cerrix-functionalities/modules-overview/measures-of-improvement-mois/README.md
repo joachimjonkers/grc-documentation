@@ -1,5 +1,7 @@
 # Measures of Improvement (MoIs)
 
+<figure><img src="../../../.gitbook/assets/MOI Workflow v2.jpg" alt=""><figcaption></figcaption></figure>
+
 {% embed url="https://vimeo.com/1015659974/dc9b044570?share=copy" %}
 
 {% embed url="https://vimeo.com/1047426213/2c823a7fa9?share=copy" %}
