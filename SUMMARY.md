@@ -11,6 +11,7 @@
     * [AI Risk Description Refinement](cerrix-functionalities/modules-overview/risks/ai-risk-description-refinement.md)
     * [Budget-based Risk Scoring](cerrix-functionalities/module-overview/risks/budget-based-risk-scoring.md)
   * [Controls](cerrix-functionalities/modules-overview/controls/README.md)
+    * [Design & Implementation (D\&I) Testing](cerrix-functionalities/module-overview/controls/design-and-implementation-d-and-i-testing.md)
     * [AI Control Description Refinement](cerrix-functionalities/modules-overview/controls/ai-control-description-refinement.md)
     * [Control Execution Tasks](cerrix-functionalities/module-overview/controls/control-execution-tasks.md)
   * [Control Advanced Effectiveness Testing](cerrix-functionalities/module-overview/control-advanced-effectiveness-testing/README.md)

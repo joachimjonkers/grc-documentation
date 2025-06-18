@@ -4,7 +4,7 @@
 
 Preparations start from a dashboard that includes the **Administration Controls** widget, which is available for an unrestricted administrative user.
 
-<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### Set the Application Settings to Budget-Based Risk Scoring
 
@@ -13,7 +13,7 @@ Preparations start from a dashboard that includes the **Administration Controls*
 1. As an administrator, go to the **Administration Controls** section of the dashboard and select **Environmental Settings**.
 2.  Select **Risks** in the left menu and activate the **5th toggle: Use Budget-Based Risk Scoring**.
 
-    <figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 3. **Do not** use the setting **“Show Risk Quantitative Scoring Details”** (this will display extra details, which might be confusing if budget-based risk scoring is used as well).
 4. Restart the application by pressing **Ctrl + F5** or **Ctrl + R**.
 
@@ -23,7 +23,7 @@ Preparations start from a dashboard that includes the **Administration Controls*
 
 1.  As an administrator, go to the **Administration Controls** section of the dashboard and select **Standing Data**. The menu shows a screen with this set up (without values):
 
-    <figure><img src="../../../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../../.gitbook/assets/image (2) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 2. Go to **Risk > Risk Scores > Risk Financial Impact**.
    * Five score options are predefined.
    * Each option can contain an explanation via the field **“Name”**, e.g., "1. Very low (less than 5%)" or "3. Moderate (between 20%-30%)".

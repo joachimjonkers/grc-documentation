@@ -13,7 +13,7 @@ Control Effectiveness Testing ensures that controls are functioning as intended 
 3. Drag and drop files or browse to upload relevant documents.
 4. Optionally, add a description for the uploaded file.
 
-<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
 #### Step 2: Generating Samples
 
@@ -29,14 +29,14 @@ Control Effectiveness Testing ensures that controls are functioning as intended 
 * Upload evidence for each sample.
 * Mark samples without evidence and provide a reason in the comments.
 
-<figure><img src="../../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 #### Step 4: Testing
 
 * Assess each sample and document findings.
 * Provide scores and comments for each test step.
 
-<figure><img src="../../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 #### Step 5: Reviewer Step
 
