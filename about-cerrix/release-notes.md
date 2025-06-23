@@ -2,13 +2,123 @@
 
 On this page you’ll find a summary of new features, enhancements, bug fixes, and other changes included in each software update. This documentation is intended to keep you informed of the latest improvements and how they may impact your use of the platform.
 
-For insight into our release schedule for acceptance and production, please refer to our [Release Planning page](https://support.cerrix.com/portal/kb?btn=46\&id=54).
+For insight into our release schedule for acceptance and production, please refer to our [Release Planning page](release-planning.md).
 
 {% hint style="info" %}
 The release notes are published shortly before a new release to the acceptance environment.
 {% endhint %}
 
-## June 2025
+## ACC: 24 June 2025, PRD: 8 July 2025
+
+## Summary
+
+This release includes updates across several core modules including Incidents, Control Testing, Roles & Permissions, AI Assistant, Test Plans, and KRI Management. Below is a categorized summary of improvements and fixes.
+
+### **Incidents Module**
+
+#### **Uniform Menu Text Color**
+
+All left-side menu items now use a consistent white text color, improving readability and eliminating display inconsistencies between sections.
+
+#### **Linked Items Icon Update**
+
+The icon for linked items has been modernized to enhance visual clarity and align with CERRIX’s updated design language.
+
+#### **Document Versioning Support**
+
+Users can now replace incident documents with new versions directly in the interface. The updated design includes:
+
+* A "Drop file or browse to replace" option.
+* Uploader details (username + timestamp) displayed below the filename.
+* Streamlined access controls (edit rights required).
+
+The complete history will be made available in a later release
+
+### **Measures of Improvement**
+
+#### **Display Incident Details in MOI Workspace**
+
+Incident details (identifier, name, description) are now consistently displayed in the MOI workspace for incident-based MOIs. This aligns with how other MOI types are presented, ensuring a unified user experience.
+
+### **Control Testing**
+
+#### **Enhanced Email Notifications for Control Testing**
+
+Period names and test plan details are now included in control testing emails and notifications. For notifications, periods appear in the "Controls" table (empty for simple testing).
+
+#### **Expanded Control Effectiveness Catalogue**
+
+Added default fields to streamline test plan creation:
+
+* **New section**: Sample generation (method + manual reason).
+* **Default Test Information**: Source/evidence/test instructions.
+* **Default Involved Persons**: Review settings (reviewer + yes/no toggle).\
+  Sections renamed for clarity (e.g., "Method of testing" → "Default Test Steps").
+
+### **Risk Module**
+
+#### **Optional Likelihood Validation**
+
+A new environment setting allows net likelihood to exceed gross likelihood for risks (disabled by default). When enabled, the system skips validation checks during imports or saves.
+
+### Navigation
+
+#### **Help Menu Redesign**
+
+The help menu has been reorganized for clarity, with new links and icons:
+
+* **Product Documentation**: External link to [docs.cerrix.com](https://docs.cerrix.com/).
+* **API Documentation**: Internal link to the API documentation.
+* **Release Notes**: External link to release notes.
+* **Support**: External link to support resources.
+* **About CERRIX**: Unchanged.
+
+***
+
+### Notable Fixes
+
+**Incidents Module**
+
+**Startup Cache Issues**
+
+Resolved crashes causing application downtime by fixing cache-loading logic during startup, particularly affecting incident-module URL fetching.
+
+**Default Incident Type Options**
+
+Added default dropdown options for "Operational Incident" and "Databreach" in case no drop-down options are defined yet, for example during environment setup, to prevent save/export errors.
+
+**Deleted User Role Consistency**
+
+Fixed inconsistent behavior where deleting a user removed them from the "Reporter" role in incidents. All roles (Assessor, Responsible, Informed, Reporter) now retain deleted users (deleted users are marked with `*`).
+
+**General Fixes**
+
+#### **KRI Writer Edit Permissions**
+
+KRI restricted writers can now edit KRI datapoints. Previously, changes were not saved.
+
+#### **Role Group Wizard**
+
+* **Role Removal**: Roles are now correctly removed from users when deleted via the wizard.
+* **User Removal**: Users are no longer retained in role groups after removal via the wizard.
+
+#### **AI-Generated Risk Descriptions**
+
+Fixed formatting issues where line breaks in AI responses incorrectly split risk descriptions into multiple suggestions.
+
+#### **Test Plan Mandatory Fields**
+
+"Sample Generation Method" is now properly validated as mandatory during test plan creation using the "copy from catalogue" option. UI indicators (red outline/❌ icon) alert users if left empty.
+
+### Known issues
+
+#### Help icons in API key settings
+
+The help icons in the API key settings don't redirect to the relevant API documentation page. This will be fixed in our next release.
+
+
+
+## ACC: 3 June 2025, PRD: 8 July 2025
 
 ### Control testing improvements
 
