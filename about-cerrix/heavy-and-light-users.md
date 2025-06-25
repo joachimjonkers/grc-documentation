@@ -2,7 +2,7 @@
 
 At CERRIX, we value transparency in how our pricing is determined. A key component in our pricing structure is based on user roles and the level of functionality they access within the platform. This document outlines how we define **light** and **heavy** users to provide clarity on which metrics are used in your subscription.
 
-Only users that are in status `active` and that have login credentials are counted as users.
+Only users that are in status `active` and that have login credentials are counted as users for billing purposes.
 
 ## What Are Heavy and Light Users?
 
