@@ -77,7 +77,7 @@ During the classification process, Incidents and Bugs receive a priority:
 ### Availability <a href="#toc195621163" id="toc195621163"></a>
 
 1. The Service Provider shall make all reasonable efforts to ensure that the production platform of its GRCA system is **available 99,5% per month**.
-2. The Acceptation environment is excluded from this Service Level and will be supported best effort.
+2. Only the Production environment is included in this Service Level.
 3. Schedule Maintenance is excluded from this Service Level and therefore not calculated as downtime (unavailability).
 4. In case of downtime, a Recovery Point Objective of 1 hour is applicable and a Recovery Time Objective of 8 hours.
 
