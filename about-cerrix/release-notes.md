@@ -128,13 +128,13 @@ In control tests, the control details are shown in a dropdown field on the right
 
 Because the testing done at the time of the actual testing is based on the control description that was valid at that time, the historic values are shown: the name, description, frequency and execution method as they were defined at that time of the control test.
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 #### Comment boxes can be enlarged via a pop-up
 
 Sometimes a test comment requires more space than available in the control test screen. Pop-up signs have been added which, when clicked, the text is displayed in a large pop-up.
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 #### Hover for attachment names
 

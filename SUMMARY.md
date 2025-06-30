@@ -43,6 +43,7 @@
 ## Best Practices & Guides
 
 * [Control Design & Implementation, Execution & Effectiveness Testing: What's the Difference?](best-practices-and-guides/control-design-and-implementation-execution-and-effectiveness-testing-whats-the-difference.md)
+* [How to Create an Anonymous Form (e.g. for Whistleblowing)](best-practices-and-guides/how-to-create-an-anonymous-form-e.g.-for-whistleblowing.md)
 * [CERRIX AI FAQ](best-practices-and-guides/cerrix-ai-faq.md)
 
 ***
