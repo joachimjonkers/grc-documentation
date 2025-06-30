@@ -29,7 +29,7 @@ Control Effectiveness Testing ensures that controls are functioning as intended 
 * Upload evidence for each sample.
 * Mark samples without evidence and provide a reason in the comments.
 
-<figure><img src="../../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 #### Step 4: Testing
 

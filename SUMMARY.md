@@ -67,3 +67,4 @@
   * [Privacy / GDPR](trust-and-compliance/privacy-gdpr.md)
   * [Security Statement](trust-and-compliance/security-statement.md)
   * [FSQS Certificate](trust-and-compliance/fsqs-certificate.md)
+  * [Service Level Agreement (SLA)](trust-and-compliance/service-level-agreement-sla.md)
