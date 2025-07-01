@@ -1,7 +1,7 @@
 # How to Create an Anonymous Form (e.g. for Whistleblowing)
 
 {% hint style="danger" %}
-This tutorial is only valid starting with the release of July 15th (ACC) and August 19th (PRD)
+This tutorial is only valid starting with the release of July 15th (ACC) and August 12th (PRD)
 {% endhint %}
 
 In some use cases—such as whistleblowing—it’s essential to collect information anonymously. CERRIX allows for the creation of anonymous form submissions by using an API-based approach that is not linked to any specific user account.
