@@ -34,20 +34,21 @@ The release schedule is subject to change.
 Adjustments may occur due to shifting priorities, quality assurance findings, customer needs, or operational considerations.
 {% endhint %}
 
-| **Date**     | **Environment** |
-| ------------ | --------------- |
-| 13 May 2025  | ACC             |
-| 27 May 2025  | PRD             |
-| 3 June 2025  | ACC             |
-| 24 June 2025 | ACC             |
-| 8 July 2025  | PRD             |
-| 15 July 2025 | ACC             |
-| 5 Aug 2025   | ACC             |
-| 19 Aug 2025  | PRD             |
+| Date              | Environment |
+| ----------------- | ----------- |
+| 3 June 2025       | ACC         |
+| 24 June 2025      | ACC         |
+| 8 July 2025       | PRD         |
+| 15 July 2025      | ACC         |
+| 29 July 2025      | ACC         |
+| 12 August 2025    | PRD         |
+| 19 August 2025    | ACC         |
+| 9 September 2025  | ACC         |
+| 23 September 2025 | PRD         |
 
 ## **Release Notes**
 
-With every release, Cerrix publishes detailed release notes to ensure users are informed of new features, improvements, and fixes.
+With every release, CERRIX publishes detailed release notes to ensure users are informed of new features, improvements, and fixes.
 
 Release notes are published at the time of the Acceptance release on the following page:
 
