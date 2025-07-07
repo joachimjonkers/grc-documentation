@@ -8,6 +8,60 @@ For insight into our release schedule for acceptance and production, please refe
 The release notes are published shortly before a new release to the acceptance environment.
 {% endhint %}
 
+## ACC: 15 July 2025, PROD: 12 August 2025
+
+### Summary
+
+A new API for Forms is added. In the incident module sections are made visible and foldable, and fixes for exports and financial impact visibility.
+
+&#x20;
+
+### Forms
+
+#### API-driven form entries
+
+With this API Forms results can be created.  So forms can be populated through data gathered by other applications. Limitations: All field names of the Form are unique. It is not possible to use these form results for creating new incidents (via “mapbacking”). More information can be found in the API documentation (see the “?”  in the top right of the CERRIX APP)
+
+### Incidents Module
+
+#### Page sections
+
+Sections defined for an incident type are made visible in the incident type tabs. Sections are shown with a title. The first section is always called “Details”. This Details section is only visible if more sections are defined.
+
+&#x20;
+
+### General fixes
+
+#### Forms workflow review comments
+
+Form workflow review comments were not completely shown. Issue is resolved.
+
+#### &#x20;API Module
+
+Help icons in API key settings
+
+The help icons in the API key settings don't redirect to the relevant API documentation page. This will be fixed in our next release.
+
+#### Controls Module
+
+Controls workspace column “Latest period score”
+
+The column “Latest period score” in the Controls workspace now correctly displays the latest period score, instead of the first period score.
+
+&#x20;Incidents Module
+
+#### Exports
+
+Fixed the issue that Exports could fail because of old data formats.
+
+#### Financial impact
+
+The financial impact component was not fully visible for lower resolution screens. As solution for these situations a scroll bar appears.
+
+#### Financial impact in workspace
+
+The workspace column “Financial impact Gross & Net” now will display values in correct format in all cases and the export will contain these values as well.
+
 ## ACC: 24 June 2025, PRD: 8 July 2025
 
 ## Summary
