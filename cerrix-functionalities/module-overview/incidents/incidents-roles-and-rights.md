@@ -8,7 +8,7 @@ The Incidents module supports ten distinct user roles. Each role defines a set o
 
 <figure><img src="../../../.gitbook/assets/Screenshot 2025-07-04 165940.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/Incidents Roles and rights1.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Incidents Roles and rights3.png" alt=""><figcaption></figcaption></figure>
 
 ## Role Overview <a href="#toc530050983" id="toc530050983"></a>
 
