@@ -33,10 +33,10 @@
 
 ## Product Roadmap
 
-Last update: June 2025
+Last update: July 2025
 
 {% hint style="danger" %}
 Disclaimer: The product roadmap represents our current plan. It is subject to frequent and significant change.
 {% endhint %}
 
-![](https://support.cerrix.com/api/attachment/image?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjU4MDM0NjA1LWFlYjItNDcyMi1iMDY5LTBlZjBkMTQ1ZmZmZCJ9.9Ts9NmRqOpXu_vjdWCEyohyUbNGSHGgT2bfOdVwbXWU)
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>

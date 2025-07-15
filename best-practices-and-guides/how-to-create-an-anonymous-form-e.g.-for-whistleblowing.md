@@ -27,7 +27,7 @@ This guide walks you through setting up such a form and enabling anonymous submi
     A form must be opened for responses before you can submit responses via the API.
 6. Note down the form ID, which can be found by copying the URL of the form page.
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
