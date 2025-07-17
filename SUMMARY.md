@@ -32,6 +32,7 @@
   * [Third Party Management](cerrix-functionalities/module-overview/third-party-management.md)
   * [Key Risk Indicators (KRI's)](cerrix-functionalities/module-overview/key-risk-indicators-kris.md)
   * [Audit](cerrix-functionalities/module-overview/audit.md)
+  * [Process Management](cerrix-functionalities/module-overview/process-management.md)
 
 ***
 
