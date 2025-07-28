@@ -8,13 +8,46 @@ For insight into our release schedule for acceptance and production, please refe
 The release notes are published shortly before a new release to the acceptance environment.
 {% endhint %}
 
-## ACC: 15 July 2025, PROD: 12 August 2025
+## ACC: 29 July 2025, PRD: 12 August 2025
 
 ### Summary
 
-A new API for Forms is added. In the incident module sections are made visible and foldable, and fixes for exports and financial impact visibility.
+* Tasks: Reviewers can now update task scores and edit the comments field.
+* Incidents: Basic history is now available on the front page, and a new incident widget can be added to the dashboard.
 
-&#x20;
+### Tasks
+
+Extended Reviewer Rights: For tasks with an assigned reviewer, the reviewer now has the ability to:
+
+* Change the task score
+* Edit the comments field
+* Upload and attach documents
+
+**Incident widget**
+
+An incidents widget has been made available. The widget can be added to the dashboard. The incident widget shows the number of incidents in every status: waiting for acceptance, waiting for improvements, ready for review, rejected and approved.&#x20;
+
+**Incident basic history**&#x20;
+
+For incidents the history of all standard items is made available via a third icon next to the icon for adding documents. <img src="../.gitbook/assets/image.png" alt="" data-size="line">. The history shown is basic: only changes in the header and fields displayed in the details are now made available. History of linked items and custom fields will be included in a next release.
+
+### General fixes
+
+#### Count widget&#x20;
+
+The count shown in the count widget was sometimes incorrect. It did not include all filtering in calculating the total. This was the case for Risks where always the unfiltered total of risks was shown and for other count widgets the organization filter was not included in the count.
+
+**Incidents**&#x20;
+
+It is not possible anymore to create an incident without a name&#x20;
+
+In dropdowns filter values kept on being displayed and could be confused with actual values. This issue is solved
+
+## ACC: 15 July 2025, PRD: 12 August 2025
+
+### Summary
+
+A new API for Forms is added. In the incident module sections are made visible and foldable, and fixes for exports and financial impact visibility.&#x20;
 
 ### Forms
 
@@ -182,13 +215,13 @@ In control tests, the control details are shown in a dropdown field on the right
 
 Because the testing done at the time of the actual testing is based on the control description that was valid at that time, the historic values are shown: the name, description, frequency and execution method as they were defined at that time of the control test.
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 #### Comment boxes can be enlarged via a pop-up
 
 Sometimes a test comment requires more space than available in the control test screen. Pop-up signs have been added which, when clicked, the text is displayed in a large pop-up.
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 #### Hover for attachment names
 

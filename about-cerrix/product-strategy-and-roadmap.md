@@ -39,4 +39,4 @@ Last update: July 2025
 Disclaimer: The product roadmap represents our current plan. It is subject to frequent and significant change.
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
