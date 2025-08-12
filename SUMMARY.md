@@ -71,5 +71,6 @@
   * [Security Statement](trust-and-compliance/security-statement.md)
   * [FSQS Certificate](trust-and-compliance/fsqs-certificate.md)
   * [Service Level Agreement (SLA)](trust-and-compliance/service-level-agreement-sla.md)
+  * [Corporate Social Responsibility](trust-and-compliance/corporate-social-responsibility.md)
 * [Root Cause Analysis](root-cause-analysis/README.md)
   * [RCA P1 Incident 2025-07-09](root-cause-analysis/rca-p1-incident-2025-07-09.md)
