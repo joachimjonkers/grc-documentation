@@ -10,7 +10,7 @@ While we work on creating content for this documentation, more information can b
 
 The print feature allows users to generate customized PDF exports of a process. When clicking the print icon, you can choose from the following three options, each offering different levels of detail and context:
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
 ### Print Graph
 
