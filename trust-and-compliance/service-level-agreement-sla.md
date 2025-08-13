@@ -63,7 +63,7 @@ During the classification process, Incidents and Bugs receive a priority:
 1. The Priority is based on the Impact and the Urgency of the ticket.
 2. The priority is based on the Service Provider classification, supported by the priority matrix below:
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 | Category | High                                        | Medium                                                                                                                        | Low                                                                       |
 | -------- | ------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------- |
