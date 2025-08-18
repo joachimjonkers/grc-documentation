@@ -10,14 +10,6 @@ The release notes are published shortly before a new release to the acceptance e
 
 ## ACC: 19 August 2025, PRD: 23 September 2025
 
-{% hint style="success" %}
-**Summary**
-
-* **Focus areas:** Incident history & widgets, Effectiveness Testing (EFF) sampling/source handling, and platform defaults.
-* **What shipped:** **10 enhancements** and **14 notable fixes** across Incidents, Forms/APIs, Events, Scheduling, and Integrations.
-* **Traceability:** Each item references its **work‑item ID** (e.g., `ID 16703`) for easy follow‑up in your tracker.
-{% endhint %}
-
 ### Incidents
 
 * **Document history inside incidents**\
