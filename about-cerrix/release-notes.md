@@ -10,6 +10,10 @@ The release notes are published shortly before a new release to the acceptance e
 
 ## ACC: 19 August 2025, PRD: 23 September 2025
 
+### Summary
+
+Incident module gains richer history features, including document version tracking and custom field changes, plus new and improved widgets for counts and status filtering. Control testing gets a clearer non‑occurrence view. Fixes address email validation timing, tab highlighting, preset privacy, form result handling, widget downloads, event linking, task scheduling, API stability, and MOI document updates.
+
 ### Incidents
 
 * **Document history inside incidents**\
