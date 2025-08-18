@@ -8,6 +8,91 @@ For insight into our release schedule for acceptance and production, please refe
 The release notes are published shortly before a new release to the acceptance environment.
 {% endhint %}
 
+## ACC: 19 August 2025, PRD: 23 September 2025
+
+{% hint style="success" %}
+**Summary**
+
+* **Focus areas:** Incident history & widgets, Effectiveness Testing (EFF) sampling/source handling, and platform defaults.
+* **What shipped:** **10 enhancements** and **14 notable fixes** across Incidents, Forms/APIs, Events, Scheduling, and Integrations.
+* **Traceability:** Each item references its **work‑item ID** (e.g., `ID 16703`) for easy follow‑up in your tracker.
+{% endhint %}
+
+### Incidents
+
+* **Document history inside incidents**\
+  A new **History** tab in the document information pop‑up lets users view current version details (uploader, timestamp, description, type) and browse/download prior versions. The list shows **User, Date, Type, Description, File size**, with improved filename hovers and consistent actions (“Edit document”, “Apply changes”).
+
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+
+* **Incident history now includes custom fields**\
+  The incident history view now records **who changed what and when** for visible custom fields, grouped by incident type. Noise‑only records are hidden. Linked MOI history is excluded; financial impact changes show totals only.
+* **Incidents count widget**\
+  The **Module count widget** now supports the Incidents module, displaying the number of incidents as defined by a selected **public incident workspace preset**.
+* **Incidents widget improvements**\
+  Add a multiselect to **hide/show specific incident statuses** in the widget configuration (no filter by default). If an incident workspace tab is already open, clicking a data point now prompts to **load the new preset** before navigating.
+
+#### Controls & Effectiveness Testing
+
+* **Simpler view for non‑occurrence**\
+  When a control **did not occur**, the source document area removes irrelevant sampling headers and shows either **“No source documents uploaded”** or only the uploaded source documents.
+
+***
+
+### Notable Fixes
+
+#### Incidents
+
+* **Email field validation no longer triggers too soon**\
+  In incident type configuration, email validation now waits until users have **finished entering one or more addresses** (e.g., after separators), instead of triggering prematurely.
+* **Correct tab icon highlighting**\
+  The **Links**, **Attachments**, and **History** tab icons now highlight the **active** tab correctly when switching between them.
+* **Private incident presets stay private**\
+  Newly created incident presets are **visible only to their creator** until explicitly set to **Public**; they no longer appear to other users by default.
+
+#### Forms & Form APIs
+
+* **Form results now include entered time**\
+  Data breach form results now display **HH:MM** for time fields, and the workspace view shows the full **date & time** as expected.
+* **Fetching results works after fields are deleted**\
+  The **Get form results** API continues to return results even if fields/pages were removed after data collection; 404 errors are eliminated.
+
+#### Dashboard & Widgets
+
+* **Chart images download correctly**\
+  Downloading a widget as an image (PNG/SVG) **no longer throws an error**.
+
+#### Events
+
+* **Custom field updates are saved**\
+  Updating an event’s custom dropdown now **persists correctly**, with the value reflecting immediately after save.
+* **Opening a linked event no longer errors (old Events module)**\
+  When the **Incidents** setting is off, opening a linked event from risks/controls works without error in environments using the **older Events module**.
+
+#### Tasks & Scheduling
+
+* **Weekly repeat schedules stay correct after extending end date**\
+  Weekly tasks that repeat (every 2/3/6 weeks) **retain the correct cadence** even after extending the schedule window.
+
+#### Control Testing & Notifications
+
+* **AcceptedReason now appears in acceptance emails**\
+  The **\[AcceptedReason]** keyword correctly maps and displays the approver’s comment in acceptance notifications.
+* **Correct API manual route for uploading source documents**\
+  The Effectiveness Testing API documentation/route for **Upload Source Document (manual)** is corrected so calls reach the right endpoint.
+
+#### APIs & Integrations
+
+* **Finding Report API includes report name**\
+  The DirectData **Finding Report API** now returns the **report name**, aligning the response with documentation and consumer expectations.
+* **API key performance with large IP whitelists**\
+  Requests using API keys with **very large IP whitelists** now execute efficiently without timeouts or excessive CPU usage.
+
+#### MOI & Document Updates
+
+* **Updating document type/description no longer fails in MOI**\
+  Changing a MOI’s **document type** or **description** after upload no longer triggers a “mime type not specified” error.
+
 ## ACC: 29 July 2025, PRD: 12 August 2025
 
 ### Summary
@@ -29,7 +114,7 @@ An incidents widget has been made available. The widget can be added to the dash
 
 **Incident basic history**&#x20;
 
-For incidents the history of all standard items is made available via a third icon next to the icon for adding documents. <img src="../.gitbook/assets/image (1) (1) (1).png" alt="" data-size="line">. The history shown is basic: only changes in the header and fields displayed in the details are now made available. History of linked items and custom fields will be included in a next release.
+For incidents the history of all standard items is made available via a third icon next to the icon for adding documents. <img src="../.gitbook/assets/image (1) (1) (1) (1).png" alt="" data-size="line">. The history shown is basic: only changes in the header and fields displayed in the details are now made available. History of linked items and custom fields will be included in a next release.
 
 ### General fixes
 
@@ -215,13 +300,13 @@ In control tests, the control details are shown in a dropdown field on the right
 
 Because the testing done at the time of the actual testing is based on the control description that was valid at that time, the historic values are shown: the name, description, frequency and execution method as they were defined at that time of the control test.
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 #### Comment boxes can be enlarged via a pop-up
 
 Sometimes a test comment requires more space than available in the control test screen. Pop-up signs have been added which, when clicked, the text is displayed in a large pop-up.
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 #### Hover for attachment names
 
