@@ -12,7 +12,7 @@ The release notes are published shortly before a new release to the acceptance e
 
 ### Summary
 
-Incident module gains richer history features, including document version tracking and custom field changes, plus new and improved widgets for counts and status filtering. Control testing gets a clearer non‑occurrence view. Fixes address email validation timing, tab highlighting, preset privacy, form result handling, widget downloads, event linking, task scheduling, API stability, and MOI document updates.
+Incident module gains richer history features, including document version tracking and custom field changes. The incident widget is improved and an incident count widget is introduced. Fixes include keeping personal incident presets private, form result handling, widget downloads, event linking, task scheduling, API stability, and MOI document updates.
 
 ### Incidents
 
@@ -43,7 +43,7 @@ Incident module gains richer history features, including document version tracki
   In incident type configuration, email validation now waits until users have **finished entering one or more addresses** (e.g., after separators), instead of triggering prematurely.
 * **Correct tab icon highlighting**\
   The **Links**, **Attachments**, and **History** tab icons now highlight the **active** tab correctly when switching between them.
-* **Private incident presets stay private**\
+* **Personal incident presets stay private**\
   Newly created incident presets are **visible only to their creator** until explicitly set to **Public**; they no longer appear to other users by default.
 
 #### Forms & Form APIs
