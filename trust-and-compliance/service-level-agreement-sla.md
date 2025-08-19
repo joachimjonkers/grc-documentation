@@ -18,7 +18,7 @@ This SLA does not cover:
 
 * Issues caused by factors outside the Service Provider’s control, such as Customer misuse, third-party integrations, or natural disasters.
 * Downtime during scheduled maintenance periods, provided the Customer is notified in advance.
-* Beta features or experimental functionalities not explicitly covered under this SLA.
+* Beta features or experimental functionalities to which the customer opted in are not explicitly covered under this SLA.
 
 ### Objectives <a href="#toc195621155" id="toc195621155"></a>
 
@@ -36,12 +36,14 @@ The primary objectives of this SLA are to:
 
 ### Maintenance window <a href="#toc195621159" id="toc195621159"></a>
 
+Maintenance windows are defined in the publicly available [release planning](../about-cerrix/release-planning.md).
+
 The Service Provider is responsible for all changes, updates and maintenance to the Platform In this respect, the Service Provider:
 
-1. may at its discretion make changes or and updates to the Platform or application such as Infrastructure, Security and/or Functionality.
-2. Inform the customer at least 48 hours prior to the start of scheduled maintenance.
+1. May at its discretion make changes or and updates to the Platform or application such as Infrastructure, Security and/or Functionality.
+2. Remind the customer prior to the start of scheduled maintenance.
 3. Shall plan the maintenance outside business hours.
-4. May, for corrective and preventive maintenance, execute unscheduled maintenance. The Service Provider will take all reasonable steps to inform the customer of unscheduled maintenance.
+4. May, for corrective and preventive maintenance, execute unscheduled maintenance. The Service Provider will inform the customer of unscheduled maintenance.
 
 ### Support Window <a href="#toc195621160" id="toc195621160"></a>
 
@@ -108,6 +110,7 @@ The documented Service Improvement Program will be shared with affected customer
 | **Availability**             | The proportion of total time that the application is fully functional and accessible to end users, excluding periods of scheduled maintenance.                                                                                                                                                                                                    |
 | **Bug**                      | An error, flaw, or unintended behavior in a software application that causes it to produce incorrect or unexpected results.                                                                                                                                                                                                                       |
 | **Crucial Functionality**    | CERRIX will determine, in good faith, whether functionality is considered crucial based on the extent to which its unavailability materially disrupts business-critical workflows, and whether a reasonable workaround exists. This assessment is made during the ticket classification process and will be clearly communicated to the customer. |
+| **Customer Misuse**          | Any improper or unauthorized use of the Service outside intended functionality or agreed terms, including misconfiguration, unsupported integrations, or failure to follow provided guidance.                                                                                                                                                     |
 | **Hot fix**                  | A quick and targeted software update released to fix a critical bug or security vulnerability.                                                                                                                                                                                                                                                    |
 | **Incident**                 | An unplanned event or disruption that affects the normal operation of a system or service.                                                                                                                                                                                                                                                        |
 | **Maintenance Window**       | A scheduled period during which system updates, patches, or upgrades are performed.                                                                                                                                                                                                                                                               |
