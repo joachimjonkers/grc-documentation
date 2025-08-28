@@ -36,7 +36,7 @@ The primary objectives of this SLA are to:
 
 ### Maintenance window <a href="#toc195621159" id="toc195621159"></a>
 
-Maintenance windows are defined in the publicly available [release planning](../about-cerrix/release-planning.md).
+Maintenance windows are defined in the publicly available [release planning](../../about-cerrix/release-planning.md).
 
 The Service Provider is responsible for all changes, updates and maintenance to the Platform In this respect, the Service Provider:
 
@@ -65,7 +65,7 @@ During the classification process, Incidents and Bugs receive a priority:
 1. The Priority is based on the Impact and the Urgency of the ticket.
 2. The priority is based on the Service Provider classification, supported by the priority matrix below:
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 | Category | High                                        | Medium                                                                                                                        | Low                                                                       |
 | -------- | ------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------- |
@@ -74,7 +74,7 @@ During the classification process, Incidents and Bugs receive a priority:
 
 ### Response & Resolution Times <a href="#toc195621162" id="toc195621162"></a>
 
-![](../.gitbook/assets/1.png)
+![](../../.gitbook/assets/1.png)
 
 ### Availability <a href="#toc195621163" id="toc195621163"></a>
 
