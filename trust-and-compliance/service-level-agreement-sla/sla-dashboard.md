@@ -47,6 +47,19 @@ The SLA Dashboard is organized into several widgets, each focused on a specific 
 
 * Purpose: Shows the breakdown of tickets created by type (e.g., incident, question, change request, enhancement).
 
+### Response and Resolution Times
+
+* Purpose: Shows how your support tickets performed against agreed service levels for response and resolution, separated per ticket type.
+* Definitions:
+  * Response SLA Met (%): Percentage of tickets that received an initial response within the defined SLA timeframe.
+  * Resolution SLA Met (%): Percentage of tickets resolved within the SLA timeframe.
+  * Total Tickets: Total number of tickets created in the selected date range.
+  * Unresolved Tickets: Tickets still open at the time of reporting. These are excluded from SLA target calculations.
+
+{% hint style="info" %}
+You can review the SLA timeframes in the [.](./ "mention").
+{% endhint %}
+
 ### Uptime
 
 * Purpose: Displays the measured uptime percentage of your CERRIX environment.
