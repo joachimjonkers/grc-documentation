@@ -19,7 +19,7 @@ Incident module gains richer history features, including document version tracki
 * **Document history inside incidents**\
   A new **History** tab in the document information pop‑up lets users view current version details (uploader, timestamp, description, type) and browse/download prior versions. The list shows **User, Date, Type, Description, File size**, with improved filename hovers and consistent actions (“Edit document”, “Apply changes”).
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 * **Incident history now includes custom fields**\
   The incident history view now records **who changed what and when** for visible custom fields, grouped by incident type. Noise‑only records are hidden. Linked MOI history is excluded; financial impact changes show totals only.
@@ -110,7 +110,7 @@ An incidents widget has been made available. The widget can be added to the dash
 
 **Incident basic history**&#x20;
 
-For incidents the history of all standard items is made available via a third icon next to the icon for adding documents. <img src="../.gitbook/assets/image (1) (1) (1) (1).png" alt="" data-size="line">. The history shown is basic: only changes in the header and fields displayed in the details are now made available. History of linked items and custom fields will be included in a next release.
+For incidents the history of all standard items is made available via a third icon next to the icon for adding documents. <img src="../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt="" data-size="line">. The history shown is basic: only changes in the header and fields displayed in the details are now made available. History of linked items and custom fields will be included in a next release.
 
 ### General fixes
 
@@ -296,13 +296,13 @@ In control tests, the control details are shown in a dropdown field on the right
 
 Because the testing done at the time of the actual testing is based on the control description that was valid at that time, the historic values are shown: the name, description, frequency and execution method as they were defined at that time of the control test.
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 #### Comment boxes can be enlarged via a pop-up
 
 Sometimes a test comment requires more space than available in the control test screen. Pop-up signs have been added which, when clicked, the text is displayed in a large pop-up.
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 #### Hover for attachment names
 

@@ -1,6 +1,6 @@
 # SLA Dashboard
 
-<figure><img src="../../.gitbook/assets/image (49).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 The SLA Dashboard provides customers with real-time insights into support performance and platform availability. It is designed to help you monitor ticket trends, track SLA adherence, and review uptime metrics relevant to your organization.
 
@@ -13,7 +13,7 @@ This article explains how to access the SLA Dashboard, what information it conta
 You can access the SLA Dashboard in two ways:
 
 1. Through the CERRIX Support Portal
-   * Log in to the [CERRIX Support Portal](https://support.cerrix.com).
+   * Log in to the [CERRIX Support Portal](https://support.cerrix.com/portal/).
    * Navigate to Dashboards → SLA Dashboard (individual customer).
 2. Direct URL Access
    * Use this link: [SLA Dashboard](https://support.cerrix.com/portal/dashboard?btn=67\&id=5)
@@ -45,7 +45,11 @@ The SLA Dashboard is organized into several widgets, each focused on a specific 
 
 ### Tickets per Type
 
-* Purpose: Shows the breakdown of tickets created by type (e.g., incident, question, change request, enhancement).
+* Purpose: Shows the breakdown of tickets created by type (e.g., incident, bug, change request).
+
+{% hint style="info" %}
+You can review the definitions of the different ticket types in the [.](./ "mention").
+{% endhint %}
 
 ### Response and Resolution Times
 
@@ -68,6 +72,10 @@ You can review the SLA timeframes in the [.](./ "mention").
   * Scheduled maintenance is not filtered out.
   * False negatives may occur due to limitations in the automated check (e.g., temporary network hiccups).
   * As a result, the reported uptime percentage is typically slightly lower than actual availability.
+
+{% hint style="info" %}
+You can review the definitions of uptime in the [.](./ "mention").
+{% endhint %}
 
 ### Further Information
 
