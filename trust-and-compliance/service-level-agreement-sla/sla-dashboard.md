@@ -10,14 +10,10 @@ This article explains how to access the SLA Dashboard, what information it conta
 
 ## Accessing the SLA Dashboard
 
-You can access the SLA Dashboard in two ways:
+You can access the SLA Dashboard through the CERRIX Support Portal
 
-1. Through the CERRIX Support Portal
-   * Log in to the [CERRIX Support Portal](https://support.cerrix.com/portal/).
-   * Navigate to Dashboards → SLA Dashboard (individual customer).
-2. Direct URL Access
-   * Use this link: [SLA Dashboard](https://support.cerrix.com/portal/dashboard?btn=67\&id=5)
-   * You will be prompted to log in if you are not already authenticated.
+* Log in to the [CERRIX Support Portal](https://support.cerrix.com/portal/).
+* Navigate to Dashboards → SLA Dashboard (individual customer).
 
 {% hint style="info" %}
 Access to the SLA Dashboard is restricted to authorized customer contacts. If you believe you should have access but do not see the dashboard, please contact your CERRIX account administrator.
