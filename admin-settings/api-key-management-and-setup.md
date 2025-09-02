@@ -12,7 +12,7 @@ This document explains how to generate and configure API keys for connecting ext
 5. Click **Add** to create a new API key.\
    ![](../.gitbook/assets/1.png)
 6. Enter a descriptive **Name** for the API key.
-7. Set an **expiration date**. By default, this is set to 1 year from creation. You can extend or shorten this as needed.
+7. The **expiration date** of an API key can be configured, but there is a maximum limit: it **cannot be set to longer than one year** from the date of creation. You can shorten this period if desired, but not extend it beyond the one-year maximum.
 
 ## **2. Configure Allowed IPs**
 
