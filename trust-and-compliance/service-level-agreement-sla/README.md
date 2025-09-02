@@ -74,7 +74,7 @@ During the classification process, Incidents and Bugs receive a priority:
 
 ### Response & Resolution Times <a href="#toc195621162" id="toc195621162"></a>
 
-![](../../.gitbook/assets/1.png)
+![](<../../.gitbook/assets/1 (2).png>)
 
 ### Availability <a href="#toc195621163" id="toc195621163"></a>
 

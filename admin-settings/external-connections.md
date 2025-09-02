@@ -8,7 +8,7 @@ Navigate to the **Administration Controls** menu.
 
 Click on **External Connections.**
 
-<figure><img src="../.gitbook/assets/1 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/1 (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Click on **Add.**
 

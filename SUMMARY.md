@@ -40,6 +40,7 @@
   * [External Connections](admin-settings/external-connections.md)
   * [AI Settings](admin-settings/ai-settings.md)
   * [Authentication & User Provisioning](admin-settings/authentication-and-user-provisioning.md)
+  * [API Key Management & Setup](admin-settings/api-key-management-and-setup.md)
 * [API Documentation](api-documentation.md)
 
 ## Best Practices & Guides
