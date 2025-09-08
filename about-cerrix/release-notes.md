@@ -8,6 +8,67 @@ For insight into our release schedule for acceptance and production, please refe
 The release notes are published shortly before a new release to the acceptance environment.
 {% endhint %}
 
+## ACC: 9 September 2025, PRD: 23 September 2025
+
+#### Incidents
+
+*   **Hyperlinks**&#x20;
+
+    At the location where documents can be added, it is now also possible to add hyperlinks. Hyperlinks can also be edited or deleted. Changes to hyperlinks can be tracked in the history.
+*   **Administrators can view Deleted incidents**
+
+    Deleted incidents are now visible for the unrestricted Administrators as one of the categories of Deleted Items. In a next sprint it will become possible to restore these deleted incidents.
+*   **Comments section change of color of rejection comments**&#x20;
+
+    Rejection messages in the comments section have a reddisch color to make them stand out from the rest of the messages.
+
+#### **Tasks**
+
+*   **Admin Permissions Update**&#x20;
+
+    In tasks where no score is given yet, Administrators can now change task details and action dates without needing to add a score, even if it is a required field. This allows adjustments to task descriptions in response to changing circumstances.&#x20;
+*   **Task Editing Enhancement**&#x20;
+
+    Administrators can also edit fields such as Task Scoring, Comment, Documents, and Hyperlinks while a task is "in review," regardless of whether they are designated as a reviewer in the task configuration.
+
+#### **API Update and Addition**
+
+*   **Update of Direct data API "Task"**&#x20;
+
+    The Task Status has been integrated into the direct data API "Task".
+*   **New Post API for Tasks**
+
+    A Post API is now available for adding tasks into CERRIX. This feature enables the execution of control tasks created outside of CERRIX within the CERRIX environment.
+
+### Notable Fixes
+
+#### BIM (MOI) export
+
+*   **Visibility of selected MOIs report types**
+
+    Resolved: If many reports are selected, the selection box did not show all these reports properly&#x20;
+
+#### Business assessments
+
+*   **Be able to end periodic reviews of Business Assessments**
+
+    Now it is possible to end a periodic review in Business assessments, simply by changing the review frequency to "Single test". The next review date will be left empty and no error will appear.&#x20;
+
+#### Forms
+
+*   **File upload removal** &#x20;
+
+    When deleting a "File upload" field from a Form with results linked to that field that still have a workflow unfinished, the application no longer throws an error.
+*   **Unsaved changes pop-up**
+
+    Form results that have un unfinished workflow status showed the "Unsaved changes pop-up even when no changes were made
+
+#### Risk import
+
+*   **Import with a risk with catalogue that has Event category as mandatory field**
+
+    Resolved: A risk import sheet including a risk with risk catalogue with mandatory event category resulted in a validation error
+
 ## ACC: 19 August 2025, PRD: 23 September 2025
 
 ### Summary
