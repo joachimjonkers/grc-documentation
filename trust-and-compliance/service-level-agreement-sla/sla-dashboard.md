@@ -82,10 +82,11 @@ You can review the definitions of uptime in the [.](./ "mention").
 
 ***
 
-## Data Refresh & Accuracy
+## SLA Dashboard Data
 
 * Data Source: The SLA Dashboard pulls directly from the CERRIX support and monitoring systems.
 * Refresh Rate: Data is updated in real time.
+* Only use data from July 1st 2025 onwards as a source, as only to these tickets the correct SLA's have been applied.
 
 ***
 
