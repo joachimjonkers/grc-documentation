@@ -8,7 +8,7 @@ Yes, your data is handled with the utmost security. All data sent to the Azure O
 
 ### Will the AI learn from my data?
 
-The data you provide (both input and AI-generated output) contributes to improving the quality of the AI features. However, this data is anonymized and aggregated before being used for any analysis or updates to the feature. Only CERRIX employees will use the data to improve the feature. Microsoft Azure OpenAI will not use the data to improve their models.
+The data you provide (both input and AI-generated output) contributes to improving the quality of the AI features, through analysis by CERRIX privileged employees. However, this data is anonymized and aggregated before being used for any analysis or updates to the feature. Only privileged CERRIX employees will use the data to improve the feature. Microsoft Azure OpenAI will not use the data to improve their models.
 
 ### Will my input be shared with other customers?
 

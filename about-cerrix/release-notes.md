@@ -243,6 +243,10 @@ The workspace column “Financial impact Gross & Net” now will display values 
 
 This release includes updates across several core modules including Incidents, Control Testing, Roles & Permissions, AI Assistant, Test Plans, and KRI Management. Below is a categorized summary of improvements and fixes.
 
+### AI Risk & Control Descriptions
+
+The AI Risk & Control Descriptions Refinement functionalities are now available for all customers. Read more here: [ai-risk-description-refinement.md](../cerrix-functionalities/modules-overview/risks/ai-risk-description-refinement.md "mention"), [ai-control-description-refinement.md](../cerrix-functionalities/modules-overview/controls/ai-control-description-refinement.md "mention")
+
 ### **Incidents Module**
 
 #### **Uniform Menu Text Color**
