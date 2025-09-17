@@ -8,11 +8,11 @@ Navigate to the **Administration Controls** menu.
 
 Click on **External Connections.**
 
-<figure><img src="../.gitbook/assets/1 (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/1 (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Click on **Add.**
 
-![](../.gitbook/assets/2.png)
+![](../../.gitbook/assets/2.png)
 
 Fill in the following fields:
 
@@ -33,7 +33,7 @@ Click **Next**
 
 Select the controls that can be queried through the API.
 
-<figure><img src="../.gitbook/assets/image (42).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (42).png" alt=""><figcaption></figcaption></figure>
 
 Click **Next**
 
@@ -47,7 +47,7 @@ Click **Complete**
 
 Your API key and secret are now displayed on the screen. Ensure you store them securely, as they won't be shown again.
 
-<figure><img src="../.gitbook/assets/image (43).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (43).png" alt=""><figcaption></figcaption></figure>
 
 ## Requesting data through the API calls <a href="#toc188544323" id="toc188544323"></a>
 
@@ -74,12 +74,12 @@ The Base URL is always composed of the environment URL followed by "/api,"
 
 ![A black text on a white background
 
-Description automatically generated](../.gitbook/assets/3.png)
+Description automatically generated](../../.gitbook/assets/3.png)
 
 For routing to Control Test Information, please use the following path:\
 ![A black text on a white background
 
-Description automatically generated](../.gitbook/assets/4.png)
+Description automatically generated](../../.gitbook/assets/4.png)
 
 Fill in the URL as:
 
@@ -99,7 +99,7 @@ Fill in the URL as:
   * Select the “Basic Auth” type.
   * Fill in the API key and secret as provided in the earlier step.
 
-<figure><img src="../.gitbook/assets/image (44).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (44).png" alt=""><figcaption></figcaption></figure>
 
 1. Press "Send"
 2. A Request ID will be retrieved from the API call. Save this Request ID.
@@ -122,12 +122,12 @@ The Base URL is always composed of the environment URL followed by "/api,"
 
 ![A black text on a white background
 
-Description automatically generated](../.gitbook/assets/6.png)
+Description automatically generated](../../.gitbook/assets/6.png)
 
 For routing to Get Result, please use the following path:\
 ![A black text on a white background
 
-Description automatically generated](../.gitbook/assets/7.png)
+Description automatically generated](../../.gitbook/assets/7.png)
 
 Fill in the URL as:
 
@@ -233,12 +233,12 @@ The Base URL is always composed of the environment URL followed by "/api,"
 
 ![A black text on a white background
 
-Description automatically generated](../.gitbook/assets/9.png)
+Description automatically generated](../../.gitbook/assets/9.png)
 
 For routing to Get Evidence Document, please use the following path:\
 ![A close-up of a text
 
-Description automatically generated](../.gitbook/assets/10.png)
+Description automatically generated](../../.gitbook/assets/10.png)
 
 Fill in the URL as:
 
@@ -267,8 +267,8 @@ CERRIX logs all API calls made for external connections. This ensures users alwa
 
 On this page you can find an overview of all Third Party Assurance connections.&#x20;
 
-<figure><img src="../.gitbook/assets/12.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/12.png" alt=""><figcaption></figcaption></figure>
 
 For each connection, you can access a log of which controls were accessed.
 
-<figure><img src="../.gitbook/assets/image (46).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (46).png" alt=""><figcaption></figcaption></figure>

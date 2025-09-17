@@ -60,4 +60,4 @@ To prevent similar incidents in the future and further strengthen our service re
 
 We remain fully committed to continuously improving our processes and minimizing any potential impact on our customers. Thank you for your understanding and trust.
 
-If you have any questions about this Root Cause Analysis, please [get in touch with us](../about-cerrix/getting-support.md).
+If you have any questions about this Root Cause Analysis, please [get in touch with us](../getting-support.md).

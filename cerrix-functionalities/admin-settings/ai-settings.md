@@ -12,13 +12,13 @@ To activate CERRIX AI features, Application Administrators must follow these ste
 
 * **Navigate to the AI Settings** page under Administration Controls.
 
-<figure><img src="../.gitbook/assets/image (2) (1) (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1) (2).png" alt=""><figcaption></figcaption></figure>
 
 * **Review and accept the AI Terms and Conditions.**
 
 Enabling AI functionality requires administrators to explicitly acknowledge and accept the terms and conditions associated with the use of AI features in the CERRIX platform.
 
-<figure><img src="../.gitbook/assets/image (3) (1) (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (1) (2).png" alt=""><figcaption></figcaption></figure>
 
 * **Activate AI functionality.**
 
@@ -26,12 +26,12 @@ Once the terms and conditions are accepted, the CERRIX AI features will be enabl
 
 Examples of CERRIX AI functionality include:
 
-{% content-ref url="../cerrix-functionalities/modules-overview/risks/ai-risk-description-refinement.md" %}
-[ai-risk-description-refinement.md](../cerrix-functionalities/modules-overview/risks/ai-risk-description-refinement.md)
+{% content-ref url="../modules-overview/risks/ai-risk-description-refinement.md" %}
+[ai-risk-description-refinement.md](../modules-overview/risks/ai-risk-description-refinement.md)
 {% endcontent-ref %}
 
-{% content-ref url="../cerrix-functionalities/modules-overview/controls/ai-control-description-refinement.md" %}
-[ai-control-description-refinement.md](../cerrix-functionalities/modules-overview/controls/ai-control-description-refinement.md)
+{% content-ref url="../modules-overview/controls/ai-control-description-refinement.md" %}
+[ai-control-description-refinement.md](../modules-overview/controls/ai-control-description-refinement.md)
 {% endcontent-ref %}
 
 ### Audit Trail
@@ -41,7 +41,7 @@ For transparency and compliance, CERRIX maintains a log of:
 * The user who accepted the AI Terms and Conditions.
 * The timestamp of when the acceptance occurred.
 
-![](<../.gitbook/assets/image (4) (2).png>)\
+![](<../../.gitbook/assets/image (4) (2).png>)\
 
 
 This information is available for auditing purposes and helps ensure proper governance over the use of AI in your environment.

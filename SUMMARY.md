@@ -21,38 +21,31 @@
     * [Creating a New Incident](cerrix-functionalities/modules-overview/incidents/creating-a-new-incident.md)
     * [Incidents Workflow](cerrix-functionalities/modules-overview/incidents/incidents-workflow.md)
     * [Incidents Workspace](cerrix-functionalities/modules-overview/incidents/incidents-workspace.md)
-    * [Incidents Roles & Rights](cerrix-functionalities/module-overview/incidents/incidents-roles-and-rights.md)
     * [Incidents: Known Issues & Future Improvements](cerrix-functionalities/module-overview/incidents/incidents-known-issues-and-future-improvements.md)
   * [Events](cerrix-functionalities/module-overview/events.md)
   * [Business Improvement Management](cerrix-functionalities/module-overview/business-improvement-management/README.md)
-    * [Measures of Improvement (MoIs)](cerrix-functionalities/modules-overview/measures-of-improvement-mois/README.md)
-      * [Working with MoIs (Measures of Improvement)](cerrix-functionalities/modules-overview/measures-of-improvement-mois/working-with-mois-measures-of-improvement.md)
+    * [Measures of Improvement (MoIs)](cerrix-functionalities/module-overview/business-improvement-management/measures-of-improvement-mois.md)
     * [Findings Report](cerrix-functionalities/modules-overview/findings-report.md)
   * [Data Management](cerrix-functionalities/module-overview/data-management.md)
   * [Third Party Management](cerrix-functionalities/module-overview/third-party-management.md)
   * [Key Risk Indicators (KRI's)](cerrix-functionalities/module-overview/key-risk-indicators-kris.md)
   * [Audit](cerrix-functionalities/module-overview/audit.md)
   * [Process Management](cerrix-functionalities/module-overview/process-management.md)
-
-***
-
-* [Admin Settings](admin-settings/README.md)
-  * [External Connections](admin-settings/external-connections.md)
-  * [AI Settings](admin-settings/ai-settings.md)
-  * [Authentication & User Provisioning](admin-settings/authentication-and-user-provisioning.md)
-  * [API Key Management & Setup](admin-settings/api-key-management-and-setup.md)
-* [API Documentation](api-documentation.md)
+* [Roles, Rights and Permissions](cerrix-functionalities/roles-rights-and-permissions.md)
+* [Admin Settings](cerrix-functionalities/admin-settings/README.md)
+  * [External Connections](cerrix-functionalities/admin-settings/external-connections.md)
+  * [AI Settings](cerrix-functionalities/admin-settings/ai-settings.md)
+  * [Authentication & User Provisioning](cerrix-functionalities/admin-settings/authentication-and-user-provisioning.md)
+  * [API Key Management & Setup](cerrix-functionalities/admin-settings/api-key-management-and-setup.md)
+* [API Documentation](cerrix-functionalities/api-documentation.md)
 
 ## Best Practices & Guides
 
 * [Control Design & Implementation, Execution & Effectiveness Testing: What's the Difference?](best-practices-and-guides/control-design-and-implementation-execution-and-effectiveness-testing-whats-the-difference.md)
 * [How to Create an Anonymous Form (e.g. for Whistleblowing)](best-practices-and-guides/how-to-create-an-anonymous-form-e.g.-for-whistleblowing.md)
 * [CERRIX AI FAQ](best-practices-and-guides/cerrix-ai-faq.md)
-
-***
-
-* [Implementation Guide](implementation-guide.md)
-* [Import Templates](import-templates.md)
+* [Implementation Guide](best-practices-and-guides/implementation-guide.md)
+* [Import Templates](best-practices-and-guides/import-templates.md)
 
 ## About CERRIX
 
@@ -61,18 +54,15 @@
 * [Release Planning](about-cerrix/release-planning.md)
 * [Product Strategy & Roadmap](about-cerrix/product-strategy-and-roadmap.md)
 * [Heavy & Light Users](about-cerrix/heavy-and-light-users.md)
-
-***
-
-* [Trust & Compliance](trust-and-compliance/README.md)
-  * [Strategic Information Security Policy](trust-and-compliance/strategic-information-security-policy.md)
-  * [ISO 27001](trust-and-compliance/iso-27001.md)
-  * [ISAE 3402 Type II](trust-and-compliance/isae-3402-type-ii.md)
-  * [Privacy / GDPR](trust-and-compliance/privacy-gdpr.md)
-  * [Security Statement](trust-and-compliance/security-statement.md)
-  * [FSQS Certificate](trust-and-compliance/fsqs-certificate.md)
-  * [Service Level Agreement (SLA)](trust-and-compliance/service-level-agreement-sla/README.md)
-    * [SLA Dashboard](trust-and-compliance/service-level-agreement-sla/sla-dashboard.md)
-  * [Corporate Social Responsibility](trust-and-compliance/corporate-social-responsibility.md)
-* [Root Cause Analysis](root-cause-analysis/README.md)
-  * [RCA P1 Incident 2025-07-09](root-cause-analysis/rca-p1-incident-2025-07-09.md)
+* [Trust & Compliance](about-cerrix/trust-and-compliance/README.md)
+  * [Strategic Information Security Policy](about-cerrix/trust-and-compliance/strategic-information-security-policy.md)
+  * [ISO 27001](about-cerrix/trust-and-compliance/iso-27001.md)
+  * [ISAE 3402 Type II](about-cerrix/trust-and-compliance/isae-3402-type-ii.md)
+  * [Privacy / GDPR](about-cerrix/trust-and-compliance/privacy-gdpr.md)
+  * [Security Statement](about-cerrix/trust-and-compliance/security-statement.md)
+  * [FSQS Certificate](about-cerrix/trust-and-compliance/fsqs-certificate.md)
+  * [Service Level Agreement (SLA)](about-cerrix/trust-and-compliance/service-level-agreement-sla/README.md)
+    * [SLA Dashboard](about-cerrix/trust-and-compliance/service-level-agreement-sla/sla-dashboard.md)
+  * [Corporate Social Responsibility](about-cerrix/trust-and-compliance/corporate-social-responsibility.md)
+* [Root Cause Analysis](about-cerrix/root-cause-analysis/README.md)
+  * [RCA P1 Incident 2025-07-09](about-cerrix/root-cause-analysis/rca-p1-incident-2025-07-09.md)

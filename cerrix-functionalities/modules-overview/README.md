@@ -58,8 +58,8 @@ MOIs are corrective actions taken to address recurring issues or ineffective con
 
 Learn more about the MOIs module.
 
-{% content-ref url="measures-of-improvement-mois/" %}
-[measures-of-improvement-mois](measures-of-improvement-mois/)
+{% content-ref url="../module-overview/business-improvement-management/measures-of-improvement-mois.md" %}
+[measures-of-improvement-mois.md](../module-overview/business-improvement-management/measures-of-improvement-mois.md)
 {% endcontent-ref %}
 
 ***

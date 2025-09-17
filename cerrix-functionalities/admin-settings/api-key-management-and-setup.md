@@ -7,10 +7,10 @@ This document explains how to generate and configure API keys for connecting ext
 1. Log in to CERRIX.
 2. In the top right corner, click on your **name**.
 3. Select **View profile**.\
-   ![](../.gitbook/assets/0.png)
+   ![](../../.gitbook/assets/0.png)
 4. In the left-hand menu, go to **API Keys**.
 5. Click **Add** to create a new API key.\
-   ![](../.gitbook/assets/1.png)
+   ![](../../.gitbook/assets/1.png)
 6. Enter a descriptive **Name** for the API key.
 7. The **expiration date** of an API key can be configured, but there is a maximum limit: it **cannot be set to longer than one year** from the date of creation. You can shorten this period if desired, but not extend it beyond the one-year maximum.
 
