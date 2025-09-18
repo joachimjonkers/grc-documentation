@@ -28,9 +28,11 @@ This version extends the standard graph with related governance data. It include
 
 * All items from CERRIX (Risks, Controls, Events, and Moments of Insight) linked to the Business Dimension.
 * These items are visualized in the printout, and if a Risk or Control is represented (e.g., as a floating symbol), it is considered linked—regardless of where it appears.
-* The section “Not linked to a process step” will only show items that:
-  * Are linked to the Business Dimension
-  * But do not appear anywhere in the printout, either connected to a step or visualized separately.
+
+The section “Not linked to a process step” will only show items that:
+
+* Are linked to the Business Dimension
+* But do not appear anywhere in the printout, either connected to a step or visualized separately.
 
 {% hint style="warning" %}
 Important: The system does not analyze the position or logic of the elements—presence of the item symbol in the print is sufficient to count it as “linked”.
