@@ -38,12 +38,9 @@ Important: The system does not analyze the position or logic of the elements—p
 
 ### Print Graph with Linked Risks and Controls
 
-This option focuses strictly on what’s linked within the process graph. It includes:
+This option prints strictly what’s linked within the process graph.
 
-* Only Risks and Controls that are:
-  * Linked to a Risk or Control symbol in the graph.
-  * That symbol is not linked to any process step.
-* These items are shown under the “Not linked to a process step” section.
+Risks and Controls that are: linked to a Risk or Control symbol in the graph and that symbol is not linked to any process step are shown under the “Not linked to a process step” section.
 
 {% hint style="warning" %}
 Important: This option does not look outside the process graph. It does not include other Risks or Controls from CERRIX that may be linked to the Business Dimension but are not visually linked via a symbol in the graph.
