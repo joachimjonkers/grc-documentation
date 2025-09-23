@@ -13,7 +13,7 @@ We operate with two types of releases:
     Updates are deployed to the Acceptance (ACC) environment for internal validation and customer acceptance testing.
 *   **Frequency:**
 
-    Currently every 3 weeks.
+    Every 3 weeks.
 
 ### **Production (PRD) Environment Release**
 
@@ -22,7 +22,7 @@ We operate with two types of releases:
     Fully validated updates are deployed to the Production (PRD) environment, making them available to all users.
 *   **Frequency:**
 
-    Currently every 6 weeks
+    Every 3 weeks
 
 ## **Release Schedule Overview**
 
@@ -36,13 +36,14 @@ Adjustments may occur due to shifting priorities, quality assurance findings, cu
 
 | Date              | Environment |
 | ----------------- | ----------- |
-| 19 August 2025    | ACC         |
-| 9 September 2025  | ACC         |
 | 23 September 2025 | PRD         |
 | 30 September 2025 | ACC         |
 | 21 October 2025   | ACC         |
 | 4 November 2025   | PRD         |
 | 11 November 2025  | ACC         |
+| 25 November 2025  | PRD         |
+|  2 December 2025  | ACC         |
+| 16 December 2025  | PRD         |
 
 ## **Release Notes**
 
