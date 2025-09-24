@@ -8,11 +8,60 @@ For insight into our release schedule for acceptance and production, please refe
 The release notes are published shortly before a new release to the acceptance environment.
 {% endhint %}
 
+## ACC: 30 September 2025, PRD: 4 November 2025
+
+#### General lay out
+
+* **New CERRIX Logo.** \
+  A new CERRIX logo is implemented in the application and in the mails sent via the application
+
+**Tasks**
+
+* **API Post: Update Task Score and Task Status**\
+  A new API POST Update Task Score and Task Status. It is now possible to update the status and the score of Tasks via an API
+* **Tasks Dataset**\
+  A dataset of tasks is created. This data set can be used to create a Power BI overview for Tasks.
+
+#### Incidents
+
+*   **Change the standard incident type tabs Operational Incident and Databreach**
+
+    For the incident types "Operational Incident" and "Databreach" It is possible&#x20;
+
+    * To change the Incident type name,&#x20;
+    * To hide the standard fields defined in the associated tab. Please note that a field is hidden and is used in an Incident Form, the data entered in the Form for this field will still be mapped to the incident but it will not be visible because the field is hidden.
+    * To add new fields to all sections&#x20;
+    * To switch fields between sections, except the details section. So there is one limitation: fields cannot be switched to or from the first section called "Details".
+*   **Administrators can restore Deleted incidents**
+
+    Deleted incidents are visible for the unrestricted Administrators as one of the categories of Deleted Items. Now it is possible to restore these deleted incidents as well.
+*   **Incidents are included in Business assessments**&#x20;
+
+    Incidents are now included in Business assessments: in the overviews generated via the Organizations & Business Dimensions Navigator.&#x20;
+
+### Notable Fixes
+
+#### **Data management**
+
+* **Data management history details**\
+  Details of History items could not be opened
+
+**Business assessments**
+
+* **Add documents as restricted process editor** \
+  As restricted process editor it was not possible to add Assessment related document
+
+**Incidents**
+
+*   **Presets for Incident count widget**&#x20;
+
+    If an incident preset is public (accessible for everyone) and used in a incident count widget on a CERRIX dashboard, it is not possible anymore to switch the preset to private, because that would break the count widget .
+
 ## ACC: 9 September 2025, PRD: 23 September 2025
 
 #### Incidents
 
-*   **Hyperlinks**&#x20;
+*   **Hyperlinks**
 
     At the location where documents can be added, it is now also possible to add hyperlinks. Hyperlinks can also be edited or deleted. Changes to hyperlinks can be tracked in the history.
 *   **Administrators can view Deleted incidents**
