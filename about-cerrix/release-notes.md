@@ -30,8 +30,7 @@ The release notes are published shortly before a new release to the acceptance e
 
     * To change the Incident type name,&#x20;
     * To hide the standard fields defined in the associated tab. Please note that a field is hidden and is used in an Incident Form, the data entered in the Form for this field will still be mapped to the incident but it will not be visible because the field is hidden.
-    * To add new fields to all sections&#x20;
-    * To switch fields between sections, except the details section. So there is one limitation: fields cannot be switched to or from the first section called "Details".
+    * To add new sections and to add fields to all sections&#x20;
 *   **Administrators can restore Deleted incidents**
 
     Deleted incidents are visible for the unrestricted Administrators as one of the categories of Deleted Items. Now it is possible to restore these deleted incidents as well.
