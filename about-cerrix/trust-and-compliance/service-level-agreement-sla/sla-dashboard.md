@@ -1,6 +1,6 @@
 # SLA Dashboard
 
-<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (52).png" alt=""><figcaption></figcaption></figure>
 
 The SLA Dashboard provides customers with real-time insights into support performance and platform availability. It is designed to help you monitor ticket trends, track SLA adherence, and review uptime metrics relevant to your organization.
 
