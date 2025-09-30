@@ -36,7 +36,6 @@ Adjustments may occur due to shifting priorities, quality assurance findings, cu
 
 | Date              | Environment |
 | ----------------- | ----------- |
-| 23 September 2025 | PRD         |
 | 30 September 2025 | ACC         |
 | 21 October 2025   | ACC         |
 | 4 November 2025   | PRD         |
@@ -44,6 +43,10 @@ Adjustments may occur due to shifting priorities, quality assurance findings, cu
 | 25 November 2025  | PRD         |
 |  2 December 2025  | ACC         |
 | 16 December 2025  | PRD         |
+| 23 December 2025  | ACC         |
+| 6 January 2026    | PRD         |
+| 13 January 2026   | ACC         |
+| 27 January 2026   | PRD         |
 
 ## **Release Notes**
 
