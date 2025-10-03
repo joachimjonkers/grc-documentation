@@ -2,7 +2,11 @@
 
 This guide explains the workflow for creating and reporting incidents within the **Incidents Module** of **CERRIX**. Follow these steps to efficiently log, track, and manage incidents in your organization.
 
-{% embed url="https://vimeo.com/1093634212" %}
+{% hint style="info" %}
+**Video Tutorial**
+
+Prefer to watch instead of read? Have a look at our [#incidents](../../../best-practices-and-guides/video-tutorials.md#incidents "mention") Video Tutorials
+{% endhint %}
 
 ***
 
@@ -62,7 +66,7 @@ Incident roles clarify responsibilities within your team:
 <figure><img src="../../../.gitbook/assets/image (21).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
-You can read more about Incidents Roles & Rights here: [Broken link](broken-reference "mention")
+You can read more about Incidents Roles & Rights here: [#incidents-permission-matrix](../../roles-rights-and-permissions.md#incidents-permission-matrix "mention")
 {% endhint %}
 
 ***

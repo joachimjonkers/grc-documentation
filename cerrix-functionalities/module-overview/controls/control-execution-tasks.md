@@ -1,6 +1,10 @@
 # Control Execution Tasks
 
-{% embed url="https://vimeo.com/1074236399/f8cb57fe56?share=copy" %}
+{% hint style="info" %}
+**Video Tutorial**
+
+Prefer to watch instead of read? Have a look at our [#control-execution-tasks](../../../best-practices-and-guides/video-tutorials.md#control-execution-tasks "mention") Video Tutorial
+{% endhint %}
 
 Control execution tasks are essential for ensuring that your risk and compliance controls are regularly tested and updated. In CERRIX, these tasks are linked directly to your controls, providing transparency and traceability throughout your compliance program.
 

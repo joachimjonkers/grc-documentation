@@ -1,5 +1,11 @@
 # Incidents
 
+{% hint style="info" %}
+**Video Tutorial**
+
+Prefer to watch instead of read? Have a look at our [#incidents](../../best-practices-and-guides/video-tutorials.md#incidents "mention") Video Tutorials
+{% endhint %}
+
 The **Incidents** module in CERRIX helps organizations track, manage, and resolve risk-related incidents in a structured and auditable manner. This module supports the full lifecycle of incident management, from initial reporting to final resolution, with integrated workflows, data governance, and transparency across all stakeholders.
 
 {% hint style="info" %}

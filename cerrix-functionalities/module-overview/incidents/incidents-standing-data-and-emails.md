@@ -4,7 +4,11 @@ The Incident Standing Data functionality in CERRIX enables users to define and m
 
 This documentation explains how to manage Incident Standing Data, including classifications, incident types, custom fields, and email notifications in CERRIX’s Incident Management module.
 
-{% embed url="https://vimeo.com/1093634626" %}
+{% hint style="info" %}
+**Video Tutorial**
+
+Prefer to watch instead of read? Have a look at our [#incidents](../../../best-practices-and-guides/video-tutorials.md#incidents "mention") Video Tutorials
+{% endhint %}
 
 ***
 

@@ -1,10 +1,12 @@
 # Measures of Improvement (MoIs)
 
+{% hint style="info" %}
+**Video Tutorial**
+
+Prefer to watch instead of read? Have a look at our [#measures-of-improvement-mois](../../../best-practices-and-guides/video-tutorials.md#measures-of-improvement-mois "mention") Video Tutorials
+{% endhint %}
+
 <figure><img src="../../../.gitbook/assets/MOI Workflow v2.jpg" alt=""><figcaption></figcaption></figure>
-
-{% embed url="https://vimeo.com/1015659974/dc9b044570?share=copy" %}
-
-{% embed url="https://vimeo.com/1047426213/2c823a7fa9?share=copy" %}
 
 The MOIs module is designed to address recurring issues or ineffective controls by implementing corrective measures. This module ensures that improvements are executed and reviewed effectively.
 

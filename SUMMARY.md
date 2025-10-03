@@ -14,14 +14,12 @@
     * [Design & Implementation (D\&I) Testing](cerrix-functionalities/module-overview/controls/design-and-implementation-d-and-i-testing.md)
     * [AI Control Description Refinement](cerrix-functionalities/modules-overview/controls/ai-control-description-refinement.md)
     * [Control Execution Tasks](cerrix-functionalities/module-overview/controls/control-execution-tasks.md)
-  * [Control Advanced Effectiveness Testing](cerrix-functionalities/module-overview/control-advanced-effectiveness-testing/README.md)
-    * [Control Advanced Effectiveness Testing Video's](cerrix-functionalities/module-overview/control-advanced-effectiveness-testing/control-advanced-effectiveness-testing-videos.md)
+  * [Control Advanced Effectiveness Testing](cerrix-functionalities/module-overview/control-advanced-effectiveness-testing.md)
   * [Incidents](cerrix-functionalities/modules-overview/incidents.md)
     * [Incidents Standing Data & Emails](cerrix-functionalities/module-overview/incidents/incidents-standing-data-and-emails.md)
     * [Creating a New Incident](cerrix-functionalities/modules-overview/incidents/creating-a-new-incident.md)
     * [Incidents Workflow](cerrix-functionalities/modules-overview/incidents/incidents-workflow.md)
     * [Incidents Workspace](cerrix-functionalities/modules-overview/incidents/incidents-workspace.md)
-    * [Incidents: Known Issues & Future Improvements](cerrix-functionalities/module-overview/incidents/incidents-known-issues-and-future-improvements.md)
   * [Events](cerrix-functionalities/module-overview/events.md)
   * [Business Improvement Management](cerrix-functionalities/module-overview/business-improvement-management/README.md)
     * [Measures of Improvement (MoIs)](cerrix-functionalities/module-overview/business-improvement-management/measures-of-improvement-mois.md)
@@ -46,6 +44,7 @@
 * [CERRIX AI FAQ](best-practices-and-guides/cerrix-ai-faq.md)
 * [Implementation Guide](best-practices-and-guides/implementation-guide.md)
 * [Import Templates](best-practices-and-guides/import-templates.md)
+* [Video Tutorials](best-practices-and-guides/video-tutorials.md)
 
 ## About CERRIX
 

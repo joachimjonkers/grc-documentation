@@ -2,7 +2,11 @@
 
 The **Incidents module** in CERRIX is designed to streamline the process of handling incidents within your organization, providing a structured and auditable workflow. This guide walks you through the **standard flow** of an incident's lifecycle and highlights key actions and interface elements you can interact with during the process.
 
-{% embed url="https://vimeo.com/1093632244" %}
+{% hint style="info" %}
+**Video Tutorial**
+
+Prefer to watch instead of read? Have a look at our [#incidents](../../../best-practices-and-guides/video-tutorials.md#incidents "mention") Video Tutorials
+{% endhint %}
 
 ***
 
