@@ -17,7 +17,7 @@ To create a new control in CERRIX:
 
 ### Control Setup
 
-<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 When adding a control, complete the following fields:
 
@@ -55,7 +55,7 @@ After saving a control, additional linking options become available in the left-
 * Documents: Upload supporting documentation relevant to the control.
 * Hyperlinks: Include direct links (e.g., to SharePoint or external systems).
 
-![](<../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png>)
+![](<../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png>)
 
 ***
 

@@ -40,7 +40,7 @@ This feature allows users to refine control descriptions by providing AI-generat
 Generating all suggestions using AI can take a few seconds.
 {% endhint %}
 
-<figure><img src="../../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 #### Select and Apply a Suggested Description
 
