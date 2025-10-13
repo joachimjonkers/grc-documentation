@@ -17,12 +17,14 @@ The release notes are published shortly before a new release to the acceptance e
 
 **Tasks**
 
-* **API Get Update**\
-  The Task "identifier" is now included in the task API and Direct data API
-* **Tasks Post update**\
-  Hyperlinks can be included in the API Post
+* **API GET Update: identifier**\
+  The Task "identifier" is now included in the Tasks API and Direct Data API for Tasks
+* **API POST update: hyperlinks**\
+  Hyperlinks can be included in the POST request for the Tasks API
 
-- [ ] For more information see in the CERRIX application under the question mark the API documentation
+{% hint style="info" %}
+For more information about the Task API, click the question mark icon in the CERRIX application and go to "API Documentation".
+{% endhint %}
 
 **Incidents**
 
@@ -30,7 +32,7 @@ The release notes are published shortly before a new release to the acceptance e
   * It is now possible to change the name of the standard incident types "Data breach" and "Operational incident". &#x20;
   *   Move fields within a section and from 1 section to another
 
-      It is now  possible to reorganize the custom fields of an incident type by moving fields within a section and from 1 section to another. Note: Only the main tab "details" cannot be organized in this way
+      It is now possible to reorganize the custom fields of an incident type by moving fields within a section and from 1 section to another. Note: Only the main tab "details" cannot be organized in this way
 *   **Financial impact component ordering**
 
     Affected internal organizations and third parties are now shown below each other:&#x20;
