@@ -8,6 +8,63 @@ For insight into our release schedule for acceptance and production, please refe
 The release notes are published shortly before a new release to the acceptance environment.
 {% endhint %}
 
+## ACC: 21 October 2025, PRD: 4 November 2025
+
+#### Risk&#x20;
+
+* **Custom fields**\
+  Custom fields are now displayed in 2 columns and follow the order configured in the Standing data (In standing data the Administrator can configure settings for the application)
+
+**Tasks**
+
+* **API Get Update**\
+  The Task "identifier" is now included in the task API and Direct data API
+* **Tasks Post update**\
+  Hyperlinks can be included in the API Post
+
+- [ ] For more information see in the CERRIX application under the question mark the API documentation
+
+**Incidents**
+
+* **Standing data configuration**
+  * It is now possible to change the name of the standard incident types "Data breach" and "Operational incident". &#x20;
+  *   Move fields within a section and from 1 section to another
+
+      It is now  possible to reorganize the custom fields of an incident type by moving fields within a section and from 1 section to another. Note: Only the main tab "details" cannot be organized in this way
+*   **Financial impact component ordering**
+
+    Affected internal organizations and third parties are now shown below each other:&#x20;
+
+    * On top all internal organizations are shown in the order that they are added,&#x20;
+    * Below the organizations the third parties are shown in alphabetical order.  &#x20;
+*   **Warning when removing incident type**
+
+    A warning is shown if an incident type is removed and the associated tab contains data. The warning is introduced because these data in the incident type tab will be removed automatically.
+
+### Notable Fixes&#x20;
+
+#### **Risks**
+
+* Restricted risk writers could create a risk for any internal organization\
+  A user with only restricted rights can only view and edit risk of their own organizatio, Yet they were able to create a risk for any organization. This is now limited as well: restricted writers can only create a risk within their own organization.
+
+#### **Forms**
+
+* **Forms  freeze upon saving**\
+  If a form contains multiple pages and the form is saved, the form "freezed" and could only be closed and reopened again to continue
+
+**Incidents**
+
+*   **System default preset update**
+
+    System default preset was shown but it did not refresh the filter if clicked. The Default preset is not shown anymore, unless the preset is added as favorite.
+*   **Assigned reporter**
+
+    A reporter with no further rights should not be able to assign another reporter.&#x20;
+*   **Preset preview**
+
+    The Preset filter preview did not work anymore.
+
 ## ACC: 30 September 2025, PRD: 4 November 2025
 
 #### General lay out
@@ -24,13 +81,9 @@ The release notes are published shortly before a new release to the acceptance e
 
 #### Incidents
 
-*   **Change the standard incident type tabs Operational Incident and Databreach**
-
-    For the incident types "Operational Incident" and "Databreach" It is possible&#x20;
-
-    * To change the Incident type name,&#x20;
-    * To hide the standard fields defined in the associated tab. Please note that a field is hidden and is used in an Incident Form, the data entered in the Form for this field will still be mapped to the incident but it will not be visible because the field is hidden.
-    * To add new sections and to add fields to all sections&#x20;
+* **Change the standard incident type tabs Operational Incident and Databreach**
+  * To hide the standard fields defined in the associated tab. Please note that a field is hidden and is used in an Incident Form, the data entered in the Form for this field will still be mapped to the incident but it will not be visible because the field is hidden.
+  * To add new sections and to add fields to all sections&#x20;
 *   **Administrators can restore Deleted incidents**
 
     Deleted incidents are visible for the unrestricted Administrators as one of the categories of Deleted Items. Now it is possible to restore these deleted incidents as well.
