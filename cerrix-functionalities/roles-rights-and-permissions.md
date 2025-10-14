@@ -18,12 +18,6 @@ CERRIX provides a Permission Matrix for each key module. These matrices are the 
 
 ## Incidents Permission Matrix
 
-The Incidents module in CERRIX is built to support collaboration across multiple roles. Each role is designed with specific permissions to ensure the right level of access and responsibility for different users within your organization. Understanding these roles helps configure your incident management process effectively.
-
-### Roles and Permissions
-
-The Incidents module supports eight distinct user roles. Each role defines a set of permissions that grant access to specific parts of the module. Roles must be explicitly assigned to users. To provide broader access or responsibilities, users can be assigned multiple roles simultaneously.
-
 | Role                             | Description                                                                                                                              |
 | -------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------- |
 | Event Unrestricted Administrator | Full access to all event-related functionality and visibility across all organizations.                                                  |
@@ -38,3 +32,12 @@ The Incidents module supports eight distinct user roles. Each role defines a set
 You can see which permissions these roles have in this permission matrix:
 
 {% file src="../.gitbook/assets/CERRIX-INCIDENT-PERMISSION-MATRIX-17-09-2025.xlsx" %}
+
+## Risks Permission Matrix
+
+<table><thead><tr><th width="245">Roles</th><th width="469">Description</th></tr></thead><tbody><tr><td>Risk Unrestricted Administrator</td><td>The Unrestricted Administrator has unrestricted read and write rights, can add entries in catalogues.</td></tr><tr><td>Risk Restricted Administrator</td><td>The Restricted Administrator has restricted read and write rights for his own organization.</td></tr><tr><td>Risk Unrestricted Writer</td><td>The Unrestricted Writer has write rights for the entire organization.</td></tr><tr><td>Risk Restricted Writer</td><td>The Restricted Writer has write rights for his own organization.</td></tr><tr><td>Risk Unrestricted Viewer</td><td>The Unrestricted Viewer has view rights for the entire organization.</td></tr><tr><td>Risk Restricted Viewer</td><td>The Restricted Viewer has read rights for his own organization.</td></tr></tbody></table>
+
+You can see which permissions these roles have in this permission matrix:
+
+{% file src="../.gitbook/assets/CERRIX-RISKS-PERMISSION-MATRIX-14-10-2025.xlsx" %}
+
