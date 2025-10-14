@@ -37,4 +37,4 @@
 Disclaimer: The product roadmap represents our current plan. It is subject to frequent and significant change.
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (53).png" alt=""><figcaption></figcaption></figure>
