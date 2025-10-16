@@ -80,6 +80,19 @@ You can review the definitions of uptime in the [.](./ "mention").
   * Overview of recent releases.
   * Summary of incidents that may have impacted platform availability.
 
+### Drill-Down & Export Options
+
+Each SLA Dashboard widget includes an arrow icon ![](<../../../.gitbook/assets/image (55).png>) in the top-right corner. Clicking this arrow allows you to drill down into the underlying data for that specific widget.
+
+Available actions:
+
+* Print: Generate a printer-friendly version of the drill-down view.
+* Export: Download the underlying dataset in Excel or CSV format.
+
+<figure><img src="../../../.gitbook/assets/image (54).png" alt=""><figcaption></figcaption></figure>
+
+
+
 ***
 
 ## SLA Dashboard Data
@@ -87,9 +100,3 @@ You can review the definitions of uptime in the [.](./ "mention").
 * Data Source: The SLA Dashboard pulls directly from the CERRIX support and monitoring systems.
 * Refresh Rate: Data is updated in real time.
 * Only use data from July 1st 2025 onwards as a source, as only to these tickets the correct SLA's have been applied.
-
-***
-
-## Exporting & Reporting
-
-Currently, the SLA Dashboard does not provide an export-to-Excel or PDF export function. For periodic reporting we recommend taking a screenshot of the dashboard.
