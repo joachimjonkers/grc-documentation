@@ -51,3 +51,13 @@ Control Effectiveness Testing ensures that controls are functioning as intended 
 > **Best Practice**: Ensure all required documents are uploaded before moving to the next step.
 
 <figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+
+### Control Description Snapshot
+
+<figure><img src="../../.gitbook/assets/image (57).png" alt=""><figcaption></figcaption></figure>
+
+When a test plan is closed, CERRIX automatically creates a snapshot of the control description as it was at that moment.
+
+This snapshot ensures that the historical context of the control is preserved, even if the control description is updated later on. When you open a Control Advanced Effectiveness Test Plan after it has been closed, this snapshot is displayed instead of the current control description.
+
+The date displayed next to the control description indicates when the snapshot was taken.
