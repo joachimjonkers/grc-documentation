@@ -34,7 +34,7 @@ The primary objectives of this SLA are to:
 
 1. The Platform shall be available to the Customer **24 hours a day, 7 days a week, 365 days a year**, excluding periods of scheduled maintenance as described below.
 
-### Maintenance window <a href="#toc195621159" id="toc195621159"></a>
+### Maintenance Window <a href="#toc195621159" id="toc195621159"></a>
 
 Maintenance windows are defined in the publicly available [release planning](../../release-planning.md).
 
@@ -42,12 +42,12 @@ The Service Provider is responsible for all changes, updates and maintenance to 
 
 1. May at its discretion make changes or and updates to the Platform or application such as Infrastructure, Security and/or Functionality.
 2. Remind the customer prior to the start of scheduled maintenance.
-3. Shall plan the maintenance outside business hours.
+3. Shall plan the maintenance outside business hours. Such activities are typically planned between 22:00 and 07:00 (CET). Notwithstanding the foregoing, the Service Provider reserves the right to deviate from this timeframe, in which case the adjusted schedule shall be clearly communicated to the Customer as part of the scheduled maintenance notification.
 4. May, for corrective and preventive maintenance, execute unscheduled maintenance. The Service Provider will inform the customer of unscheduled maintenance.
 
 ### Support Window <a href="#toc195621160" id="toc195621160"></a>
 
-1. The customer is entitled to functional support during business hours, being Monday till Friday from 09:00 till 17:00, excluding National holidays in The Netherlands.
+1. The customer is entitled to functional support during business hours, being Monday till Friday from 09:00 till 17:00 (CET), excluding National holidays in The Netherlands.
 2. New support tickets are to be created by the customer in the customer support portal of the Service Provider: [https://support.cerrix.com](https://support.cerrix.com/).
 
 ### Ticket types & Priorities <a href="#toc195621161" id="toc195621161"></a>
@@ -81,7 +81,8 @@ During the classification process, Incidents and Bugs receive a priority:
 1. The Service Provider shall make all reasonable efforts to ensure that the production platform of its GRCA system is **available 99,5% per month**.
 2. Only the Production environment is included in this Service Level.
 3. Schedule Maintenance is excluded from this Service Level and therefore not calculated as downtime (unavailability).
-4. In case of downtime, a Recovery Point Objective of 1 hour is applicable and a Recovery Time Objective of 8 hours.
+4. In case of full application downtime, a Recovery Point Objective of 1 hour is applicable and a Resolution Time Objective of 8 hours.
+   1. For incidents of this nature, the Service Provider shall prepare a Root Cause Analysis (RCA) report, which shall include a summary of the incident, a timeline of events, the identified root cause, and a plan outlining the preventive and corrective actions to be taken.
 
 ### Software Updates <a href="#toc195621164" id="toc195621164"></a>
 
@@ -93,7 +94,7 @@ During the classification process, Incidents and Bugs receive a priority:
 
 ## Service Improvement <a href="#toc195621166" id="toc195621166"></a>
 
-When CERRIX does not meet the Service Levels for Availability or Incident Resolution Times for three consecutive months, we commit to a Service Improvement Program. The Service Improvement program is a documented program containing:
+When the Service Provider does not meet the Service Levels for Availability or Incident Resolution Times for three consecutive months, we commit to a Service Improvement Program. The Service Improvement program is a documented program containing:
 
 * Objectives & Scope
 * A Root Cause Analysis
