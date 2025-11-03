@@ -38,14 +38,13 @@ Adjustments may occur due to shifting priorities, quality assurance findings, cu
 | ----------------- | ----------- |
 | 30 September 2025 | ACC         |
 | 21 October 2025   | ACC         |
-| 4 November 2025   | PRD         |
-| 11 November 2025  | ACC         |
-| 25 November 2025  | PRD         |
-|  9 December 2025  | ACC         |
-| 23 December 2025  | PRD         |
-| 30 December 2025  | ACC         |
-| 13 January 2026   | PRD         |
-| 20 January 2026   | ACC         |
+| 5 November 2025   | PRD         |
+| 12 November 2025  | ACC         |
+| 26 November 2025  | PRD         |
+| 10 December 2025  | ACC         |
+| 31 December 2025  | ACC         |
+| 14 January 2026   | PRD         |
+| 21 January 2026   | ACC         |
 | 3 February 2026   | PRD         |
 
 ## **Release Notes**
