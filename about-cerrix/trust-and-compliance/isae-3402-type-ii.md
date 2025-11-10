@@ -13,5 +13,5 @@ Key components of an ISAE 3402 Type II report include:
 An ISAE 3402 Type II report offers a higher level of assurance than a Type I report by assessing not only the design but also the operating effectiveness of controls over time, giving clients confidence in the service provider’s ability to manage risks associated with financial reporting.
 
 {% hint style="info" %}
-Want to see the CERRIX ISAE 3402 Type II report? [Reach out to us](../getting-support.md) and we will provide it.
+Want to see the CERRIX ISAE 3402 Type II report? [Reach out to us](../getting-support/) and we will provide it.
 {% endhint %}

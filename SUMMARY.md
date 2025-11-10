@@ -48,7 +48,8 @@
 
 ## About CERRIX
 
-* [Getting Support](about-cerrix/getting-support.md)
+* [Getting Support](about-cerrix/getting-support/README.md)
+  * [Support Ticket Status](about-cerrix/getting-support/support-ticket-status.md)
 * [Release Notes](about-cerrix/release-notes.md)
 * [Release Planning](about-cerrix/release-planning.md)
 * [Product Strategy & Roadmap](about-cerrix/product-strategy-and-roadmap.md)

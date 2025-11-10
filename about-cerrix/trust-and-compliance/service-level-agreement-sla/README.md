@@ -104,6 +104,16 @@ When the Service Provider does not meet the Service Levels for Availability or I
 
 The documented Service Improvement Program will be shared with affected customers.
 
+## Reporting
+
+The Service Provider shall make available a secure, web-based [Service Level Agreement Dashboard](sla-dashboard.md) through which the Customer can monitor actual service levels in near real-time. The portal shall provide transparency into achieved Service Levels:&#x20;
+
+* Availability
+* Response Times
+* Resolution Times
+
+The Service Level Agreement Dashboard shall be accessible to authorized Customer personnel. Access credentials and role-based permissions shall be managed in coordination with the Customer.
+
 ## Definition of Terms <a href="#toc195621167" id="toc195621167"></a>
 
 | Term                         | Description                                                                                                                                                                                                                                                                                                                                       |

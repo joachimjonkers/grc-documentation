@@ -4,7 +4,7 @@ CERRIX provides a set of standardized import templates to help you efficiently u
 
 We strongly recommend always using the most recent version of each template to guarantee compatibility with the current version of the CERRIX platform.
 
-If you need guidance on using the templates or require support during the import process, please [get in touch](../about-cerrix/getting-support.md) with us.
+If you need guidance on using the templates or require support during the import process, please [get in touch](../about-cerrix/getting-support/) with us.
 
 {% file src="../.gitbook/assets/ControlTestPeriodImportTemplate May 2025.xlsx" %}
 

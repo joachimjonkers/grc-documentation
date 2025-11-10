@@ -1,0 +1,13 @@
+# Support Ticket Status
+
+The latest status of a ticket can always be viewed on the customer portal. Here, you can also add additional questions or information to a ticket.
+
+After creating a ticket, the customer receives a confirmation email containing a unique ticket number. This ticket number must be mentioned when contacting support so that the relevant employee can quickly locate and update the correct ticket with the latest information.
+
+A ticket can have one of the following statuses:
+
+<table><thead><tr><th valign="top">Status</th><th valign="top">Description</th></tr></thead><tbody><tr><td valign="top">New</td><td valign="top">A newly submitted ticket receives the status Intake, meaning the intake process will still take place.</td></tr><tr><td valign="top">Intake completed</td><td valign="top">When the intake process is completed and the ticket is ready to be processed, its status changes to Intake Completed. At this point, the SLA resolution time starts.</td></tr><tr><td valign="top">In progress</td><td valign="top">Once a CERRIX employee begins working on the ticket, the status changes to In Progress.</td></tr><tr><td valign="top">With user</td><td valign="top">If additional information is required from the reporter/user, the ticket status is set to With User, and the resolution time is paused. The inquiry takes place via the customer portal to ensure clear and well-documented communication.</td></tr><tr><td valign="top">Waiting for supplier</td><td valign="top">If tasks need to be performed by an external party, the ticket status is set to Waiting for Supplier. In this case, the resolution time continues to run.</td></tr><tr><td valign="top">Resolved</td><td valign="top">When the issue has been addressed and the solution has been implemented, the ticket status changes to <em>Resolved</em>. At this point, CERRIX awaits confirmation from the customer or a predefined waiting period before the ticket is closed. The SLA resolution time stops when the ticket reaches this status.</td></tr><tr><td valign="top">Closed</td><td valign="top"><p>When CERRIX considers a ticket to be fully resolved, the status changes to Closed.</p><p> </p></td></tr></tbody></table>
+
+&#x20;
+
+When the status of a ticket is updated, the customer receives a notification via email.

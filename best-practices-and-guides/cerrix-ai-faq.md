@@ -47,6 +47,6 @@ We provide five different variations of refined descriptions. We recommend choos
 The AI is designed to use industry best practices, but you can always edit the descriptions to align with your organization's unique standards and compliance requirements.
 
 {% hint style="info" %}
-Have more questions about CERRIX AI? [Reach out](../about-cerrix/getting-support.md) to us!
+Have more questions about CERRIX AI? [Reach out](../about-cerrix/getting-support/) to us!
 {% endhint %}
 
