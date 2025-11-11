@@ -8,6 +8,42 @@ For insight into our release schedule for acceptance and production, please refe
 The release notes are published shortly before a new release to the acceptance environment.
 {% endhint %}
 
+## ACC: 12 November 2025, PRD: 26 November 2025
+
+#### General
+
+* **Favicon changed** \
+  The CERRIX icon in the browser tab is updated to the new logo.
+
+#### Tasks
+
+* **Tasks tab title now contains task identifier**\
+  The tab header for a Task in the CERRIX application did not include the task identifier. The Task tab header is changed to: (T) \<Identifier> - \<Action name> - \<Task name>. (T) indicates that the tab contains a task.
+* **API: POST Document to a Task** \
+  It is now possible to upload a document to a Task via an API connection. More information can be found in the updated in-platform API documentation.
+
+#### Controls
+
+* **API: Generate samples for a control test plan** \
+  It is now possible to generate samples for a control test plan via an API. More information can be found in the updated in-platform API documentation.
+
+### Notable Fixes&#x20;
+
+#### Control testing
+
+* **Evidence upload error handling**\
+  Evidence uploaded can no longer be lost if during saving an issue is found. Now even when an error is shown, the evidence uploaded but not yet saved will remain available.
+
+#### MOI widget
+
+* **Widget graph click through**\
+  The Widget graphs can click through to an overview using that same filter. For MOI widgets a problem with that filtering is solved.
+
+### Incidents
+
+* **History**\
+  Deletion of incident types and some other field values of multiselect fields is now shown correctly.
+
 ## ACC: 21 October 2025, PRD: 4 November 2025
 
 #### Risk&#x20;
