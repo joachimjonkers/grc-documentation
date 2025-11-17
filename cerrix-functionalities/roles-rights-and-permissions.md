@@ -49,7 +49,7 @@ You can see which permissions these roles have in this permission matrix:
 
 {% file src="../.gitbook/assets/CERRIX-CONTROLS-PERMISSION-MATRIX-11-11-2025.xlsx" %}
 
-## Controls Effectiveness Testing Permission Matrix
+## Control Effectiveness Testing Permission Matrix
 
 The role descriptions for Control Effectiveness Testing are the same as those for the [Controls](roles-rights-and-permissions.md#controls-permission-matrix).
 

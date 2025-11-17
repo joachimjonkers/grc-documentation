@@ -61,3 +61,9 @@ When a test plan is closed, CERRIX automatically creates a snapshot of the contr
 This snapshot ensures that the historical context of the control is preserved, even if the control description is updated later on. When you open a Control Advanced Effectiveness Test Plan after it has been closed, this snapshot is displayed instead of the current control description.
 
 The date displayed next to the control description indicates when the snapshot was taken.
+
+## Control Effectiveness Testing Roles, Rights and Permissions
+
+You can find an overview of the different roles, rights and permission for controls in this handy overview:
+
+[#controls-permission-matrix](../roles-rights-and-permissions.md#controls-permission-matrix "mention")

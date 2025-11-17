@@ -67,8 +67,17 @@ After saving a control, additional linking options become available in the left-
 
 ***
 
+## Controls Roles, Rights and Permissions
+
+You can find an overview of the different roles, rights and permission for controls in this handy overview:
+
+[#controls-permission-matrix](../../roles-rights-and-permissions.md#controls-permission-matrix "mention")
+
+***
+
 {% hint style="info" %}
 While we work on creating content for this documentation, more information can be found in the document below.
 {% endhint %}
 
 {% file src="../../../.gitbook/assets/Controls - Work instructions.pdf" %}
+
