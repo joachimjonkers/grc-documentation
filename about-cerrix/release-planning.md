@@ -34,18 +34,16 @@ The release schedule is subject to change.
 Adjustments may occur due to shifting priorities, quality assurance findings, customer needs, or operational considerations.
 {% endhint %}
 
-| Date              | Environment |
-| ----------------- | ----------- |
-| 30 September 2025 | ACC         |
-| 21 October 2025   | ACC         |
-| 5 November 2025   | PRD         |
-| 12 November 2025  | ACC         |
-| 26 November 2025  | PRD         |
-| 10 December 2025  | ACC         |
-| 31 December 2025  | ACC         |
-| 14 January 2026   | PRD         |
-| 21 January 2026   | ACC         |
-| 3 February 2026   | PRD         |
+| Date             | Environment |
+| ---------------- | ----------- |
+| 26 November 2025 | PRD         |
+| 10 December 2025 | ACC         |
+| 31 December 2025 | ACC         |
+| 14 January 2026  | PRD         |
+| 11 February 2026 | ACC         |
+| 25 February 2026 | PRD         |
+| 4 March 2026     | ACC         |
+| 18 March 2026    | PRD         |
 
 ## **Release Notes**
 
