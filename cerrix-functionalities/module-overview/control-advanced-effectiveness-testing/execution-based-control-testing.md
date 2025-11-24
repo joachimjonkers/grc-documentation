@@ -1,5 +1,9 @@
 # Execution-Based Control Testing
 
+{% hint style="warning" %}
+This functionality will be available in ACC on 10 December 2025 and in PRD on 14 January 2025
+{% endhint %}
+
 **Execution-based control testing** allows you to assess the effectiveness of controls by directly using the control execution tasks that occurred within a defined test period. This feature integrates control execution data with advanced effectiveness testing, providing a streamlined and auditable testing workflow.
 
 {% hint style="info" %}
