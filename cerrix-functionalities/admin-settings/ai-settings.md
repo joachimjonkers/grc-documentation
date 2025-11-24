@@ -41,8 +41,7 @@ For transparency and compliance, CERRIX maintains a log of:
 * The user who accepted the AI Terms and Conditions.
 * The timestamp of when the acceptance occurred.
 
-![](<../../.gitbook/assets/image (4) (2).png>)\
-
+![](<../../.gitbook/assets/image (4) (2).png>)<br>
 
 This information is available for auditing purposes and helps ensure proper governance over the use of AI in your environment.
 

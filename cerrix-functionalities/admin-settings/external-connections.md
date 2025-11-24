@@ -83,8 +83,7 @@ Description automatically generated](../../.gitbook/assets/4.png)
 
 Fill in the URL as:
 
-`https://<your-environment>.cerrix.com/api/thirdpartyassurance/requestexport`\
-
+`https://<your-environment>.cerrix.com/api/thirdpartyassurance/requestexport`<br>
 
 * **Add the following query Params:**
 
@@ -131,8 +130,7 @@ Description automatically generated](../../.gitbook/assets/7.png)
 
 Fill in the URL as:
 
-`https://<your-environment>.cerrix.com/api/thirdpartyassurance/getresults/<requestId>`\
-
+`https://<your-environment>.cerrix.com/api/thirdpartyassurance/getresults/<requestId>`<br>
 
 1. Fill in the 'requestId' field with the Request ID received through the previous API call.
 2. Set up the Authorization.
