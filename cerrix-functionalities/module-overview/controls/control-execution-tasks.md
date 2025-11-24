@@ -14,6 +14,10 @@ This guide will cover:
 * How to create and manage control execution tasks.
 * Key interfaces for responsible and reviewer roles.
 
+{% hint style="info" %}
+Did you know you can use Control Execution Tasks as evidence for Control Advanced Effectiveness Testing? Read more [here](../control-advanced-effectiveness-testing/execution-based-control-testing.md).
+{% endhint %}
+
 ## Activating Control Execution for a Control
 
 To start using control execution tasks, you must first activate control execution for the relevant control:
