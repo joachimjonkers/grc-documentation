@@ -2,7 +2,7 @@
 
 ## Introduction <a href="#toc195621151" id="toc195621151"></a>
 
-This Service Level Agreement ("SLA") sets forth the terms and conditions under which CERRIX ("Service Provider") commits to deliver its Governance, Risk Management, Compliance, and Audit Management ("GRCA") SaaS platform ("the Service") to its customers ("Customer"). This SLA is an integral part of the agreement between the Service Provider and the Customer, ensuring clarity, accountability, and a shared understanding of service expectations.
+This Service Level Agreement ("SLA") sets forth the terms and conditions under which CERRIX ("Service Provider") commits to deliver its Governance, Risk Management and Compliance ("GRC") SaaS platform ("the Service") to its customers ("Customer"). This SLA is an integral part of the agreement between the Service Provider and the Customer, ensuring clarity, accountability, and a shared understanding of service expectations.
 
 ### Purpose <a href="#toc195621152" id="toc195621152"></a>
 
@@ -10,7 +10,7 @@ The purpose of this SLA is to define the levels of service the Customer can expe
 
 ### Scope <a href="#toc195621153" id="toc195621153"></a>
 
-This SLA applies exclusively to the GRCA SaaS platform hosted on Microsoft Azure. It outlines the responsibilities of the Service Provider in ensuring platform availability, reliability, security, and performance, as well as the responsibilities of the Customer in adhering to usage guidelines and reporting issues.
+This SLA applies exclusively to the GRC SaaS platform hosted on Microsoft Azure. It outlines the responsibilities of the Service Provider in ensuring platform availability, reliability, security, and performance, as well as the responsibilities of the Customer in adhering to usage guidelines and reporting issues.
 
 ### Out of scope <a href="#toc195621154" id="toc195621154"></a>
 
@@ -78,7 +78,7 @@ During the classification process, Incidents and Bugs receive a priority:
 
 ### Availability <a href="#toc195621163" id="toc195621163"></a>
 
-1. The Service Provider shall make all reasonable efforts to ensure that the production platform of its GRCA system is **available 99,5% per month**.
+1. The Service Provider shall make all reasonable efforts to ensure that the production platform of its GRC system is **available 99,5% per month**.
 2. Only the Production environment is included in this Service Level.
 3. Schedule Maintenance is excluded from this Service Level and therefore not calculated as downtime (unavailability).
 4. In case of full application downtime, a Recovery Point Objective of 1 hour is applicable and a Resolution Time Objective of 8 hours.
