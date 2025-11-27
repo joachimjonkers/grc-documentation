@@ -12,9 +12,9 @@ Execution-based control testing is only available when using the latest _Control
 
 ## **Overview**
 
-In many organizations, controls generate [execution tasks](../controls/control-execution-tasks.md) according to a predefined schedule (e.g., monthly access right reviews). Execution-based testing collects these tasks and uses them as the test source, removing the need to manually upload population files.
+In many organizations, controls require [tasks](../controls/control-execution-tasks.md) to be executed according to a predefined schedule (e.g., monthly access right reviews). Execution-based testing collects these tasks and uses them as the test source, removing the need to manually upload population files.
 
-When a control execution task is completed in CERRIX, its evidence and metadata become available as input for the control test.
+All control executions scheduled within the test period are automatically included as the source for the control test.
 
 ## **Preconditions**
 
