@@ -8,6 +8,56 @@ For insight into our release schedule for acceptance and production, please refe
 The release notes are published shortly before a new release to the acceptance environment.
 {% endhint %}
 
+## ACC: 10 December 2025, PRD: 14 January 2026
+
+#### General
+
+* **Hyperlink Length**\
+  Across all modules where hyperlinks can be added, the maximum allowed hyperlink length has been extended to 32,767 characters. Line breaks and whitespace characters are not permitted.
+
+#### Incidents
+
+*   **Notification for Added Incident Types**
+
+    In the configuration tab of an Incident Type, you can define notification email addresses. These recipients will now be notified not only when a new incident is created, but also when an incident type is added.
+* **Highlight Active Browse Preset**\
+  In the browse preset overview the active preset is highlighted by a dark line around the active preset
+*   <mark style="color:$primary;">**Export of Financial Details (fix will be released on 31 December 2025 in ACC)**</mark>
+
+    From _Dashboard Insights → Exports_, you can create an Incident Overview Export. This export is intended to provide an Excel file containing details not available through a workspace export, such as financial information and the names of linked risks and controls.
+
+    The export is visible but not yet fully functional: after deleting a custom field, the export currently fails. This issue will be resolved in the next ACC release on 31 December 2025, prior to the production rollout on 14 January 2026.
+
+#### Controls
+
+*   **API for Custom Fields**
+
+    A dedicated API is now available to retrieve custom field definitions and values for controls.
+
+    *   `GET /directdata/v1/controlcustomfields`
+
+        Returns all custom field definitions, including fields that are not visible.
+    *   `GET /directdata/v1/controlcustomfieldvalues`
+
+        Returns, per control, the values of all visible custom fields that contain a value.
+
+#### Third Party
+
+*   **Custom Field History Visible**
+
+    Changes to custom fields within Third Party records are now fully traceable in the History overview.
+
+### Notable Fixes&#x20;
+
+*   **Process Print Formatting**
+
+    Hard returns and spaces were previously omitted in process printouts. These are now properly included to improve readability.
+* **Organizations & Business Dimensions Navigator: Assessment document upload restored**\
+  For assessments targeting only an Organization (without a Business Dimension), documents could not be uploaded in the _Assessment Documents_ section. This issue has been resolved.
+*   **Task Series Definition**
+
+    When defining a task series, users choose between recurrence by number of days or by specific weekday using a radio button. The task series is now correctly created based on the selected option.
+
 ## ACC: 12 November 2025, PRD: 26 November 2025
 
 #### General
