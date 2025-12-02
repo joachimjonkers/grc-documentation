@@ -18,11 +18,9 @@ All control executions scheduled within the test period are automatically includ
 
 ## **Preconditions**
 
-Before initiating an execution-based test:
+Before initiating an execution-based test you must ensure that control execution is enabled in the configuration of the control:
 
-* The control must have **scheduled control execution tasks** within the test period.
-* A user with a **Control Writer** role must have defined these execution-based tasks.
-* The control test plan must be configured to **use control execution** as source material.
+<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 ## **Activating Execution-Based Testing**
 
@@ -30,7 +28,7 @@ Execution-based testing is configured within the control test plan.
 
 1. Create or open a control test plan.
 2. Ensure the **test period** matches a period in which execution tasks are scheduled.
-3. On the second page:\*\* Sample Generation\*\*, enable the option: **Use control execution**
+3. On the second page: **Sample Generation**, enable the option: **Use control execution**
 
 ![](<../../../.gitbook/assets/Unknown image>)
 
@@ -100,6 +98,6 @@ The tester and reviewer can assess samples as they normally would. Both roles ca
 
 ## **Additional Notes**
 
-* If no execution tasks exist for a control, CERRIX will **disable test initiation** and display a warning.
-* Execution tasks that were **deleted or rescheduled outside the test period** are not included in the population.
-* This mechanism ensures a fully auditable snapshot: Execution tasks used in a test **cannot be altered**, ensuring the integrity of the sample.
+* If there are no execution tasks within the period of the control test, it is assumed that the control didn't occur. &#x20;
+* Execution tasks that were **deleted or rescheduled outside the test period** before sampling took place are not included in the population. After sampling it is not possible to delete and even  rescheduling the task will not remove it from the source of the testplan.
+* This mechanism ensures a fully auditable snapshot: Execution tasks used in a test **cannot be removed from the testplan after sampling**, ensuring the integrity of the sample.
