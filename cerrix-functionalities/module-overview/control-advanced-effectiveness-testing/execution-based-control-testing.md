@@ -64,7 +64,7 @@ The source uploader only needs to provide the **sample size**. After sample gene
 
 #### **Notes**
 
-* The original source, an overview of all control executions for the test plan preiod, remains accessible through the **Source documents** section.
+* The original source, an overview of all control executions for the test plan period, remains accessible through the **Source documents** section.
 * Completed execution tasks included in a test sample **cannot be deleted or reopened** to safeguard audit integrity.
 * If **no execution tasks** are found in the test period, CERRIX assumes the control **did not occur.** The tester can only give a final conclusion, based on that assumption. If the control did occur, with the source  evidence not being registered in control executions but elsewhere, the testplan should be recreated without the option "Use control execution".&#x20;
 
