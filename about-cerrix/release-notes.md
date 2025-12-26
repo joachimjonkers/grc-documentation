@@ -8,6 +8,50 @@ For insight into our release schedule for acceptance and production, please refe
 The release notes are published shortly before a new release to the acceptance environment.
 {% endhint %}
 
+## ACC: 31 December 2025, PRD: 14 January 2026
+
+{% hint style="success" %}
+With this release, [execution-based-control-testing.md](../cerrix-functionalities/module-overview/control-advanced-effectiveness-testing/execution-based-control-testing.md "mention")will be made available for all customers.
+{% endhint %}
+
+#### Controls
+
+*   **History of uploaded files**
+
+    New design testing screens did not show the history of creation and changes to the uploaded file. Now both the old versions, and the information who uploaded when, are made available.
+*   **Testing based on control executions**&#x20;
+
+    This is a new feature, making testing easy for those controls where control execution tasks are used. The complete feature is described here: [execution-based-control-testing.md](../cerrix-functionalities/module-overview/control-advanced-effectiveness-testing/execution-based-control-testing.md "mention").
+
+#### Incidents
+
+*   **Ability to create MOIs can be removed**
+
+    All Incident MOIs are currently visible for all users that can access the MOI workspace. If this is not acceptable, it is possible for the Administrator to turn off the possibility to create new incident MOIs in the Event environmental settings by activating the option "Hide Create Incident MOI". In the meantime we are working on an upgrade of the incident module that will enable to limit the view permissions for incident MOIs.&#x20;
+*   **Incident export enriched**
+
+    The incident overview export, available from the dashboard/insights/exports module is extended with information about the full path of organizations, business dimensions, framework dimensions and root cause. These columns are added at the end of the tab "Incident details".
+
+#### Third Party
+
+*   **Third party Contract Custom fields**
+
+    Custom fields functionality is added to third party contracts.
+
+#### Administration controls application settings
+
+*   **Setting for holidays and Days off**&#x20;
+
+    Administrators can now define Working days and Days off in a new Admin Controls module called "Workday organizer". This information is not yet used in the application. In later releases, in the planning of for instance Tasks, an option will be added to skip non working days and days off.
+
+### Notable Fixes&#x20;
+
+*   **Incidents**
+
+    The incident overview export, available from the dashboard/insights/exports module failed if a risk or control linked to an incident was deleted. The issue is solved.
+
+
+
 ## ACC: 10 December 2025, PRD: 14 January 2026
 
 #### General
