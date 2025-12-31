@@ -11,7 +11,7 @@ The release notes are published shortly before a new release to the acceptance e
 ## ACC: 31 December 2025, PRD: 14 January 2026
 
 {% hint style="success" %}
-With this release, [execution-based-control-testing.md](../cerrix-functionalities/module-overview/control-advanced-effectiveness-testing/execution-based-control-testing.md "mention")will be made available for all customers.
+With this release, [execution-based-control-testing.md](../cerrix-functionalities/module-overview/control-advanced-effectiveness-testing/execution-based-control-testing.md "mention") will be made available for all customers.
 {% endhint %}
 
 #### Controls
