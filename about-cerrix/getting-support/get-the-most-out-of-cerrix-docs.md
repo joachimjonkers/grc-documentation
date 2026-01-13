@@ -18,7 +18,7 @@ At the top right of every documentation page, you'll find a **search bar powered
 
 #### How It Works
 
-Simply type your question in natural language—just as you would ask a colleague. The AI understands your question and provides relevant answers from the documentation.
+Simply type your question in natural language - just as you would ask a colleague. The AI understands your question and provides relevant answers from the documentation.
 
 **Example:**
 
@@ -95,10 +95,10 @@ When the AI provides an answer, it will:
 
 Notice how it:
 
-* ✅ Tells you exactly what to do
-* ✅ Specifies where to go ("Controls module", "left-hand linking panel")
-* ✅ Explains what you'll find there
-* ✅ References the documentation section for more details
+* Tells you exactly what to do
+* Specifies where to go ("Controls module", "left-hand linking panel")
+* Explains what you'll find there
+* References the documentation section for more details
 
 ### If You Don't Find What You Need
 
@@ -151,7 +151,7 @@ Here are some common questions to get you started:
 
 ### Privacy and Your Questions
 
-Your search queries help us improve the documentation. No personal or sensitive data from CERRIX is used—only your questions help us understand what topics need clearer documentation.
+Your search queries help us improve the documentation. No personal or sensitive data from CERRIX is used - only your questions help us understand what topics need clearer documentation.
 
 ### Start Searching Now!
 
@@ -163,8 +163,8 @@ Look at the top right of this page - see the search bar? Try typing a question r
 * "What are user roles?"
 * "How can modules be linked together?"
 
-The AI is ready to help you find exactly what you need, exactly when you need it.
+The AI search functionality is ready to help you find exactly what you need, exactly when you need it.
 
 ***
 
-**Remember:** There are no silly questions. The AI search is here to help you work efficiently in CERRIX, whether you're a first-time user or an experienced administrator. Ask away!
+**Remember:** There are no silly questions. The AI search is here to help you work efficiently in CERRIX, whether you're a first-time user or an experienced administrator. And the best of all; AI doesn't judge!
