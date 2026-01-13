@@ -1,6 +1,6 @@
 # Introduction to CERRIX
 
-<figure><img src=".gitbook/assets/Screenshot 2024-11-27 at 10.51.37.png" alt=""><figcaption></figcaption></figure>
+<div data-full-width="true"><figure><img src=".gitbook/assets/Screenshot 2024-11-27 at 10.51.37.png" alt="" width="375"><figcaption></figcaption></figure></div>
 
 Welcome to CERRIX, your comprehensive solution for Governance, Risk, and Compliance (GRC) management. This documentation will provide you with an understanding of how to use CERRIX effectively.
 
