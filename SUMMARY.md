@@ -61,7 +61,6 @@
 * [Getting Support](about-cerrix/getting-support/README.md)
   * [Support Ticket Status](about-cerrix/getting-support/support-ticket-status.md)
   * [Get the most out of CERRIX Docs](about-cerrix/getting-support/get-the-most-out-of-cerrix-docs.md)
-  * [Untitled](about-cerrix/getting-support/untitled.md)
 * [Release Notes](about-cerrix/release-notes.md)
 * [Release Planning](about-cerrix/release-planning.md)
 * [Product Strategy & Roadmap](about-cerrix/product-strategy-and-roadmap.md)
