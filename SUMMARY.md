@@ -46,12 +46,22 @@
 * [Implementation Guide](best-practices-and-guides/implementation-guide.md)
 * [Import Templates](best-practices-and-guides/import-templates.md)
 * [Video Tutorials](best-practices-and-guides/video-tutorials.md)
+* [User Training](best-practices-and-guides/user-training/README.md)
+  * [Risks](best-practices-and-guides/user-training/risks.md)
+  * [Controls](best-practices-and-guides/user-training/controls.md)
+  * [Control Testing](best-practices-and-guides/user-training/control-testing.md)
+  * [Measures of Improvement (MoI's)](best-practices-and-guides/user-training/measures-of-improvement-mois.md)
+  * [Incidents](best-practices-and-guides/user-training/incidents.md)
+  * [Finding Reports](best-practices-and-guides/user-training/finding-reports.md)
+  * [Data Management](best-practices-and-guides/user-training/data-management.md)
+  * [Third Party Risk Management](best-practices-and-guides/user-training/third-party-risk-management.md)
 
 ## About CERRIX
 
 * [Getting Support](about-cerrix/getting-support/README.md)
   * [Support Ticket Status](about-cerrix/getting-support/support-ticket-status.md)
   * [Get the most out of CERRIX Docs](about-cerrix/getting-support/get-the-most-out-of-cerrix-docs.md)
+  * [Untitled](about-cerrix/getting-support/untitled.md)
 * [Release Notes](about-cerrix/release-notes.md)
 * [Release Planning](about-cerrix/release-planning.md)
 * [Product Strategy & Roadmap](about-cerrix/product-strategy-and-roadmap.md)
