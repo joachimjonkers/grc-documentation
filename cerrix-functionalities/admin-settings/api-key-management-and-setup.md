@@ -48,7 +48,7 @@ If you lose the credentials, you will need to generate a new API key.
 
 ## **5. Using the API Key**
 
-Use the generated **Identifier** and **Password** to authenticate your requests as described in the [CERRIX API manuals](../api-documentation.md). Ensure that:
+Use the generated **Identifier** and **Password** to authenticate your requests as described in the [CERRIX API manuals](api-documentation.md). Ensure that:
 
 * The calling system’s IP matches one of the allowed IPs.
 * The API key has been granted access to the endpoints you intend to call.

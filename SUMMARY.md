@@ -36,7 +36,7 @@
   * [AI Settings](cerrix-functionalities/admin-settings/ai-settings.md)
   * [Authentication & User Provisioning](cerrix-functionalities/admin-settings/authentication-and-user-provisioning.md)
   * [API Key Management & Setup](cerrix-functionalities/admin-settings/api-key-management-and-setup.md)
-* [API Documentation](cerrix-functionalities/api-documentation.md)
+  * [API Documentation](cerrix-functionalities/admin-settings/api-documentation.md)
 
 ## Best Practices & Guides
 
@@ -44,6 +44,7 @@
 * [How to Create an Anonymous Form (e.g. for Whistleblowing)](best-practices-and-guides/how-to-create-an-anonymous-form-e.g.-for-whistleblowing.md)
 * [CERRIX AI FAQ](best-practices-and-guides/cerrix-ai-faq.md)
 * [Implementation Guide](best-practices-and-guides/implementation-guide.md)
+* [How CERRIX APIs fit into your GRC architecture](best-practices-and-guides/how-cerrix-apis-fit-into-your-grc-architecture.md)
 * [Import Templates](best-practices-and-guides/import-templates.md)
 * [Video Tutorials](best-practices-and-guides/video-tutorials.md)
 * [User Training](best-practices-and-guides/user-training/README.md)
