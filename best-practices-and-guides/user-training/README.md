@@ -22,8 +22,6 @@ CERRIX follows a continuous improvement cycle that forms the foundation of effec
 
 **Risk → Control → Execution → Testing → Improvement**
 
-> 🖼️ **\[SCREENSHOT PLACEHOLDER: The GRC Cycle Diagram]** Show visual representation of the complete cycle with arrows connecting each stage
-
 Understanding this cycle helps you see how different parts of CERRIX work together:
 
 1. **Identify risks** that could impact your organisation
@@ -78,8 +76,6 @@ Manage data processing activities for GDPR compliance and privacy risk managemen
 
 CERRIX modules aren't separate tools – they work together to create a complete risk management system.
 
-> 🖼️ **\[SCREENSHOT PLACEHOLDER: Module Integration Diagram]** Visual showing connections: Risks ↔ Controls ↔ Testing ↔ MoIs, with Incidents and Audits feeding into the cycle
-
 **Risks link to Controls** – Show which controls mitigate which risks
 
 **Controls link to Testing** – Execution records feed into effectiveness testing
@@ -98,26 +94,16 @@ These connections create traceability. You can follow a chain from initial risk 
 
 ### Navigating the CERRIX Interface
 
-> 📹 **\[VIDEO PLACEHOLDER: CERRIX Navigation Basics - 3 minutes]**
->
-> * Main navigation menu
-> * Opening workspaces
-> * Understanding the workspace layout
-> * Switching between organisations
-
 #### Main Navigation
 
 The left-hand navigation menu provides access to all CERRIX modules. Click on any module name to open its workspace.
-
-> 🖼️ **\[SCREENSHOT PLACEHOLDER: Main Navigation Menu]** Annotate: Point to each module in the navigation (Risks, Controls, Testing, MoIs, Incidents, Finding Reports, Data Management)
 
 #### Workspaces
 
 Workspaces are your main views of data. Each module has a workspace showing all relevant items (risks, controls, incidents, etc.).
 
-> 🖼️ **\[SCREENSHOT PLACEHOLDER: Example Workspace View]** Annotate:
+> 🖼️ **\[VIDEO PLACEHOLDER: Example Workspace View]** Annotate:
 >
-> * "List of items with key information"
 > * "Filter and configuration buttons at top"
 > * "Action buttons (add new, export, etc.)"
 > * "Click any row to open details"
@@ -135,25 +121,12 @@ Every workspace includes:
 
 Every workspace in CERRIX offers powerful filtering and configuration options. Learning these once helps you work efficiently everywhere.
 
-> 📹 **\[VIDEO PLACEHOLDER: Workspace Filtering and Configuration - 4 minutes]**
->
-> * Opening advanced configuration
-> * Applying filters to columns
-> * Saving and managing presets
-> * Setting a default preset
-
 #### Applying Filters
 
 1. Click **advanced configuration** to open the filter panel
 2. Each column can be filtered individually
 3. Select your filter criteria (equals, contains, date ranges, etc.)
 4. Click **apply configuration** to refresh the view
-
-> 🖼️ **\[SCREENSHOT PLACEHOLDER: Advanced Configuration Panel]** Annotate:
->
-> * "advanced configuration button"
-> * "Filter options for each column"
-> * "apply configuration button"
 
 #### Customising Table Columns
 
@@ -171,7 +144,7 @@ Presets save your filter and column settings for reuse:
 3. Enter a descriptive preset name
 4. Click **+** to save the preset
 
-> 🖼️ **\[SCREENSHOT PLACEHOLDER: Preset Management Interface]** Annotate:
+> 🖼️ **\[VIDEO PLACEHOLDER: Preset Management Interface]** Annotate:
 >
 > * "preset management button"
 > * "Name field for new preset"
@@ -207,8 +180,6 @@ Most modules follow a similar pattern for creating new items:
 4. Link to related items if needed
 5. Click **save**
 
-> 🖼️ **\[SCREENSHOT PLACEHOLDER: Create New Item Form]** Show a typical "add new" form with required fields marked
-
 #### Linking Items Together
 
 CERRIX uses a consistent linking interface across modules:
@@ -219,13 +190,6 @@ CERRIX uses a consistent linking interface across modules:
 4. Browse or search for items to link
 5. Drag items into the linked area or click to select
 6. Click **save**
-
-> 🖼️ **\[SCREENSHOT PLACEHOLDER: Link Panel in Action]** Annotate:
->
-> * "Link panel button"
-> * "Available items to link"
-> * "Drag or click to select"
-> * "save button"
 
 #### Viewing History and Audit Trail
 
