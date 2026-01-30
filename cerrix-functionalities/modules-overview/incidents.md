@@ -47,9 +47,6 @@ Learn how to create a new incident from scratch, including required fields, cate
 * Walkthrough of the incident form
 * Mandatory vs optional fields
 * Assigning responsible users or departments
-* Screenshot placeholders:
-  * Incident creation form
-  * Example of a completed incident entry
 
 {% content-ref url="incidents/creating-a-new-incident.md" %}
 [creating-a-new-incident.md](incidents/creating-a-new-incident.md)
@@ -64,9 +61,6 @@ Understand how incident workflows are configured and how incidents progress thro
 * Overview of workflow stages
 * Transition logic and actions
 * Escalation and reassignment rules
-* Screenshot placeholders:
-  * Workflow stage diagram
-  * Example of an incident in-progress
 
 {% content-ref url="incidents/incidents-workflow.md" %}
 [incidents-workflow.md](incidents/incidents-workflow.md)
@@ -81,9 +75,6 @@ Explore the centralized workspace where you can view, filter, and manage all exi
 * Grid and filter functionalities
 * Status indicators and priority levels
 * Search and sorting capabilities
-* Screenshot placeholders:
-  * Incidents workspace grid
-  * Filtering panel
 
 {% content-ref url="incidents/incidents-workspace.md" %}
 [incidents-workspace.md](incidents/incidents-workspace.md)
