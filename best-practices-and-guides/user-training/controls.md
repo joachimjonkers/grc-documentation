@@ -15,13 +15,6 @@ This training explains how to:
 * Work with control attributes and execution frequency
 * Ensure controls are properly classified and documented
 
-> 📹 **\[VIDEO PLACEHOLDER: Controls Module Overview - 3 minutes]**
->
-> * What controls are and how they work
-> * Types of controls (preventive, detective, repressive)
-> * How controls connect to risks and testing
-> * Real example of a control in CERRIX
-
 ***
 
 ### Accessing the Controls Workspace
@@ -32,13 +25,6 @@ Navigate to the Controls Workspace from the main menu. The workspace provides:
 * Central oversight of control quality and coverage
 * The ability to create and save custom views with filters and sorting
 * Export functionality to Excel or other formats
-
-> 🖼️ **\[SCREENSHOT PLACEHOLDER: Controls Workspace Overview]** Annotate:
->
-> * "Controls Workspace in navigation menu"
-> * "List of controls with key columns (Name, Organisation, Owner, Type, Frequency, Key Control)"
-> * "add new control button (top right)"
-> * "advanced configuration button"
 
 The Controls Workspace shows all controls belonging to organisations you have access to, along with their types, frequencies, owners, and linked risks.
 
@@ -71,7 +57,7 @@ The "Create New Control" form opens. Start with these required fields:
 
 **Description** – Write a comprehensive description of the control. We recommend using the **5W 1H model**:
 
-> \[Link to AI functionality Docs page]
+> 💡 **Tip:** Use the [AI functionality in Controls](https://docs.cerrix.com/cerrix-functionalities/module-overview/controls/ai-control-description-refinement) for guidelines on the Control Description&#x20;
 
 **Example:** "**Who:** IT Security Manager **What:** Reviews all active user accounts and access permissions against current employee list **Where:** IT Department **With what:** Active Directory, HR system employee export **When:** Monthly, first Monday of each month **What if:** Unauthorised access detected → immediate account suspension and incident report"
 

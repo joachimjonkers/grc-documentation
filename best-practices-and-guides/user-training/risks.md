@@ -29,21 +29,13 @@ Navigate to the Risk workspace from the main menu. This workspace gives you:
 * The ability to create and save custom views with filters and sorting
 * Export functionality to Excel or other formats
 
-> 🖼️ **\[SCREENSHOT PLACEHOLDER: Risk Workspace Overview]** Annotate:
->
-> * "Risk workspace in navigation menu"
-> * "List of risks with key columns (Name, Organisation, Risk Owner, Gross Risk, Net Risk)"
-> * "add new risk button (top right)"
-> * "advanced configuration button"
-> * "Export options"
-
 The Risk workspace is where you'll spend most of your time managing risk data. You can see all risks that belong to organisations you have access to, along with their current scores, owners, and linked controls.
 
 ***
 
 ### Creating a New Risk
 
-> 📹 **\[VIDEO PLACEHOLDER: Creating Your First Risk - 6 minutes]**
+> 📹 **\[VIDEO PLACEHOLDER: Creating Your First Risk ]**
 >
 > * Step-by-step walkthrough of creating a risk
 > * Filling in all required fields
@@ -55,26 +47,15 @@ The Risk workspace is where you'll spend most of your time managing risk data. Y
 
 Open the Risk workspace and click **add new risk** in the top right corner.
 
-> 🖼️ **\[SCREENSHOT PLACEHOLDER: Add New Risk Button]** Annotate: "Click 'add new risk' to create a new risk"
-
 #### Required Information
 
 The "Create New Risk" form opens. Work through each section:
-
-> 🖼️ **\[SCREENSHOT PLACEHOLDER: Create New Risk Form - Top Section]** Annotate:
->
-> * "organisation field (required)"
-> * "risk catalogue field (required)"
-> * "Risk name field"
-> * "description field"
 
 **Organisation** – Select the organisation responsible for this risk. This determines who has access to view and edit the risk.
 
 **Risk catalogue** – Select the appropriate risk catalogue entry. Risk catalogues provide standardised risk definitions that ensure consistency across your organisation.
 
 If subtypes are available in the dropdown, select the most specific option that matches your risk.
-
-> 💡 **Tip:** The risk name may auto-populate based on your catalogue selection, but you can customize it.
 
 #### Risk Details
 
@@ -86,18 +67,9 @@ If subtypes are available in the dropdown, select the most specific option that 
 * **Cause:** What would cause this event?
 * **Effect:** What would be the effect on the organisation?
 
-> 🖼️ **\[SCREENSHOT PLACEHOLDER: Risk Description Field with Example]** Show example text using event-cause-effect structure
-
 **Cause** and **Effect** – These optional separate fields allow you to break down the cause and effect explicitly. Many organisations include this information directly in the risk description rather than using separate fields.
 
 #### Dimensions and Categories
-
-> 🖼️ **\[SCREENSHOT PLACEHOLDER: Dimensions and Categories Section]** Annotate:
->
-> * "Business dimensions field"
-> * "Framework dimensions field"
-> * "Risk Area field (auto-populated)"
-> * "Event category field (auto-populated)"
 
 **Business dimensions** – Link the risk to specific processes, projects, or objectives. This makes it easier to generate targeted reports and understand which parts of your business are exposed to which risks.
 
@@ -108,11 +80,6 @@ Click the field and select from available business dimensions. You can select mu
 **Risk Area** and **Event category** – These are typically populated automatically based on your risk catalogue selection. They provide additional categorisation for reporting purposes.
 
 #### Ownership and Treatment
-
-> 🖼️ **\[SCREENSHOT PLACEHOLDER: Risk Owner and Treatment Section]** Annotate:
->
-> * "Risk Owner dropdown"
-> * "Risk treatment dropdown options"
 
 **Risk Owner** – Select the person who assesses and monitors this risk. Choose someone with direct knowledge of the risk area and the authority to make decisions about risk treatment.
 
@@ -127,41 +94,19 @@ Click the field and select from available business dimensions. You can select mu
 
 Click **save** at the bottom of the form to create the risk.
 
-> 🖼️ **\[SCREENSHOT PLACEHOLDER: Save Button Location]** Annotate: "Click 'save' to create the risk"
-
 The risk now appears in the Risk workspace and can be opened for scoring and linking to controls.
 
 ***
 
 ### Scoring Risks
 
-> 📹 **\[VIDEO PLACEHOLDER: Risk Scoring - 5 minutes]**
->
-> * Understanding gross vs net risk
-> * Using your organisation's risk matrix
-> * Recording impact and likelihood scores
-> * Assessing residual risk
-
 #### Accessing Risk Scoring
 
 After creating a risk (or opening an existing one), navigate to the **Risk scoring** tab to assess its severity.
 
-> 🖼️ **\[SCREENSHOT PLACEHOLDER: Risk Detail with Risk Scoring Tab]** Annotate:
->
-> * "Risk scoring tab"
-> * "Gross risk fields"
-> * "Net risk fields"
-> * "Overall risk assessment field"
-
 #### Gross Risk Assessment
 
 **Gross impact** and **gross likelihood** represent the risk before any controls are applied. This is your baseline assessment.
-
-> 🖼️ **\[SCREENSHOT PLACEHOLDER: Gross Risk Assessment Fields]** Annotate:
->
-> * "gross impact dropdown (typically 1-5 scale)"
-> * "gross likelihood dropdown (typically 1-5 scale)"
-> * "Calculated gross risk score (auto-calculated if applicable)"
 
 **Impact** measures the potential consequences if the risk materialises:
 
@@ -173,26 +118,15 @@ After creating a risk (or opening an existing one), navigate to the **Risk scori
 
 **Likelihood** measures how probable the risk event is to occur within a given timeframe.
 
-> 💡 **Tip:** Use your organisation's risk matrix to determine appropriate scores. Ask your risk manager if you're unsure about scoring criteria.
-
 #### Net Risk Assessment
 
 Once you've identified and implemented controls for this risk, you can assess the **net impact** and **net likelihood**. These scores reflect the reduced risk level after controls are working.
-
-> 🖼️ **\[SCREENSHOT PLACEHOLDER: Net Risk Assessment Fields]** Annotate:
->
-> * "net impact dropdown"
-> * "net likelihood dropdown"
-> * "Calculated net risk score"
-> * "Visual comparison: Gross Risk vs Net Risk"
 
 The difference between gross and net risk shows the effectiveness of your control environment. A large difference indicates strong control effectiveness.
 
 #### Overall Risk Assessment
 
 Use the **Overall risk assessment** field to indicate whether you accept the remaining (residual) risk or require further action.
-
-> 🖼️ **\[SCREENSHOT PLACEHOLDER: Overall Risk Assessment Field]** Show dropdown options (typically: Acceptable, Requires Action, Under Review)
 
 This is particularly important for risks that remain high even after controls are applied.
 
@@ -204,23 +138,14 @@ Click **save** to record your risk scoring.
 
 ### Linking Controls to Risks
 
-> 📹 **\[VIDEO PLACEHOLDER: Linking Controls to Risks - 4 minutes]**
->
-> * Opening the Linked controls tab
-> * Using the Link panel
-> * Selecting appropriate controls
-> * Understanding why linking matters
-
-> ⚠️ **Important:** Controls can only be linked if they belong to the same organisation as the risk. Cross-organisation linking is not supported.
-
-#### Adding Controls
-
 1. Click **Link panel** to open the control selection interface
 2. Browse available controls or use search to find specific controls
 3. Drag controls into the linked controls area, or click to select them
 4. You can link multiple controls to a single risk
 
 Choose controls that directly address the causes or reduce the impact of the risk. Not every control needs to be linked to every risk – focus on the controls that genuinely mitigate this specific risk.
+
+> ⚠️ **Important:** Controls can only be linked if they belong to the same organisation as the risk. Cross-organisation linking is not supported.
 
 #### Saving Control Links
 
@@ -235,8 +160,6 @@ Linking controls to risks creates traceability in your GRC programme. It allows 
 * Generate reports showing the relationship between risks and controls
 * Understand the impact when a control fails or needs changes
 * Calculate net risk based on control effectiveness
-
-> 🖼️ **\[SCREENSHOT PLACEHOLDER: Risk with Multiple Linked Controls]** Show example of a risk with 3-4 linked controls, displaying control names and types
 
 ***
 
