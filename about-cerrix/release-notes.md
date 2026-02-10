@@ -14,7 +14,7 @@ The release notes are published shortly before a new release to the acceptance e
 
 *   **Monthly Tasks planning based on working days**
 
-    In the last release, a setting was introduced to define working days and holidays. This release now allows for planning Task Series using this setting. The new "Workday" option in the Task Series repeat section enables task scheduling based on only working days, excluding weekends and holidays.
+    In the last release, a setting was introduced to define [working days and holidays](../cerrix-functionalities/admin-settings/workday-organizer.md). This release now allows for planning Task Series using this setting. The new ["Workday" option](../cerrix-functionalities/module-overview/controls/control-execution-tasks.md) in the Task Series repeat section enables task scheduling based on only working days, excluding weekends and holidays.
 
 #### Third parties
 
