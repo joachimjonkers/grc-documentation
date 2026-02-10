@@ -54,11 +54,17 @@ To create recurring control execution tasks, you need to create a new task serie
    * **Monthly:** For example, repeat 3, first Monday (each quarter).
    * **Weekly:** For example, repeat 1, select Monday.
    * **Daily**.
-7. Fill in the **Start date** (e.g., 1 January 2025) and **End date** (e.g., 31 December 2025) for the task series.
-8. Click 'Save' to create the task series.
-9. After the page refreshes, the task series will be created based on the selected frequency. Only the end date can now be changed.
-10. Close the task series tab and refresh the control execution screen to get an overview of the created task series. The task series that was just created will be shown.
-11. Open 'Recent and upcoming' to view the individual tasks.
+7. Use **Repeat on** to choose when each task in the series is created.&#x20;
+   * Select **Day** to repeat on a specific calendar day of the month (e.g., the 15th).&#x20;
+   * Select **Week Day** to repeat on a specific weekday pattern (e.g., the 2nd Tuesday).&#x20;
+   * Select **Work Day** to repeat on the _Nth working day_ of the month (skipping weekends and holidays).
+     * If the chosen work day doesn’t exist in a month, the task is scheduled on the last working day of that month.
+     * Which days are work days can be configured in the Workday Organizor in the Administration Controls
+8. Fill in the **Start date** (e.g., 1 January 2025) and **End date** (e.g., 31 December 2025) for the task series.
+9. Click 'Save' to create the task series.
+10. After the page refreshes, the task series will be created based on the selected frequency. Only the end date can now be changed.
+11. Close the task series tab and refresh the control execution screen to get an overview of the created task series. The task series that was just created will be shown.
+12. Open 'Recent and upcoming' to view the individual tasks.
 
 <figure><img src="../../../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
 

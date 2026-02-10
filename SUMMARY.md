@@ -37,6 +37,7 @@
   * [Authentication & User Provisioning](cerrix-functionalities/admin-settings/authentication-and-user-provisioning.md)
   * [API Key Management & Setup](cerrix-functionalities/admin-settings/api-key-management-and-setup.md)
   * [API Documentation](cerrix-functionalities/admin-settings/api-documentation.md)
+  * [Workday Organizer](cerrix-functionalities/admin-settings/workday-organizer.md)
 
 ## Best Practices & Guides
 
