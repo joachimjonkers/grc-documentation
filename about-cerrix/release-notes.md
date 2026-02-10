@@ -8,7 +8,7 @@ For insight into our release schedule for acceptance and production, please refe
 The release notes are published shortly before a new release to the acceptance environment.
 {% endhint %}
 
-## ACC: 11 February 2026, PRD: 11 February 2026
+## ACC: 11 February 2026, PRD: 25 February 2026
 
 #### Tasks
 
