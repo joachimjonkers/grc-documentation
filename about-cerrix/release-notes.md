@@ -8,13 +8,60 @@ For insight into our release schedule for acceptance and production, please refe
 The release notes are published shortly before a new release to the acceptance environment.
 {% endhint %}
 
+## ACC: 11 February 2026, PRD: 11 February 2026
+
+#### Tasks
+
+*   **Monthly Tasks planning based on working days**
+
+    In the last release, a setting was introduced to define working days and holidays. This release now allows for planning Task Series using this setting. The new "Workday" option in the Task Series repeat section enables task scheduling based on only working days, excluding weekends and holidays.
+
+#### Third parties
+
+*   **Direct data API update**
+
+    In the Direct data Third party API the Framework dimensions are added.
+*   **APIs for Custom Fields**&#x20;
+
+    New Direct Data APIs are now available to retrieve custom field definitions and values for Third parties and Contracts. See API Documentation for more information.
+
+    * For Third parties:
+      *   `GET /directdata/v1/thirdpartycustomfields`
+
+          Returns all custom field definitions, including fields that are not visible.
+      *   `GET /directdata/v1/thirdpartycustomfieldvalues`
+
+          Returns, per Third party, the values of all visible custom fields that contain a value.
+    * For Third party Contracts:
+      *   `GET /directdata/v1/thirdpartycontractcustomfields`
+
+          Returns all custom field definitions, including fields that are not visible.
+      *   `GET /directdata/v1/thirdpartycontractcustomfieldvalues`
+
+          Returns, per Third party Contract, the values of all visible custom fields that contain a value.
+
+**MOIs**
+
+*   **MOIs for Third Party missed the field "Framework dimensions"**
+
+    The field "Framework dimensions" is added to the Third party MOI Details screen and workspace
+
+### Notable Fixes&#x20;
+
+*   **Cancelling MOI due date**
+
+    Changing an MOI due date results in a pop-up to give the reason why the due date is changed. Cancelling the due date change resulted in an error.
+*   **Downloading previous document version**
+
+    Downloading a previous version of a document did not work
+
 ## ACC: 31 December 2025, PRD: 14 January 2026
 
 {% hint style="success" %}
 With this release, [execution-based-control-testing.md](../cerrix-functionalities/module-overview/control-advanced-effectiveness-testing/execution-based-control-testing.md "mention") will be made available for all customers.
 {% endhint %}
 
-#### Controls
+**Controls**
 
 *   **History of uploaded files**
 
