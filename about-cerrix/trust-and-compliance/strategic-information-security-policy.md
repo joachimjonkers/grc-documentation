@@ -12,4 +12,4 @@ Key elements include:
 
 This policy provides the foundational direction for all security initiatives and helps ensure a cohesive and proactive security posture organization-wide.
 
-{% file src="../.gitbook/assets/Strategic Information security policy v2.1 ondertekend.pdf" %}
+{% file src="../../.gitbook/assets/Strategic_Information_Security_Policy_v2.2_Signed.pdf" %}

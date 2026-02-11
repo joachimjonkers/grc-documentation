@@ -65,7 +65,7 @@
   * [Get the most out of CERRIX Docs](about-cerrix/getting-support/get-the-most-out-of-cerrix-docs.md)
 * [Release Notes](about-cerrix/release-notes.md)
 * [Release Planning](about-cerrix/release-planning.md)
-* [Product Strategy & Roadmap](about-cerrix/product-strategy-and-roadmap.md)
+* [Product Roadmap](about-cerrix/product-roadmap.md)
 * [Heavy & Light Users](about-cerrix/heavy-and-light-users.md)
 * [Trust & Compliance](about-cerrix/trust-and-compliance/README.md)
   * [Strategic Information Security Policy](about-cerrix/trust-and-compliance/strategic-information-security-policy.md)

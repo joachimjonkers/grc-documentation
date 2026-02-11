@@ -14,6 +14,6 @@ The document below is designed to help you navigate every step of the implementa
 
 Whether you’re a project lead, administrator, or stakeholder, this guide will give you the insight and structure you need for a successful CERRIX implementation.
 
-{% file src=".gitbook/assets/CERRIX-implementation-guide-2025.pdf" %}
+{% file src="../.gitbook/assets/CERRIX-implementation-guide-2025.pdf" %}
 
 If you have any questions or need assistance along the way, don’t hesitate to contact your CERRIX consultant.

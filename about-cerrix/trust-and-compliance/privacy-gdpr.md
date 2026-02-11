@@ -12,4 +12,4 @@ Key aspects of a DPIA include:
 
 Our DPIA helps to ensure compliance with privacy laws, demonstrate accountability, and build trust with users by showing a proactive approach to data protection.
 
-{% file src="../.gitbook/assets/Data Protection Impact Assessment v1.1.pdf" %}
+{% file src="../../.gitbook/assets/Data Protection Impact Assessment (1).pdf" %}

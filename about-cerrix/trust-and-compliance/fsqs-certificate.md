@@ -11,4 +11,4 @@ FSQS provides benefits such as:
 
 For suppliers, being FSQS-certified increases their credibility and can make them more attractive to financial clients by showing a commitment to meeting high standards in security and compliance.
 
-{% file src="../.gitbook/assets/FSQS-NL certificaat.pdf" %}
+{% file src="../../.gitbook/assets/FSQS-NL certificaat.pdf" %}
