@@ -8,12 +8,6 @@ CERRIX is an integrated GRC (Governance, Risk, and Compliance) platform that hel
 
 This training will guide you through the core modules and show you how to use CERRIX effectively in your daily work.
 
-> 📹 **\[VIDEO PLACEHOLDER: CERRIX Platform Overview - 2 minutes]**
->
-> * Quick tour of the CERRIX interface
-> * Main navigation and workspace structure
-> * How to access different modules
-
 ***
 
 ### The CERRIX Approach
@@ -102,12 +96,6 @@ The left-hand navigation menu provides access to all CERRIX modules. Click on an
 
 Workspaces are your main views of data. Each module has a workspace showing all relevant items (risks, controls, incidents, etc.).
 
-> 🖼️ **\[VIDEO PLACEHOLDER: Example Workspace View]** Annotate:
->
-> * "Filter and configuration buttons at top"
-> * "Action buttons (add new, export, etc.)"
-> * "Click any row to open details"
-
 Every workspace includes:
 
 * **A data table** with rows for each item
@@ -143,13 +131,6 @@ Presets save your filter and column settings for reuse:
 2. Click **preset management**
 3. Enter a descriptive preset name
 4. Click **+** to save the preset
-
-> 🖼️ **\[VIDEO PLACEHOLDER: Preset Management Interface]** Annotate:
->
-> * "preset management button"
-> * "Name field for new preset"
-> * "+ button to save"
-> * "\* button to set as default"
 
 #### Setting a Default Preset
 

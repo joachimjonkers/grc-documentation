@@ -1,18 +1,16 @@
-# Finding Reports
-
-## Finding Reports
+# Findings Report
 
 ### Introduction
 
-A Finding Report in CERRIX documents findings, conclusions, and actions from audits or assessments. It provides a structured approach to:
+A Findings Report in CERRIX documents findings, conclusions, and actions from audits or assessments. It provides a structured approach to:
 
 * Record audit results and observations
 * Document underlying risks and root causes
 * Link follow-up actions (MoIs) to findings
 
-#### Why Use Finding Reports in CERRIX?
+#### Why Use Findings Reports in CERRIX?
 
-Finding Reports consolidate everything in one place:
+Findings Reports consolidate everything in one place:
 
 * Audit results and assessment scores
 * Individual findings and observations
@@ -21,17 +19,17 @@ Finding Reports consolidate everything in one place:
 
 This consolidation eliminates scattered spreadsheets and email threads. Everything related to an audit exists in a single, searchable location.
 
-#### What You Can Do with Finding Reports
+#### What You Can Do with Findings Reports
 
-* Create new finding reports for audits or assessments
+* Create new findings reports for audits or assessments
 * Add detailed assessments with scores and ratings
 * Link MoIs (Measures of Improvement) to track follow-up
 * Generate reports for management or external auditors
 * Track resolution status across all findings
 
-#### Finding Report Workflow
+#### Findings Report Workflow
 
-Each Finding Report moves through a straightforward workflow:
+Each Findings Report moves through a straightforward workflow:
 
 * **Draft** – Report is being prepared, findings are being documented
 * **In Review** – Internal validation and quality check
@@ -43,9 +41,9 @@ This workflow ensures findings progress from identification to resolution with c
 
 ***
 
-### Finding Reports Workspace
+### Findings Reports Workspace
 
-The Finding Reports workspace provides an overview of all audit reports and findings in your organisation.
+The Findings Reports workspace provides an overview of all audit reports and findings in your organisation.
 
 #### What You See
 
@@ -78,16 +76,16 @@ The workspace displays all reports with key information:
 
 #### Exporting Reports
 
-You can export Finding Reports to Excel or PDF for distribution to management or external stakeholders. Exports include all visible columns based on your current filter settings.
+You can export Findings Reports to Excel or PDF for distribution to management or external stakeholders. Exports include all visible columns based on your current filter settings.
 
 ***
 
-### Creating a Finding Report
+### Creating a Findings Report
 
 #### How to Get Started
 
-1. Navigate to the **Finding Reports workspace**
-2. Click **Add finding report** in the top right corner
+1. Navigate to the **Findings Reports workspace**
+2. Click **Add findings report** in the top right corner
 
 You'll be presented with a form to capture the core report information.
 
@@ -149,17 +147,17 @@ Attach relevant files such as:
 * Methodology documentation
 * External auditor reports
 
-Documents remain accessible throughout the finding report lifecycle and provide supporting detail for assessments and MoIs.
+Documents remain accessible throughout the findings report lifecycle and provide supporting detail for assessments and MoIs.
 
 #### Saving the Report
 
-Click **Save** to create the finding report. It now appears in the Finding Reports workspace and is ready for you to add assessments and improvement measures.
+Click **Save** to create the findings report. It now appears in the Findings Reports workspace and is ready for you to add assessments and improvement measures.
 
 ***
 
-### Adding Assessments to a Finding Report
+### Adding Assessments to a Findings Report
 
-An Assessment represents a specific finding or observation within the broader Finding Report. You can add multiple assessments to capture individual control failures, process gaps, or compliance issues.
+An Assessment represents a specific finding or observation within the broader Findings Report. You can add multiple assessments to capture individual control failures, process gaps, or compliance issues.
 
 #### Why Use Assessments?
 
@@ -174,7 +172,7 @@ This granularity shows exactly where strengths and weaknesses lie.
 
 #### How to Add an Assessment
 
-1. Open an existing Finding Report
+1. Open an existing Findings Report
 2. Navigate to the **Assessments** tab
 3. Click **Add assessment**
 
@@ -213,7 +211,7 @@ Good comments help readers understand not just the score but the reasoning behin
 
 #### Saving the Assessment
 
-Click **Save** to add the assessment to the finding report. You can add as many assessments as needed to fully document all findings from the audit.
+Click **Save** to add the assessment to the findings report. You can add as many assessments as needed to fully document all findings from the audit.
 
 #### Viewing All Assessments
 
@@ -226,7 +224,7 @@ The Assessments tab shows all individual assessments in a list, making it easy t
 
 ***
 
-### Linking MoIs to Finding Reports
+### Linking MoIs to Findings Reports
 
 Every significant finding should lead to one or more improvement actions. MoIs provide the structured follow-up mechanism.
 
@@ -244,7 +242,7 @@ Not every finding needs an MoI. Minor observations or positive findings typicall
 
 #### How to Link MoIs
 
-1. Open the Finding Report
+1. Open the Findings Report
 2. Navigate to the **Linked Measures of Improvement** tab
 3. Click **Add MoI**
 4. Complete the MoI details following the structure described in the Measures of Improvement training:
@@ -254,23 +252,23 @@ Not every finding needs an MoI. Minor observations or positive findings typicall
    * Expected outcomes
 5. Click **Save MoI**
 
-The MoI is now linked to the finding report and visible in both locations.
+The MoI is now linked to the findings report and visible in both locations.
 
 #### Tracking Follow-Up
 
 Once MoIs are created and linked:
 
-* The Auditor can monitor progress via the Finding Report
-* Status updates in the MoI automatically reflect in finding report views
+* The Auditor can monitor progress via the Findings Report
+* Status updates in the MoI automatically reflect in findings report views
 * Deadlines and priorities help ensure timely resolution
-* Completion of all MoIs enables finding report closure
+* Completion of all MoIs enables findings report closure
 
 #### Closing the Loop
 
 When all linked MoIs are completed and accepted:
 
 1. The Auditor reviews whether findings have been adequately addressed
-2. The Finding Report status can progress to "Closed"
+2. The Findings Report status can progress to "Closed"
 3. The audit cycle is complete with documented evidence of resolution
 
 This closed-loop process demonstrates that findings weren't just noted but actually resolved.
@@ -295,7 +293,7 @@ Within an audit, apply scoring consistently. If a score of "3" means "adequate b
 
 #### Link Findings to Risks and Controls
 
-When you create assessments, reference specific risks or controls that are affected. This creates traceability between your finding reports and your risk register, making it easy to see how audit results inform risk management.
+When you create assessments, reference specific risks or controls that are affected. This creates traceability between your findings reports and your risk register, making it easy to see how audit results inform risk management.
 
 #### Set Realistic Due Dates for MoIs
 
@@ -313,7 +311,7 @@ Management response demonstrates accountability and helps auditors understand or
 
 #### Close Reports When Complete
 
-Once all MoIs are resolved and the audit cycle is finished, close the finding report. Open reports from completed audits make it difficult to understand what still requires attention.
+Once all MoIs are resolved and the audit cycle is finished, close the findings report. Open reports from completed audits make it difficult to understand what still requires attention.
 
 Closed reports remain accessible for reference and demonstrate your organisation's audit resolution track record.
 
@@ -321,7 +319,7 @@ Closed reports remain accessible for reference and demonstrate your organisation
 
 ### Reporting and Analysis
 
-Finding Reports enable powerful reporting capabilities:
+Findings Reports enable powerful reporting capabilities:
 
 #### Trend Analysis
 
@@ -345,7 +343,7 @@ This helps leadership allocate resources to the highest-priority improvements.
 
 #### Audit Evidence
 
-Finding Reports provide audit trail evidence showing:
+Findings Reports provide audit trail evidence showing:
 
 * What was assessed and when
 * What findings emerged
@@ -358,9 +356,9 @@ This documentation is invaluable during regulatory examinations or external audi
 
 ### Exercises
 
-#### Exercise 1: Create a New Finding Report
+#### Exercise 1: Create a New Findings Report
 
-1. Create a Finding Report for a fictional audit in your training environment
+1. Create a Findings Report for a fictional audit in your training environment
 2. Complete the fields:
    * Report Type: Internal Audit
    * Responsible: Assign to yourself or a training colleague
@@ -371,10 +369,10 @@ This documentation is invaluable during regulatory examinations or external audi
 
 #### Exercise 2: Add Assessments
 
-1. Open your Finding Report
+1. Open your Findings Report
 2. Add at least two assessments with different types and scores:
-   * Assessment 1: Type = IT, Score = 3/5, Comments = specific finding
-   * Assessment 2: Type = Compliance, Score = 4/5, Comments = specific finding
+   * Assessment 1: Type = IT, Score = 3/5, Comments = specific findings
+   * Assessment 2: Type = Compliance, Score = 4/5, Comments = specific findings
 3. Save each assessment
 4. Review the Assessments tab to see your findings listed
 
@@ -386,5 +384,5 @@ This documentation is invaluable during regulatory examinations or external audi
    * Clear description of required improvement
    * Assigned Responsible party
    * Realistic due date
-4. Verify the link is visible in both the Finding Report and the MoI workspace
+4. Verify the link is visible in both the Findings Report and the MoI workspace
 5. Track the MoI through its workflow until closure

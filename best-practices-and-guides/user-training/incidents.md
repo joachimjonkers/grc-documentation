@@ -51,13 +51,6 @@ Your CERRIX administrator has configured incident registration Forms. These Form
 
 ### Roles in Incidents
 
-> 🖼️ **\[SCREENSHOT PLACEHOLDER: Incident Roles Diagram]** Visual showing the four roles and their relationships:
->
-> * Reporter (submits the incident)
-> * Responsible (investigates and resolves)
-> * Delegate (assists investigation)
-> * Reviewer/Auditor (validates and closes) Show workflow arrows between roles
-
 Incident management requires clear role definition to ensure accountability and thorough investigation.
 
 #### Reporter
@@ -112,13 +105,6 @@ The Reviewer or Auditor provides oversight and validation. They:
 ***
 
 ### Incident Workflow
-
-> 🖼️ **\[SCREENSHOT PLACEHOLDER: Incident Workflow Diagram]** Visual flowchart showing:
->
-> * Reported → Under Investigation → In Progress → Ready for Review → Decision point (Approved/More investigation needed) → If Approved: Closed
-> * Role actions at each stage
-> * Typical timeframes for each stage
-> * Color coding for statuses
 
 Understanding the incident workflow helps everyone know what's expected at each stage.
 
@@ -198,14 +184,6 @@ Your organization has configured specific Forms for incident registration. The e
 
 #### Completing the Form
 
-> 🖼️ **\[SCREENSHOT PLACEHOLDER: Incident Registration Form - Top Section]** Annotate:
->
-> * "Incident name/title field"
-> * "Incident type dropdown (Security, Operational, Safety, Data Breach, etc.)"
-> * "Incident date/time field"
-> * "Location/Department field"
-> * "Organisation field"
-
 **Basic Information**
 
 **Incident name/title** – Give the incident a clear, descriptive title.
@@ -232,13 +210,6 @@ Your organization has configured specific Forms for incident registration. The e
 
 **Detailed Description**
 
-> 🖼️ **\[SCREENSHOT PLACEHOLDER: Incident Registration Form - Description Section]** Annotate:
->
-> * "Incident description field (large text area)"
-> * "Immediate cause field"
-> * "Impact/consequences field"
-> * "Initial containment actions field (if any)"
-
 **Incident description** – Describe what happened using the 5 W's + H:
 
 * **What** happened?
@@ -250,13 +221,6 @@ Your organization has configured specific Forms for incident registration. The e
 
 **Role Assignment**
 
-> 🖼️ **\[SCREENSHOT PLACEHOLDER: Incident Registration Form - Role Assignment]** Annotate:
->
-> * "Responsible party dropdown"
-> * "Delegate dropdown (optional)"
-> * "Reviewer dropdown (optional, may be assigned later)"
-> * "Reporter information (auto-populated from user account)"
-
 **Responsible party** – Who will lead the investigation?
 
 **Delegate** – Optional. Someone to assist with the investigation.
@@ -265,23 +229,9 @@ Your organization has configured specific Forms for incident registration. The e
 
 **Evidence and Documentation**
 
-> 🖼️ **\[SCREENSHOT PLACEHOLDER: Incident Registration Form - Evidence Upload]** Annotate:
->
-> * "Upload documents/evidence section"
-> * "Drag-and-drop area or browse button"
-> * "Supported file types note"
-> * "File size limits"
-
 Upload initial evidence: screenshots, photos, log files, or any relevant documentation.
 
 #### Submitting the Form
-
-> 🖼️ **\[SCREENSHOT PLACEHOLDER: Form Submission Confirmation]** Annotate:
->
-> * "Success message"
-> * "Incident reference number"
-> * "Next steps information"
-> * "Link to view incident in workspace"
 
 After completing all sections, review your entries and click Submit.
 

@@ -10,12 +10,6 @@ Control Testing is the process that determines whether controls are well-designe
 2. **Control Execution**
 3. **Effectiveness Testing**
 
-> 📹 **\[VIDEO PLACEHOLDER: Control Testing Overview - 4 minutes]**
->
-> * Three types of testing and how they connect
-> * Who does what in the testing process
-> * Real example of a complete testing cycle
-
 #### Why Control Testing Matters
 
 Control testing provides evidence that risks are genuinely under control. It creates confidence among internal and external stakeholders, including auditors and regulators. Testing makes it visible whether controls are working consistently and where improvements are needed. The results feed directly into reports and improvement measures (MoIs).
@@ -27,8 +21,6 @@ Control testing provides evidence that risks are genuinely under control. It cre
 * **Reviewers** – Evaluate test results produced by testers
 * **Auditors** – Use test results for internal and external assurance
 
-> 🖼️ **\[SCREENSHOT PLACEHOLDER: Testing Roles Diagram]** Show the relationship between Control Owners, Testers, Reviewers, and Auditors
-
 Each role has distinct responsibilities that together ensure comprehensive control assurance.
 
 ***
@@ -38,12 +30,6 @@ Each role has distinct responsibilities that together ensure comprehensive contr
 #### Design & Implementation (D\&I) Testing
 
 D\&I Testing assesses whether the control is well-designed and correctly configured.
-
-> 📹 **\[VIDEO PLACEHOLDER: D\&I Testing Explained - 3 minutes]**
->
-> * What D\&I testing evaluates
-> * When to perform D\&I testing
-> * Example of D\&I test documentation
 
 This includes evaluation of:
 
@@ -58,12 +44,6 @@ This includes evaluation of:
 
 Control Execution is the actual performance of the control by the owner or responsible department.
 
-> 📹 **\[VIDEO PLACEHOLDER: Control Execution Overview - 3 minutes]**
->
-> * What control execution means
-> * How Task Series automate scheduling
-> * Viewing execution records
-
 This involves:
 
 * Performing the control activities as documented
@@ -75,12 +55,6 @@ Execution is the foundation for effectiveness testing – without documented exe
 #### Effectiveness Testing
 
 Effectiveness Testing determines whether the control works in practice as intended.
-
-> 📹 **\[VIDEO PLACEHOLDER: Effectiveness Testing Explained - 4 minutes]**
->
-> * What effectiveness testing evaluates
-> * Using the Audit sampler
-> * Interpreting test results
 
 This includes:
 
@@ -96,13 +70,6 @@ This includes:
 
 #### Creating a D\&I Test Plan
 
-> 📹 **\[VIDEO PLACEHOLDER: Creating a D\&I Test Plan - 8 minutes]**
->
-> * Complete walkthrough from opening control to saving test plan
-> * Setting up test periods
-> * Assigning roles (tester, evidence uploader, reviewer)
-> * Understanding the test plan wizard
-
 D\&I testing typically happens once when a control is first implemented or when significant changes are made to the control design.
 
 **How to Get There**
@@ -112,24 +79,11 @@ D\&I testing typically happens once when a control is first implemented or when 
 3. Click on the **Effectiveness testing** tab
 4. You'll see an overview of all test plans and test periods for this control
 
-> 🖼️ **\[SCREENSHOT PLACEHOLDER: Control Detail - Effectiveness Testing Tab]** Annotate:
->
-> * "Effectiveness testing tab (selected)"
-> * "Overview of existing test plans"
-> * "Manage test periods button"
-> * "Add test plan button"
-
 > 💡 **Note:** Both D\&I Testing and Effectiveness Testing are managed from the same "Effectiveness testing" tab within a control. The tab provides a unified view of all testing activities for that control.
 
 **Managing Test Periods**
 
 Click **Manage test periods** to define the timeframe for testing:
-
-> 🖼️ **\[SCREENSHOT PLACEHOLDER: Manage Test Periods Dialog]** Annotate:
->
-> * "Period field (e.g., Q1 2026, FY 2026)"
-> * "Number of samples field"
-> * "save button"
 
 1. Enter the period (e.g., Q1 2026, FY 2026)
 2. Specify the number of samples to be tested
@@ -141,23 +95,11 @@ Test periods provide structure for your testing programme and help organise evid
 
 Click **Add test plan** to create a new D\&I test. The test plan wizard opens automatically and guides you through:
 
-> 🖼️ **\[SCREENSHOT PLACEHOLDER: Test Plan Wizard - Step 1]** Annotate:
->
-> * "Test plan name field"
-> * "Test type selection (D\&I or Effectiveness)"
-> * "Test period selection"
-
 **1. Assigning roles:**
 
 * **Tester** – Who will perform the testing
 * **Evidence uploader** – Who provides supporting documentation
 * **Reviewer** – Who validates the test results
-
-> 🖼️ **\[SCREENSHOT PLACEHOLDER: Test Plan Wizard - Role Assignment]** Annotate:
->
-> * "Tester dropdown"
-> * "Evidence uploader dropdown"
-> * "Reviewer dropdown"
 
 **2. Defining scope:**
 
@@ -176,12 +118,6 @@ Click **save** to finalise the test plan.
 **Workflow Activation**
 
 After saving the test plan, tasks are automatically placed in the calendars of all involved parties. This ensures everyone knows their responsibilities and deadlines.
-
-> 🖼️ **\[SCREENSHOT PLACEHOLDER: Test Plan Created - Task List]** Annotate:
->
-> * "Test plan now visible in list"
-> * "Status showing (e.g., 'Waiting for evidence')"
-> * "Tasks generated for assigned roles"
 
 Examples of automatically generated tasks:
 
@@ -206,33 +142,15 @@ Control Execution is the operational performance and documentation of a control.
 3. Navigate to the **Control Execution** tab
 4. Review **Recent and upcoming** to see scheduled and completed executions
 
-> 🖼️ **\[SCREENSHOT PLACEHOLDER: Control Execution Tab]** Annotate:
->
-> * "Control Execution tab (selected)"
-> * "Recent and upcoming section"
-> * "Task Series button (left menu)"
-> * "All control executions link"
-
 If no executions are scheduled, you'll need to create a Task Series.
 
 #### Creating a Task Series
 
 A Task Series automates the scheduling of recurring control executions. This ensures controls are performed consistently according to their designed frequency.
 
-> 🖼️ **\[SCREENSHOT PLACEHOLDER: Create Task Series Button]** Annotate: "Click 'Task Series' in the left menu to create recurring execution schedule"
-
 **How to Set It Up**
 
 Click **Task Series** in the left menu to create a new series. You'll need to configure:
-
-> 🖼️ **\[SCREENSHOT PLACEHOLDER: Task Series Form - Basic Information]** Annotate:
->
-> * "Name field"
-> * "Task type dropdown (select 'Control execution')"
-> * "Responsibles field"
-> * "Reviewers field (optional)"
-> * "Notifications settings"
-> * "Description field"
 
 **Basic Information:**
 
@@ -242,14 +160,6 @@ Click **Task Series** in the left menu to create a new series. You'll need to co
 * **Reviewers (optional):** Someone who validates the execution
 * **Notifications:** Email or system alerts for upcoming tasks
 * **Description:** Brief explanation of what needs to be done
-
-> 🖼️ **\[SCREENSHOT PLACEHOLDER: Task Series Form - Planning Section]** Annotate:
->
-> * "Repeat frequency dropdown"
-> * "Repeat every field"
-> * "Repeat on field"
-> * "Start date field"
-> * "End date field"
 
 **Planning Details:**
 
@@ -262,12 +172,6 @@ Click **Task Series** in the left menu to create a new series. You'll need to co
 **Activation**
 
 Click **save** to activate the task series.
-
-> 🖼️ **\[SCREENSHOT PLACEHOLDER: Task Series Saved - Confirmation]** Annotate:
->
-> * "Success message"
-> * "Task series now appears in list"
-> * "First scheduled execution visible in 'Recent and upcoming'"
 
 Tasks will now automatically appear in the calendar of the responsible party at the specified frequency. Each execution is recorded in **All control executions** and can be tracked for audit purposes.
 
@@ -301,13 +205,6 @@ Effectiveness Testing evaluates whether a control works in practice. This happen
 1. Open the control from the **Controls Workspace**
 2. Click on the **Effectiveness testing** tab
 
-> 🖼️ **\[SCREENSHOT PLACEHOLDER: Effectiveness Testing Tab Overview]** Annotate:
->
-> * "Overview of existing test plans with status, period, samples, documents, score"
-> * "Control details (description, frequency, linked risks)"
-> * "Design/Implementation scores from previous tests"
-> * "Previous test results"
-
 You'll see:
 
 * An overview of existing test plans with status, period, sample count, documents, and scores
@@ -319,12 +216,6 @@ You'll see:
 
 Click **Manage test periods** to establish the testing timeframe:
 
-> 🖼️ **\[SCREENSHOT PLACEHOLDER: Manage Test Periods for Effectiveness]** Annotate:
->
-> * "Period field"
-> * "Number of samples to test"
-> * "save button"
-
 1. Define the period (e.g., calendar year, quarter, or custom range)
 2. Determine how many samples will be tested
 3. Click **save** to create the test period
@@ -334,13 +225,6 @@ An empty test period is now available and ready for test plan creation.
 **Step 2: Add the Test Plan**
 
 Click **Add test plan** and complete the following:
-
-> 🖼️ **\[SCREENSHOT PLACEHOLDER: Effectiveness Test Plan Wizard]** Annotate:
->
-> * "Scope definition section"
-> * "Role assignment section"
-> * "Test instructions field"
-> * "save button"
 
 **Scope Definition:**
 
@@ -366,13 +250,6 @@ Click **save** to finalise the test plan. Workflow tasks are automatically gener
 
 The **Audit sampler** button helps you generate statistically valid samples from source data.
 
-> 📹 **\[VIDEO PLACEHOLDER: Using the Audit Sampler - 5 minutes]**
->
-> * Selecting population type
-> * Defining sample size
-> * Understanding random selection
-> * Reviewing selected samples
-
 **How It Works**
 
 1. Click **Audit sampler** within your test plan
@@ -383,25 +260,11 @@ The **Audit sampler** button helps you generate statistically valid samples from
 3. Define how many samples need to be tested
 4. The system randomly selects samples and assigns them to the test plan
 
-> 🖼️ **\[SCREENSHOT PLACEHOLDER: Audit Sampler Interface]** Annotate:
->
-> * "Population type selection"
-> * "Sample size field"
-> * "Generate samples button"
-> * "Selected samples list"
-
 The audit sampler ensures your testing is unbiased and defensible during audits.
 
 #### Test Plan Status Tracking
 
 The effectiveness testing overview shows real-time progress:
-
-> 🖼️ **\[SCREENSHOT PLACEHOLDER: Test Plan Progress View]** Annotate:
->
-> * "Status indicator (e.g., 'Waiting for evidence', 'Testing in progress')"
-> * "#Samples counter (e.g., '5 of 10 tested')"
-> * "#Source documents counter"
-> * "Score field (sufficient / insufficient, effective / not effective)"
 
 * **Status:** Current stage (e.g., "Waiting for evidence", "Testing in progress", "Under review")
 * **#Samples:** How many of the planned samples have been tested
@@ -413,14 +276,6 @@ As testers complete their work and upload evidence, these indicators update auto
 #### Test Results and Outcomes
 
 A completed effectiveness test plan provides clear documentation:
-
-> 🖼️ **\[SCREENSHOT PLACEHOLDER: Completed Test Plan Results]** Annotate:
->
-> * "Test plan status: Closed"
-> * "Final score displayed"
-> * "All samples tested"
-> * "Evidence documents attached"
-> * "Reviewer sign-off visible"
 
 * Which control was tested
 * During which period
@@ -472,9 +327,3 @@ These results become part of your control assurance evidence and support audit a
 7. Assign a tester and reviewer
 8. Upload at least one piece of supporting evidence
 9. Complete the evaluation and assign a score (if in training environment)
-
-
-
-***
-
-**Next Module:** Now that you understand how to test control effectiveness, continue to the **Measures of Improvement (MoIs)** module to learn how to drive improvements when testing reveals gaps.

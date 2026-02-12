@@ -58,8 +58,8 @@ MOIs are corrective actions taken to address recurring issues or ineffective con
 
 Learn more about the MOIs module.
 
-{% content-ref url="../module-overview/business-improvement-management/measures-of-improvement-mois.md" %}
-[measures-of-improvement-mois.md](../module-overview/business-improvement-management/measures-of-improvement-mois.md)
+{% content-ref url="/broken/pages/7lPUcltOBRqvhksOJ5bq" %}
+[Broken link](/broken/pages/7lPUcltOBRqvhksOJ5bq)
 {% endcontent-ref %}
 
 ***
@@ -73,8 +73,8 @@ This module allows you to generate reports and insights using integrated PowerBI
 
 Learn more about the Finding Reports module.
 
-{% content-ref url="findings-report.md" %}
-[findings-report.md](findings-report.md)
+{% content-ref url="/broken/pages/6uWC5kCEndhxw1vqzQ1p" %}
+[Broken link](/broken/pages/6uWC5kCEndhxw1vqzQ1p)
 {% endcontent-ref %}
 
 ***

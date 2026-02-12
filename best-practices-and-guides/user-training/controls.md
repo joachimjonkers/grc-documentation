@@ -32,13 +32,6 @@ The Controls Workspace shows all controls belonging to organisations you have ac
 
 ### Creating a New Control
 
-> 📹 **\[VIDEO PLACEHOLDER: Creating Your First Control - 8 minutes]**
->
-> * Complete walkthrough of creating a control
-> * Using the 5W 1H model for descriptions
-> * Setting control attributes correctly
-> * Linking to dimensions and frameworks
-
 #### How to Get There
 
 Open the Controls Workspace and click **add new control** in the top right corner.
@@ -85,20 +78,11 @@ Click the field and select from available business dimensions. You can select mu
 
 Click **save** to create the control.
 
-> 🖼️ **\[SCREENSHOT PLACEHOLDER: Save Button Location]**
-
 The control now appears in the Controls Workspace and can be opened to add detailed attributes.
 
 ***
 
 ### Additional Control Details
-
-> 📹 **\[VIDEO PLACEHOLDER: Control Attributes and Properties - 5 minutes]**
->
-> * Setting control type (preventive, detective, repressive)
-> * Configuring execution method and frequency
-> * Assigning control owners
-> * Understanding RACI roles
 
 After creating the basic control, you can add more detailed attributes that describe how it operates.
 
@@ -127,8 +111,6 @@ After creating the basic control, you can add more detailed attributes that desc
 Most controls are either detective or preventive. Understanding the control type helps you assess whether your control environment is balanced.
 
 #### Ownership
-
-> 🖼️ **\[SCREENSHOT PLACEHOLDER: Owner Field]**
 
 **Owner** – Designate who is responsible for the control. This person ensures the control is executed correctly and addresses any issues that arise.
 
@@ -160,12 +142,6 @@ Automated controls are generally more reliable but less flexible. Manual control
 
 #### Optional Information
 
-> 🖼️ **\[SCREENSHOT PLACEHOLDER: Optional Fields Section]** Annotate:
->
-> * "RACI field"
-> * "Cost field"
-> * "Comments field"
-
 You can also record:
 
 * **RACI** – Who is Responsible, Accountable, Consulted, and Informed
@@ -188,12 +164,6 @@ Controls exist to mitigate risks. Linking them together creates a complete pictu
 2. Browse available risks or use search
 3. Drag risks into the linked risks area, or click to select
 4. You can link multiple risks to a single control
-
-> 🖼️ **\[SCREENSHOT PLACEHOLDER: Link Panel for Risks]** Annotate:
->
-> * "Available risks"
-> * "Search/filter"
-> * "Drag-and-drop or click to select"
 
 > 💡 **Tip:** Link only the risks that this control genuinely mitigates. Over-linking creates false confidence and makes it harder to identify genuine control gaps.
 
@@ -304,7 +274,3 @@ These connections make controls more useful in dashboards and external reports. 
 5. Click **apply configuration**
 6. Use the export function to download to Excel
 7. Open the Excel file to verify the exported data
-
-***
-
-**Next Module:** Now that you understand how to create and manage controls, continue to the **Control Testing** module to learn how to prove these controls are effective in practice.
