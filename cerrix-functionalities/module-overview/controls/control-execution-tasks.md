@@ -24,12 +24,11 @@ To start using control execution tasks, you must first activate control executio
 
 1. Go to the Controls module.
 2. Select the control you want to enable execution for.
-3. Locate the Control Execution section within the control’s detail page.
-4. Enable the Control Execution toggle.
-5. Save the changes.
-6. Wait for the screen to refresh automatically. After saving, 'Control execution' will appear in the upper right corner of the screen.
+3. Enable the Control Execution toggle (see screenshot below).
+4. Save the changes.
+5. After saving, 'Control execution' button will appear in the upper right corner of the screen.
 
-<figure><img src="../../../.gitbook/assets/image (4).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Screenshot 2026-02-10 112709.png" alt="Toggle:" width="375"><figcaption></figcaption></figure>
 
 ## Creating Control Execution Tasks
 
@@ -47,26 +46,44 @@ To create recurring control execution tasks, you need to create a new task serie
    * **Description:** Provide a clear description for the execution steps of the task. This is crucial for quality execution and evidence.
    * **Task Type:** Currently, only 'control execution' is available.
    * **Reviewer(s):** Optionally, select one or more reviewers. If a reviewer is selected, a workflow will be created for all tasks in this series.
-   * **Task Score Options:** Choose whether the responsible must give a score, has the option to give a score, or if the score field should be invisible. Select 'not required' as a task score.
-5. Navigate to the end of the page to plan the control task series.
-6. Select the frequency for the recurring task:
-   * **Yearly:** For example, repeat 1, first Monday.
-   * **Monthly:** For example, repeat 3, first Monday (each quarter).
-   * **Weekly:** For example, repeat 1, select Monday.
-   * **Daily**.
-7. Use **Repeat on** to choose when each task in the series is created.&#x20;
-   * Select **Day** to repeat on a specific calendar day of the month (e.g., the 15th).&#x20;
-   * Select **Week Day** to repeat on a specific weekday pattern (e.g., the 2nd Tuesday).&#x20;
-   * Select **Work Day** to repeat on the _Nth working day_ of the month (skipping weekends and holidays).
-     * If the chosen work day doesn’t exist in a month, the task is scheduled on the last working day of that month.
-     * Which days are work days can be configured in the Workday Organizor in the Administration Controls
-8. Fill in the **Start date** (e.g., 1 January 2025) and **End date** (e.g., 31 December 2025) for the task series.
-9. Click 'Save' to create the task series.
-10. After the page refreshes, the task series will be created based on the selected frequency. Only the end date can now be changed.
-11. Close the task series tab and refresh the control execution screen to get an overview of the created task series. The task series that was just created will be shown.
-12. Open 'Recent and upcoming' to view the individual tasks.
+   * **Task Score Options:**&#x20;
+     * Required: The score must be given by either Responsible or Reviewer before the task can be finished. (Reviewer only in those case where a reviewer is defined)
+     * Optional: score can be given, but is not mandatory
+     * Task score not visible: scoring is not part of this task execution evaluation
 
 <figure><img src="../../../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+
+5. Navigate to the end of the page to plan the control task series.
+6. Select the frequency for the recurring task:
+   * When **Repeat Yearly** is selected, the user can configure:
+     * **Repeat every:** number of years (e.g., 1 year)
+     *   **Repeat on:**
+
+         **Month** (e.g., February), and either:
+
+         * **Day** of the month (e.g., 15th), or
+         * **Weekday** (e.g., First Monday)
+   * When **Repeat Monthly** is selected, the user can configure:
+     * **Repeat every:** number of months (e.g., 3 months)
+     * **Repeat on:**
+       * **Day** of the month (e.g., 10th), **or**
+       * **Weekday** (e.g., First Tuesday), **or**
+       * **Workday** (e.g., 5th Workday skipping weekends and holidays), _if workdays and holidays were defined in the **Workday Organizer** module in the Administration Controls. \*If the chosen work day doesn’t exist in a month, the task is scheduled on the last working day of that month._
+   * When **Repeat Weekly** is selected, the user can configure:
+     * **Repeat every:** number of weeks (e.g., 2 weeks)
+     * **Repeat on:** select one or more days of the week (e.g., Monday)
+   *   **Daily tasks (using Weekly mode)**
+
+       If a user wants to create a **Daily** recurring task:
+
+       * Set **Repeat Weekly**
+       * Set **Repeat every:** 1
+       * Select **all days of the week** under **Repeat on**
+7. Fill in the **Start date** (e.g., 1 January 2025) and **End date** (e.g., 31 December 2025) for the task series.
+8. Click 'Save' to create the task series.
+9. After the page refreshes, the task series will be created based on the selected frequency. Only the end date can now be changed.
+10. Close the task series tab and refresh the control execution screen to get an overview of the created task series. The task series that was just created will be shown in the section "All control executions" .
+11. Open 'Recent and upcoming' to view the 8 unfinished tasks with the earliest action date and the last 5 tasks finished .
 
 ### Option 2: Creating an On-Event Control Execution Task
 
@@ -100,7 +117,7 @@ To open and execute a task as a responsible:
 8. Fill in the score (e.g., select 'Effective').
 9. Write a comment.
 10. You can save your work using the save button and complete it later.
-11. When you are ready, click on the 'Mark as done' button.\
+11. When you are ready, click on the 'Mark as done' button. In those tasks where a Reviewer is added, the button is called "Ready for review".\
     ![](<../../../.gitbook/assets/image (8).png>)
 12. The responsible has now completed the task.
 
@@ -117,11 +134,20 @@ To review a task:
 3. The task will open and its status will be 'Ready for review'.
 4. The reviewer has read-only rights and can only reject or accept the task.\
    ![](<../../../.gitbook/assets/image (9).png>)
-5. **If rejecting the task:** The status of the task will change to 'rejected', and the responsible will be notified by email. The responsible must then execute/update the task again.
-6. **To accept the task:**
-   * Click on 'Accept'.
-   * Fill in a comment.
-7. The status of the task will change to 'done', and the responsible will be notified by email that the task has been accepted by the reviewer.
-8. The reviewer has the option to reopen the task. If the task is reopened, it will revert one step back in the workflow to be handled by the reviewer. The responsible will also be informed by email that the task has been re-opened.
-9. In a scenario where no reviewer has been selected for the task, the responsible can reopen the task if needed.
+5. **To Reject the task:**&#x20;
+
+* Click on "Reject" button
+* Writing a comment is required
+
+The status of the task will change to 'rejected', The responsible will be notified by email. The comment will be added in the mail and will show above the task to be redone by the responsible.
+
+6. **To Accept the task:**
+
+* Click on "Accept" button
+* Writing a comment is optional
+
+The status of the task will change to 'done', and the responsible will be notified by email that the task has been accepted by the reviewer, the comment (if there's one) will display above the task.
+
+7. The reviewer has the option to reopen the task. If the task is reopened, it will revert one step back in the workflow to be handled by the reviewer. Comment is required when reopening. The responsible will also be informed by email that the task has been re-opened.
+8. In a scenario where no reviewer has been selected for the task, the responsible can reopen the task if needed.
 
