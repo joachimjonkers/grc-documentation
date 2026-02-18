@@ -49,7 +49,6 @@
 * [Import Templates](best-practices-and-guides/import-templates.md)
 * [Video Tutorials](best-practices-and-guides/video-tutorials.md)
 * [User Training](best-practices-and-guides/user-training/README.md)
-  * [Controls](best-practices-and-guides/user-training/controls.md)
   * [Control Testing](best-practices-and-guides/user-training/control-testing.md)
   * [Incidents](best-practices-and-guides/user-training/incidents.md)
 
