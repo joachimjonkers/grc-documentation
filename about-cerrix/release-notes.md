@@ -8,6 +8,34 @@ For insight into our release schedule for acceptance and production, please refe
 The release notes are published shortly before a new release to the acceptance environment.
 {% endhint %}
 
+## ACC: 4 March 2026, PRD: 18 March 2026
+
+#### Tasks
+
+*   **Task Series overview of created tasks**&#x20;
+
+    In a Task series, a new "Tasks" option has been added to linked items. This allows you to quickly view the set of Tasks created or updated whenever a Task series is created or modified.
+
+#### Incidents
+
+*   **Reporter can upload documents and hyperlinks**
+
+    A reporter now can add documents and hyperlinks after the incident is created.&#x20;
+
+#### **Third party**
+
+Third parties and Contracts registered in other systems can now be made available within the CERRIX application through a newly introduced API.
+
+* **POST API: Create Third Party**\
+  A POST API is created for adding Third parties into CERRIX, including custom fields.&#x20;
+* **POST API: Create Third Party Contract**\
+  A POST API is created for adding Third parties Contracts into CERRIX, including custom fields.
+
+#### **KRI**
+
+* **Direct data GET API** \
+  Direct Data GET APIs are now available for obtaining all KRIs and all KRI Data values
+
 ## ACC: 11 February 2026, PRD: 25 February 2026
 
 #### Tasks
