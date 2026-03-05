@@ -30,6 +30,7 @@
   * [Key Risk Indicators (KRI's)](cerrix-functionalities/module-overview/key-risk-indicators-kris.md)
   * [Audit](cerrix-functionalities/module-overview/audit.md)
   * [Process Management](cerrix-functionalities/module-overview/process-management.md)
+  * [Business Assessment](cerrix-functionalities/module-overview/business-assessment.md)
 * [Roles, Rights and Permissions](cerrix-functionalities/roles-rights-and-permissions.md)
 * [Admin Settings](cerrix-functionalities/admin-settings/README.md)
   * [External Connections](cerrix-functionalities/admin-settings/external-connections.md)

@@ -30,7 +30,7 @@ Execution-based testing is configured within the control test plan.
 2. Ensure the **test period** matches a period in which execution tasks are scheduled.
 3. On the second page: **Sample Generation**, enable the option: **Use control execution**
 
-![](<../../../.gitbook/assets/Unknown image>)
+![](<../../../.gitbook/assets/Unknown image (13)>)
 
 This activates the automatic collection of execution tasks for the test source.
 
@@ -51,7 +51,7 @@ These follow the standard CERRIX test workflow, but with additional execution-ba
 
 When execution-based testing is enabled, CERRIX automatically loads all execution tasks planned within the test period.
 
-![A screenshot of a computer AI-generated content may be incorrect.](<../../../.gitbook/assets/Unknown image (1)>)
+![A screenshot of a computer AI-generated content may be incorrect.](<../../../.gitbook/assets/Unknown image (1) (1)>)
 
 #### **What you will see:**
 
@@ -72,13 +72,13 @@ The source uploader only needs to provide the **sample size**. After sample gene
 
 ### Evidence Upload
 
-The evidence uploader sees all selected samples, each corresponding to a specific control execution. For example: ![](<../../../.gitbook/assets/Unknown image (2)>)
+The evidence uploader sees all selected samples, each corresponding to a specific control execution. For example: ![](<../../../.gitbook/assets/Unknown image (2) (1)>)
 
 #### **Automatic evidence linking**
 
 If the control execution includes evidence, this evidence is automatically copied into the sample.
 
-Linked evidence is marked with a **link icon**, indicating that it originated from a control execution rather than a manual upload. For example: ![](<../../../.gitbook/assets/Unknown image (3)>)
+Linked evidence is marked with a **link icon**, indicating that it originated from a control execution rather than a manual upload. For example: ![](<../../../.gitbook/assets/Unknown image (3) (1)>)
 
 #### **Situations the evidence uploader may encounter**
 
