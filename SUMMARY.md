@@ -74,3 +74,4 @@
   * [Corporate Social Responsibility](about-cerrix/trust-and-compliance/corporate-social-responsibility.md)
 * [Root Cause Analysis](about-cerrix/root-cause-analysis/README.md)
   * [RCA P1 Incident 2025-07-09](about-cerrix/root-cause-analysis/rca-p1-incident-2025-07-09.md)
+  * [RCA P2 Incident 2026-02-25](about-cerrix/root-cause-analysis/rca-p2-incident-2026-02-25.md)
