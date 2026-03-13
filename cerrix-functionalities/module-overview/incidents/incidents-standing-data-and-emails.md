@@ -17,8 +17,7 @@ Prefer to watch instead of read? Have a look at our [#incidents](../../../best-p
 Incident Standing Data is located within the **Incident Workspace** in CERRIX.
 
 1. Navigate to **Incidents** from your main menu.
-2. On the Incident Workspace, locate and click on the **Standing Data** in t
-3. he left hand menu.
+2. On the Incident Workspace, locate and click on the **Standing Data** in the left hand menu.
 
 <figure><img src="../../../.gitbook/assets/image (14).png" alt=""><figcaption></figcaption></figure>
 
